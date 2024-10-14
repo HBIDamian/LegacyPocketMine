@@ -27,8 +27,6 @@ If you wish to contribute to this project, please keep the following in mind:
 6. Have fun, yet be sensible.
 
 ## Live View: 
-As I haven't set up GH Pages yet, i've opted to self host it for now. 
-
 You can see the work over at the following links:
-- https://trinculo.xyz/projects/pmmp/legacy/
-- https://trinculo.xyz/projects/pmmp/legacy/servers.html
+- https://hbidamian.github.io/LegacyPocketMine/
+- https://hbidamian.github.io/LegacyPocketMine/servers.html
