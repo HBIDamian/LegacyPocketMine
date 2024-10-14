@@ -1,0 +1,1272 @@
+@CHARSET "UTF-8";
+
+/* --- discussion_list.css --- */
+
+.discussionList
+{
+	position: relative;
+	zoom: 1;
+}
+
+/** column style and width **/
+
+.discussionList .sectionHeaders,
+.discussionListItem
+{
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	word-wrap: normal;
+}
+
+	.discussionList .sectionHeaders dt,
+	.discussionList .sectionHeaders dd,
+	.discussionListItem .listBlock
+	{
+		display: table-cell;
+		vertical-align: middle;
+	}
+	
+		.discussionList .posterAvatar
+		{
+			width: 52px;
+		}
+		
+		.discussionList .main
+		{
+			width: auto;
+		}
+
+			.discussionList .sectionHeaders .main .postDate
+			{
+				text-align: right;
+			}
+		
+		.discussionList .stats
+		{
+			width: 140px;
+		}
+			
+			.discussionList .sectionHeaders .stats .minor
+			{
+				text-align: right;
+			}
+		
+		.discussionList .lastPost
+		{
+			width: 150px;
+			text-align: right;
+			overflow: hidden;
+		}
+		
+		.discussionList .statsLastPost /* combined last two columns */
+		{
+			width: 290px;
+		}
+	
+
+/* column headers */
+
+.discussionList .sectionHeaders
+{	
+	font-size: 11px;
+color: rgb(255, 255, 255);
+background-image: url('../../images/forum/nodelist-bg.png');
+background-repeat: repeat-x;
+background-position: top;
+padding: 5px 10px;
+margin: 3px auto 0;
+border: 1px solid #999;
+text-shadow: 0 0 0 transparent,0 0 2px #000;
+
+	
+	padding: 0;
+}
+
+	.discussionList .sectionHeaders dt span
+	{
+		display: none !important;
+	}
+		
+	.discussionList .sectionHeaders a
+	{
+		display: block;
+		color: rgb(255, 255, 255);
+		outline: none;
+	}
+	
+	.discussionList .sectionHeaders a:hover
+	{
+		text-decoration: none;
+	}
+			
+	.discussionList .sectionHeaders dd a[href]:hover
+	{
+		text-decoration: none;
+background: url(../../images/forum/rgba.png); background: rgba(255, 255, 255, 0.2); _filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#33FFFFFF,endColorstr=#33FFFFFF);
+
+	}
+		
+	.discussionList .sectionHeaders .main a,
+	.discussionList .sectionHeaders .stats a
+	{
+		float: left;
+		width: 50%;
+		white-space: nowrap;
+	}
+	
+		.discussionList .sectionHeaders a span
+		{
+			padding: 5px 10px;
+			display: block;
+		}
+		
+/** IE <8 **/
+.discussionList .sectionHeaders,
+.discussionListItem                { *display: block; _vertical-align: bottom; }
+.discussionList .sectionHeaders dt,
+.discussionList .sectionHeaders dd,
+.discussionListItem .listBlock     { *display: block; *float: left; }
+.discussionListItem .listBlock     { _height: 52px; *min-height: 52px; } /* todo: should be calculation */
+.discussionList .posterAvatar      { *width: 6.98%; }
+.discussionListItem .posterAvatar  { *font-size: 0; }	
+.discussionList .main              { *width: 56.98%; }
+.discussionList .stats             { *width: 15.97%; }	
+.discussionList .lastPost          { *width: 19.97%; }
+.discussionList .statsLastPost     { *width: 35.97%; }
+.discussionList .sectionHeaders dt,
+.discussionList .sectionHeaders dd { *padding: 5px 0; }
+.discussionList .sectionHeaders a,
+.discussionList .sectionHeaders a span { *display: inline !important; *float: none !important; }
+
+/* items in thread list */
+
+.discussionListItems
+{
+}
+
+
+
+	
+/* individual thread list item */
+	
+/** main **/
+
+.discussionListItem
+{
+	background-color: rgb(255, 255, 255);
+	
+	border-bottom: 1px solid rgb(237, 237, 237);
+}
+
+
+
+
+
+	/* sections, section widths */
+	
+		.discussionListItem .posterAvatar,		
+		.discussionListItem .stats
+		{
+			background-color: rgb(243, 243, 243);
+background-position: top;
+		}
+		
+		.discussionListItem .main,
+		.discussionListItem .lastPost
+		{
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+	/* avatar section */
+	
+	.discussionListItem .posterAvatar .avatarContainer
+	{
+		display: block;
+		position: relative;
+	}
+	
+	.discussionListItem .posterAvatar .avatar
+	{
+		padding: 5px;
+display: block;
+width: 36px;
+height: 36px;
+
+		
+		width: auto;
+		height: auto;
+	}
+	
+		.discussionListItem .posterAvatar .avatar img
+		{
+			width: 36px;
+			height: 36px;
+			display: block;
+		}
+		
+		.discussionListItem .posterAvatar .miniMe
+		{
+			padding: 0;
+position: absolute;
+bottom: 1px;
+left: 29px;
+z-index: 10;
+
+		}
+		
+			.discussionListItem .posterAvatar .miniMe img
+			{
+				padding: 1px;
+border: 1px none black;
+-webkit-border-radius: 2px; -moz-border-radius: 2px; -khtml-border-radius: 2px; border-radius: 2px;
+-webkit-box-shadow: 1px 1px 5px rgba(0,0,0, 0.5); -moz-box-shadow: 1px 1px 5px rgba(0,0,0, 0.5); -khtml-box-shadow: 1px 1px 5px rgba(0,0,0, 0.5); box-shadow: 1px 1px 5px rgba(0,0,0, 0.5);
+width: 20px;
+height: 20px;
+				
+			}		
+		
+		
+	/* title, poster section */
+	
+	.discussionListItem .titleText
+	{
+		padding: 5px;
+		overflow: hidden; zoom: 1;
+		position: relative;
+	}
+	
+		/* unread indicator */
+		
+		.LoggedIn .discussionListItem .titleText
+		{			
+			padding-left: 20px;
+		}
+		
+		.LoggedIn .discussionListItem .unreadLink,
+		.LoggedIn .discussionListItem .ReadToggle
+		{
+			display: block;
+			width: 10px;
+			height: 10px;
+			
+			position: absolute;
+			left: 5px;
+			top: 10px;
+			
+			background: url('../../images/forum/xenforo-ui-sprite.png') no-repeat 10000px 0;
+			
+			white-space: nowrap;
+			overflow: hidden;
+			text-indent: 9999px;
+		}
+		
+			.LoggedIn .discussionListItem .unreadLink,
+			.LoggedIn .discussionListItem.unread .ReadToggle
+			{
+				background-position: -5px -42px;
+			}
+		
+			.LoggedIn .discussionListItem .ReadToggle:hover
+			{
+				background-position: -25px -42px;
+			}
+	
+		/* first row */
+	
+		.discussionListItem .title
+		{
+			font-size: 11pt;
+line-height: 18px;
+
+			max-width: 100%;
+			word-wrap: break-word;
+		}
+		
+			.discussionListItems .unread .title a
+			{
+				font-weight: bold;
+/*padding-right: 18px;
+				background: transparent url('../../images/forum/discussion-new.png') no-repeat right center;*/
+
+			}
+			
+		
+		.discussionListItem .iconKey span
+		{
+			margin-left: 5px;
+text-indent: -10000em;
+float: right;
+background: transparent url('../../images/forum/xenforo-ui-sprite.png') no-repeat 10000px 0;
+width: 16px;
+height: 16px;
+
+		}
+			
+			.discussionListItem .iconKey .sticky    { background-position:   0px -16px; }
+			.discussionListItem .iconKey .starred   { background-position: -90px -32px; width: 18px; height: 18px; }
+			.discussionListItem .iconKey .watched   { background-position: -144px -16px; width: 16px; height: 16px; }
+			.discussionListItem .iconKey .locked    { background-position: -16px -16px; }
+			.discussionListItem .iconKey .moderated { background-position: -32px -16px; }
+			.discussionListItem .iconKey .redirect  { background-position: -48px -16px; }
+			.discussionListItem .iconKey .new       { background-position: -64px -16px; }
+		
+		/* second row */
+		
+		.discussionListItem .secondRow
+		{
+			font-size: 11px;
+
+			clear: both;
+		}
+		
+			.discussionListItem .secondRow .controls
+			{
+				float: right;
+				padding-left: 20px;
+			}
+				
+				.discussionListItem.AjaxProgress .controls
+				{
+					background: transparent url('../../images/forum/ajaxload.info_B4B4DC_facebook.gif') no-repeat left center;
+				}
+			
+			.discussionListItem .posterDate
+			{
+				float: left;
+			}
+			
+			
+			
+	/* stats section */
+	
+	.discussionListItem .stats dl
+	{
+		padding: 0 10px;
+		border-left: 1px solid rgb(237, 237, 237);
+		border-right: 1px solid rgb(237, 237, 237);
+	}
+		.discussionListItem .stats .major
+		{
+			font-size: 11pt;
+line-height: 18px;
+
+			
+			margin-top: 5px;
+		}
+			
+		.discussionListItem .stats .minor
+		{
+			font-size: 11px;
+
+			
+			margin-bottom: 5px;
+		}
+			
+	/* last post section */
+	
+	.discussionListItem .lastPostInfo
+	{
+		padding: 5px;
+	}
+	
+		.discussionListItem .lastPostInfo .username
+		{
+			font-size: 11pt;
+line-height: 18px;
+
+		}
+		
+	
+			.discussionListItems .unread .lastPostInfo .username
+			{
+				font-weight: bold;
+/*padding-right: 18px;
+				background: transparent url('../../images/forum/discussion-new.png') no-repeat right center;*/
+
+			}
+		
+		.discussionListItem .lastPostInfo .dateTime
+		{
+			font-size: 11px;
+
+		}
+
+
+/* extra note row */
+
+.discussionListItem .noteRow
+{
+	background-color: rgb(255, 255, 255);
+	padding: 5px;
+	text-align: center;
+	font-size: 11px;
+	color: #1061b3;
+}
+
+
+
+
+/* deleted item */
+
+.discussionList .discussionListItem.deleted
+{
+}
+
+	.discussionList .discussionListItem.deleted .avatar img
+	{
+		opacity: 0.5;
+		filter: alpha(opacity='50');
+	}
+		
+	.discussionList .discussionListItem.deleted .deletionNote
+	{
+		float: left;
+		color: rgb(150,0,0);
+	}
+		
+/* moderated item */
+
+.discussionList .discussionListItem.moderated .listBlock
+{
+	background-color: rgb(255, 255, 255);
+}
+
+		
+		
+		
+		
+		
+			
+/* inline mod selected/checked classes */
+
+.discussionListItem.InlineModChecked,
+.discussionListItem.InlineModChecked .posterAvatar,
+.discussionListItem.InlineModChecked .main,
+.discussionListItem.InlineModChecked .stats,
+.discussionListItem.InlineModChecked .lastPost,
+.discussionListItem.deleted.InlineModChecked,
+.discussionListItem.moderated.InlineModChecked
+{
+	background: rgb(255, 255, 200) url('../../images/forum/category-23px-light.png') repeat-x top;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+/** bottom summary **/
+
+.discussionList .sectionFooter
+{
+	overflow: hidden; zoom: 1;
+}
+
+	.discussionList .sectionFooter .contentSummary
+	{
+		float: left;
+		display: block;
+	}
+
+		
+/** thread list options **/
+
+.DiscussionListOptions
+{
+	margin: 10px auto;
+border: 1px solid rgb(205, 205, 205);
+-webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;
+line-height: 20px;
+overflow: hidden;
+zoom: 1;
+
+}
+
+.hasJs .DiscussionListOptions
+{
+	display: none;
+}
+
+	.DiscussionListOptions dl,
+	.DiscussionListOptions .controlGroup
+	{
+		float: left;
+		margin-right: 10px;
+		
+		overflow: hidden; zoom: 1;
+	}
+	
+		.DiscussionListOptions dt
+		{
+			float: left;
+		}
+		
+		.DiscussionListOptions dd
+		{
+			margin-left: 120px;
+		}
+		
+	.DiscussionListOptions .buttonGroup
+	{
+		float: right;
+	}
+	
+		.DiscussionListOptions .buttonGroup input
+		{
+			min-width: 75px;
+		}
+	
+#DiscussionListOptionsHandle
+{
+	position: absolute;
+bottom: -21px;
+line-height: 20px;
+text-align: center;
+right: 50%;
+white-space: nowrap;
+
+}
+	
+	#DiscussionListOptionsHandle a
+	{
+		font-size: 11px;
+color: rgb(205, 205, 205);
+background-color: rgb(255, 255, 255);
+padding: 0 20px;
+margin: 0 auto;
+border: 1px solid rgb(187, 187, 187);
+border-top: 1px none black;
+-webkit-border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -khtml-border-bottom-right-radius: 6px; border-bottom-right-radius: 6px;
+-webkit-border-bottom-left-radius: 6px; -moz-border-radius-bottomleft: 6px; -khtml-border-bottom-left-radius: 6px; border-bottom-left-radius: 6px;
+display: inline-block;
+outline: 0;
+position: relative;
+right: -50%;
+
+	}
+	
+.afterDiscussionListHandle
+{
+	margin-top: 20px;
+}
+	
+/** item page nav **/
+
+.discussionListItem .itemPageNav
+{
+	
+}
+
+.discussionListItem:hover .itemPageNav,
+.Touch .discussionListItem .itemPageNav
+{
+	visibility: visible;
+}
+
+	.itemPageNav a,
+	.itemPageNav span
+	{
+		font-size: 9px;
+padding: 0 3px;
+-webkit-border-radius: 3px; -moz-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;
+display: inline-block;
+text-align: center;
+
+	}
+	
+	.itemPageNav a
+	{
+		color: #999;
+background: rgb(255, 255, 255) url('../../images/forum/category-23px-light.png') repeat-x;
+border: 1px solid rgb(207, 207, 207);
+
+	}
+	
+	.itemPageNav a:hover
+	{
+		color: #999;
+text-decoration: none;
+background-color: rgb(207, 207, 207);
+border-color: #2096e1;
+
+	}
+
+/** filters **/
+		
+.discussionListFilters
+{
+	font-size: 11px;
+	overflow: hidden; zoom: 1;
+}
+
+	.discussionListFilters .filtersHeading
+	{
+		float: left;
+		margin-right: 5px;
+		color: #6cb2e4;
+		font-weight: bold;
+	}
+	
+	.discussionListFilters .removeFilter,
+	.discussionListFilters .removeAllFilters
+	{
+		color: #1061b3;
+		background: rgb(237, 237, 237) url('../../images/forum/form-button-white-25px.png') repeat-x top;
+		border: 1px solid rgb(237, 237, 237);
+		-webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;
+		padding: 2px 10px;
+	}
+	
+		.discussionListFilters .gadget
+		{
+			color: #6cb2e4;
+			font-weight: bold;
+			margin-left: 3px;
+		}
+
+	
+		.discussionListFilters .removeFilter:hover,
+		.discussionListFilters .removeAllFilters:hover
+		{
+			background-color: rgb(243, 243, 243);
+			text-decoration: none;
+			color: rgb(150,150,150);
+			-webkit-box-shadow: 1px 1px 5px rgba(0,0,0, 0.15); -moz-box-shadow: 1px 1px 5px rgba(0,0,0, 0.15); -khtml-box-shadow: 1px 1px 5px rgba(0,0,0, 0.15); box-shadow: 1px 1px 5px rgba(0,0,0, 0.15);
+		}
+		
+	.discussionListFilters .pairsInline dt
+	{
+		display: none;
+	}
+	
+	.discussionListFilters .filterPairs
+	{
+		float: left;
+	}
+	
+	.discussionListFilters .removeAll
+	{
+		float: right;
+	}
+	
+		.discussionListFilters .removeAllFilters
+		{
+			padding: 2px 6px;
+		}
+
+
+@media (max-width:610px)
+{
+	.Responsive .discussionList .sectionHeaders .stats
+	{
+		display: none;
+	}
+	
+	.Responsive .discussionList .sectionHeaders .main .title
+	{
+		float: none;
+		width: auto;
+	}
+	
+	.Responsive .discussionList .sectionHeaders .main .postDate
+	{
+		display: none;
+	}
+	
+	.Responsive .discussionList .statsLastPost
+	{
+		display: none;
+	}
+
+	.Responsive .discussionListItem .listBlock.main,
+	.Responsive .discussionListItem .listBlock.stats,
+	.Responsive .discussionListItem .listBlock.lastPost
+	{
+		display: block;
+	}
+	
+	.Responsive .discussionListItem .listBlock.stats
+	{
+		float: left;
+		width: auto;
+		margin-top: -5px;
+		border: none;
+		background: none;
+		padding-left: 5px;
+	}
+	
+		.Responsive.LoggedIn .discussionListItem .listBlock.stats
+		{			
+			padding-left: 20px;
+		}
+	
+		.Responsive .discussionListItem .listBlock.stats dl
+		{
+			border: none;
+			padding: 0;
+		}
+		
+		.Responsive .discussionListItem .listBlock.stats dd,
+		.Responsive .discussionListItem .listBlock.stats dt
+		{
+			float: none;
+			display: inline;
+		}
+	
+		.Responsive .discussionListItem .listBlock.stats .minor
+		{
+			display: none;
+		}
+		
+		.Responsive .discussionListItem .listBlock.stats .major
+		{
+			font-size: 11px;
+			margin-top: 0;
+		}
+	
+	.Responsive .discussionListItem .listBlock.lastPost
+	{
+		float: right;
+		width: auto;
+		margin-top: -5px;
+	}
+		.Responsive .discussionListItem .listBlock.lastPost .lastPostInfo
+		{
+			padding-top: 0;
+			padding-bottom: 0;
+		}
+	
+		.Responsive .discussionListItem .listBlock.lastPost dt
+		{
+			display: none;
+		}
+}
+
+@media (max-width:768px)
+{
+	.Responsive .discussionList .sectionHeaders .lastPost,
+	.Responsive .discussionList .lastPost
+	{
+		width: 125px;
+	}
+}
+
+@media (max-width:480px)
+{
+	.Responsive .discussionListItem .secondRow .startDate,
+	.Responsive .discussionListItem .secondRow .EditControl
+	{
+		display: none;
+	}
+}
+
+
+/* --- facebook.css --- */
+
+a.fbLogin,
+#loginBar a.fbLogin
+{
+	display: inline-block;
+	width: 180px;
+	height: 22px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;
+	cursor: pointer;
+	
+	background: #29447e url('../../images/forum/connect_sprite.png');
+	background-repeat: no-repeat;
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;
+	background-position: left -188px;
+	padding: 0px 0px 0px 1px;
+	outline: none;
+	
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 14px;
+}
+
+a.fbLogin:active,
+#loginBar a.fbLogin:active
+{
+	background-position: left -210px;
+}
+
+a.fbLogin:hover,
+#loginBar a.fbLogin:hover
+{
+	text-decoration: none;
+}
+
+	a.fbLogin span
+	{
+		background: #5f78ab url('../../images/forum/connect_sprite.png');
+		border-top: solid 1px #879ac0;
+		border-bottom: solid 1px #1a356e;
+		display: block;
+		padding: 2px 4px 3px;
+		margin: 1px 1px 0px 21px;
+		text-shadow: none;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+
+	a.fbLogin:active span
+	{
+		border-bottom: solid 1px #29447e;
+		border-top: solid 1px #45619d;
+		background: #4f6aa3;
+		text-shadow: none;
+	}
+
+/* --- google.css --- */
+
+.googleLogin,
+#loginBar .googleLogin
+{
+	display: inline-block;
+	width: 180px;
+	height: 22px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;
+	cursor: pointer;
+	
+	background-color: #dd4b39;
+	border: #be3e2e solid 1px;
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;
+	padding-left: 2px;
+	
+	color: white;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 14px;
+}
+
+	.googleLogin span
+	{
+		display: block;
+		background: url('../../images/forum/gplus.png') no-repeat;
+		background-position: left 0;
+		padding: 3px;
+		padding-left: 23px;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+
+.googleLogin:active,
+#loginBar .googleLogin:active
+{
+	background-color: #be3e2e;
+}
+
+/* --- login_bar.css --- */
+
+/** Login bar basics **/
+
+#loginBar
+{
+	color: rgb(205, 205, 205);
+background: #1b1b1b url('../../images/forum/nodelist-bg-darker.png') repeat top;
+border-bottom: 1px solid #3CB2E3;
+position: relative;
+z-index: 1;
+
+}
+
+	#loginBar .ctrlWrapper
+	{
+		margin: 0 10px;
+	}
+
+	#loginBar .pageContent
+	{
+		padding-top: 5px;
+		position: relative;
+		_height: 0px;
+	}
+
+	#loginBar a
+	{
+		color: #6cb2e4;
+
+	}
+
+	#loginBar form
+	{
+		padding: 5px 0;
+margin: 0 auto;
+display: none;
+line-height: 20px;
+position: relative;
+
+	}
+	
+		#loginBar .xenForm .ctrlUnit,		
+		#loginBar .xenForm .ctrlUnit > dt label
+		{
+			margin: 0;
+			border: none;
+		}
+	
+		#loginBar .xenForm .ctrlUnit > dd
+		{
+			position: relative;
+		}
+	
+	#loginBar .lostPassword,
+	#loginBar .lostPasswordLogin
+	{
+		font-size: 11px;
+	}
+	
+	#loginBar .rememberPassword
+	{
+		font-size: 11px;
+	}
+
+	#loginBar .textCtrl
+	{
+		color: rgb(243, 243, 243);
+background-color: #999;
+border-color: rgb(207, 207, 207);
+
+	}
+	
+	#loginBar .textCtrl[type=text]
+	{
+		font-weight: bold;
+font-size: 18px;
+
+	}
+
+	#loginBar .textCtrl:-webkit-autofill /* http://code.google.com/p/chromium/issues/detail?id=1334#c35 */
+	{
+		background: #999 !important;
+		color: rgb(243, 243, 243);
+	}
+
+	#loginBar .textCtrl:focus
+	{
+		background: black none;
+
+	}
+	
+	#loginBar input.textCtrl.disabled
+	{
+		color: rgb(205, 205, 205);
+background-color: #323232;
+border-style: dashed;
+
+	}
+	
+	#loginBar .button
+	{
+		min-width: 85px;
+		*width: 85px;
+	}
+	
+		#loginBar .button.primary
+		{
+			font-weight: bold;
+		}
+		
+/** changes when eAuth is present **/
+
+#loginBar form.eAuth
+{
+	-x-max-width: 700px; /* normal width + 170px */
+}
+
+	#loginBar form.eAuth .ctrlWrapper
+	{
+		border-right: 1px dotted #1061b3;
+		margin-right: 200px;
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;
+	}
+
+	#loginBar form.eAuth #eAuthUnit
+	{
+		position: absolute;
+		top: 0px;
+		right: 10px;
+	}
+
+		#eAuthUnit li
+		{
+			margin-top: 10px;
+			line-height: 0;
+		}
+	
+/** handle **/
+
+#loginBar #loginBarHandle
+{
+	font-size: 11px;
+color: #FFF;
+background: #1b1b1b url('../../images/forum/nodelist-bg-darker.png') repeat top;
+padding: 0 10px;
+margin-right: 20px;
+-webkit-border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -khtml-border-bottom-right-radius: 6px; border-bottom-right-radius: 6px;
+-webkit-border-bottom-left-radius: 6px; -moz-border-radius-bottomleft: 6px; -khtml-border-bottom-left-radius: 6px; border-bottom-left-radius: 6px;
+position: absolute;
+right: 0px;
+bottom: -20px;
+text-align: center;
+z-index: 1;
+line-height: 20px;
+-webkit-box-shadow: 0px 2px 4px rgba(0,0,0,.2); -moz-box-shadow: 0px 2px 4px rgba(0,0,0,.2); -khtml-box-shadow: 0px 2px 4px rgba(0,0,0,.2); box-shadow: 0px 2px 4px rgba(0,0,0,.2);
+
+}
+
+
+@media (max-width:768px)
+{
+	.Responsive #loginBar form.eAuth .ctrlWrapper
+	{
+		border-right: none;
+		margin-right: 10px;
+	}
+
+	.Responsive #loginBar form.eAuth #eAuthUnit
+	{
+		position: static;
+		width: 180px;
+		margin: 0 auto 10px;
+	}
+}
+
+
+/* --- nat_public_css.css --- */
+
+.natMenuLevel0
+{
+	padding-left: 0px;
+}
+
+.natMenuLevel1
+{
+	padding-left: 10px;
+}
+
+.natMenuLevel2
+{
+	padding-left: 20px;
+}
+
+.natMenuLevel3
+{
+	padding-left: 30px;
+}
+
+.natMenuLevel4
+{
+	padding-left: 40px;
+}
+
+.natMenuLevel5
+{
+	padding-left: 50px;
+}
+
+.natMenuLevel6
+{
+	padding-left: 60px;
+}
+
+.natMenuLevel7
+{
+	padding-left: 70px;
+}
+
+.natMenuLevel8
+{
+	padding-left: 80px;
+}
+
+.natMenuLevel9
+{
+	padding-left: 90px;
+}
+
+.natMenuLevel10
+{
+	padding-left: 100px;
+}
+
+
+
+/* STYLING TO MAKE COLUMN MENUS WORK */
+div.natJSMenuColumns
+{
+	background-color: rgb(243, 243, 243);
+background-position: top;
+	background-color: rgba(243, 243, 243, 0.96);
+}
+
+/* STYLING TO MAKE COLUMN MENUS WORK */
+div.natJSMenuColumns ul
+{
+	float: left;
+	border-bottom: 0px;
+	background-color: transparent !important;
+	max-height: none !important;
+}
+
+
+
+
+
+
+
+/* --- twitter.css --- */
+
+a.twitterLogin,
+#loginBar a.twitterLogin
+{
+	display: inline-block;
+	width: 180px;
+	height: 22px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;
+	cursor: pointer;
+	
+	background-color: #eee;
+	background-image: -webkit-linear-gradient(#fff, #dedede);
+	background-image: linear-gradient(#fff, #dedede);
+	border: #ccc solid 1px;
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;
+	padding: 3px;
+	
+	color: #333 !important;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 14px;
+}
+
+	a.twitterLogin span
+	{
+		display: block;
+		background: url('../../images/forum/twitter-bird.png') no-repeat;
+		background-position: left 0;
+		padding-left: 22px;
+		text-shadow: 0 1px 0 rgba(255,255,255,.5);
+		white-space: nowrap;
+		overflow: hidden;
+	}
+	
+a.twitterLogin:hover,
+#loginBar a.twitterLogin:hover,
+a.twitterLogin:active,
+#loginBar a.twitterLogin:active
+{
+	border-color: #d9d9d9;
+	background-image: -webkit-linear-gradient(#f8f8f8, #d9d9d9);
+	background-image: linear-gradient(#f8f8f8, #d9d9d9);
+	text-decoration: none;
+}
+
+/* --- waindigo_thread_list_thumbnails.css --- */
+
+.discussionListItem .posterAvatar, .article .posterAvatar
+{
+	width: 272px;
+}
+
+.nodeInfo .posterAvatar, .article .posterAvatar {
+    float: left;
+}
+
+.posterAvatar .thumbContainer {
+	display: block;
+	position: relative;
+}
+
+.nodeInfo .posterAvatar .thumbContainer, .article .posterAvatar .thumbContainer {
+    padding: 5px;
+}
+
+.discussionListItem .posterAvatar .thumb
+{
+	padding: 5px;
+	display: block;
+}
+
+.posterAvatar .thumb span
+{
+	display: block;
+}
+
+a.thumb
+{ 
+	cursor: pointer; /* IE7 refuses to do this */ 
+} 
+
+.thumb span.img
+{
+	background-color: rgb(252, 252, 255);
+	padding: 2px;
+	border: 1px solid #a5cae4;
+	-webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px;
+
+}
+
+.ThumbnailsContainer .thumb span.img
+{
+	float: left;
+	margin: 0 5px 5px 0;
+}
+
+.searchResult .thumb {
+	float: left;
+	margin: 5px 0;
+}
+
+
+
+.sidebar .avatarList .thumb {
+	margin-right: 5px;
+	float: left;
+	width: 32px;
+	height: 32px;
+	width: auto;
+	height: auto;
+}
+
+/* CSS returned from cache. */
+/*
+     FILE ARCHIVED ON 23:27:24 Sep 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:42:56 Oct 14, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.816
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.019
+  esindex: 0.012
+  cdx.remote: 8.955
+  LoadShardBlock: 71.429 (3)
+  PetaboxLoader3.datanode: 76.483 (4)
+  load_resource: 80.365
+  PetaboxLoader3.resolve: 72.682
+*/
