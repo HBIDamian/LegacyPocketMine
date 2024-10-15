@@ -10,8 +10,6 @@
     });
     observer.observe({ type: "navigation", buffered: true });
   </script>
-
-
   <meta charset="utf-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,27 +41,27 @@
         <li class="sidebar-brand clearfix">
           <img src="https://web.archive.org/web/20160419094601im_/http://stats.pocketmine.net/static/favicon.ico"
             width="32" class="pull-left img-responsive" style="margin-left: 15px; margin-top: 15px;" />
-          <a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/"> PocketMine Stats</a>
+          <a href="./stats.html"> PocketMine Stats</a>
         </li>
-        <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/"><i class="fa fa-home"></i>
+        <li><a href="./"><i class="fa fa-home"></i>
             Home</a>
         </li>
-        <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/plugins"><i
+        <!-- <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/plugins"><i
               class="fa fa-list-alt"></i> Plugins</a>
         </li>
         <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/servers"><i
               class="fa fa-server"></i> Servers</a>
-        </li>
+        </li> -->
         <!--<li><a href="/developers"><i class="fa fa-user"></i> Developers</a>
                 </li>-->
 
         <!--<li><a href="/login"><i class="fa fa-sign-in"></i> Login</a>
                 </li>-->
 
-        <li><a
+        <!-- <li><a
             href="https://web.archive.org/web/20160419094601/https://kiwiirc.com/client/irc.freenode.net/pocketmine"><i
               class="fa fa-weixin"></i> #pocketmine on FreeNode</a>
-        </li>
+        </li> -->
       </ul>
     </div>
 
@@ -108,7 +106,7 @@
       $(function () {
         
         $.getJSON('assets/api/getGlobalStats.json', function (json) {
-          alert(json);
+          // alert(json);
           delete json["data"]["global"];
           y1 = [];
           y2 = [];
