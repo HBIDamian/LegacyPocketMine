@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script>
+    const observer = new PerformanceObserver((list) => {
+      list.getEntries().forEach((entry) => {
+        console.log('%o', entry);
+      })
+    });
+    observer.observe({ type: "navigation", buffered: true });
+  </script>
+
+
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="./assets/images/stats/favicon.ico">
+
+  <title>PocketMine Stats</title>
+  <link href="./assets/css/stats/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/stats/jquery-ui.css" />
+  <link href="./assets/css/stats/font-awesome.min.css" rel="stylesheet">
+  <link href="./assets/css/stats/main.css" rel="stylesheet">
+  <script src="./assets/javascript/stats/jquery.min.js"></script>
+  <script src="./assets/javascript/stats/jquery-ui.min.js"></script>
+  <script src="./assets/javascript/stats/bootstrap.min.js"></script>
+  <script src="./assets/javascript/stats/highstock.js"></script>
+  <script src="./assets/javascript/stats/exporting.js"></script>
+  <script src="./assets/javascript/stats/map.js"></script>
+  <script src="./assets/javascript/stats/world.js"></script>
+  <script src="./assets/javascript/stats/list.min.js"></script>
+  <script src="./assets/javascript/stats/main.js"></script>
+
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="sidebar-wrapper">
+      <ul class="sidebar-nav pull-right">
+        <li class="sidebar-brand clearfix">
+          <img src="https://web.archive.org/web/20160419094601im_/http://stats.pocketmine.net/static/favicon.ico"
+            width="32" class="pull-left img-responsive" style="margin-left: 15px; margin-top: 15px;" />
+          <a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/"> PocketMine Stats</a>
+        </li>
+        <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/"><i class="fa fa-home"></i>
+            Home</a>
+        </li>
+        <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/plugins"><i
+              class="fa fa-list-alt"></i> Plugins</a>
+        </li>
+        <li><a href="https://web.archive.org/web/20160419094601/http://stats.pocketmine.net/servers"><i
+              class="fa fa-server"></i> Servers</a>
+        </li>
+        <!--<li><a href="/developers"><i class="fa fa-user"></i> Developers</a>
+                </li>-->
+
+        <!--<li><a href="/login"><i class="fa fa-sign-in"></i> Login</a>
+                </li>-->
+
+        <li><a
+            href="https://web.archive.org/web/20160419094601/https://kiwiirc.com/client/irc.freenode.net/pocketmine"><i
+              class="fa fa-weixin"></i> #pocketmine on FreeNode</a>
+        </li>
+      </ul>
+    </div>
+
+    <div id="page-content-wrapper">
+      <div class="content-header">
+        <h1>
+          <a id="menu-toggle" href="#" class="btn btn-default pull-left"
+            onclick="$('#wrapper').toggleClass('active');"><i class="fa fa-reorder"></i></a> <i class="fa fa-home"></i>
+          Home
+        </h1>
+      </div>
+
+      <div class="page-content inset">
+        <div class="row">
+          <div class="jumbotron text-center">
+            <h1>Stats for Plugins and Servers</h1>
+            <div class="row" id="globalchart">
+              <!--<div class="col-md-6">
+                                <div id="top1">
+                                    Plugin 1
+                                </div>
+                                <br>
+                                <div id="top2">
+                                    Plugin 2
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="top3">
+                                    Plugin 3
+                                </div>
+                                <br>
+                                <div id="top4">
+                                    Plugin 4
+                                </div>
+                            </div>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $(function () {
+        
+        $.getJSON('assets/api/getGlobalStats.json', function (json) {
+          alert(json);
+          delete json["data"]["global"];
+          y1 = [];
+          y2 = [];
+          for (var key in json["data"]) {
+            y1.push([key * 1000, parseInt(json["data"][key]["playercount"])]);
+            y2.push([key * 1000, parseInt(json["data"][key]["servercount"])]);
+          }
+          $('#globalchart').highcharts("StockChart", {
+            chart: {
+              type: "area"
+            },
+            rangeSelector: {
+              buttons: [{
+                type: 'hour',
+                count: 2,
+                text: '2h'
+              }, {
+                type: 'hour',
+                count: 12,
+                text: '12h'
+              }, {
+                type: 'day',
+                count: 1,
+                text: '1d'
+              }, {
+                type: 'week',
+                count: 1,
+                text: '1w'
+              }, {
+                type: 'week',
+                count: 2,
+                text: '2w'
+              }, {
+                type: 'all',
+                text: 'All'
+              }]
+            },
+            title: {
+              text: 'Global PocketMine Statistics'
+            },
+            subtitle: {
+              text: 'Servers and Players by Time'
+            },
+            xAxis: {
+              type: 'datetime',
+              title: {
+                text: 'Time'
+              }
+            },
+            yAxis: [{
+              title: {
+                text: 'Amount'
+              },
+              min: 0
+            }],
+            tooltip: {
+              shared: true,
+              crosshairs: true,
+              pointFormat: '<span style="color:{point.color}">\u25CF</span> {series.name}: <b>{point.y:,.0f}</b><br/>'
+            },
+            credits: {
+              enabled: false
+            },
+            series: [{
+              name: "Players",
+              data: y1
+            }, {
+              name: "Servers",
+              data: y2
+            }]
+          });
+        });
+      });
+    </script>
+
+
+</body>
+
+</html>

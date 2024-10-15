@@ -1,0 +1,7400 @@
+{
+  "data": {
+    "1454210726": {
+      "playercount": "17251",
+      "playerlimit": "9223373045864975233",
+      "servercount": "35898"
+    },
+    "1454212540": {
+      "playercount": "17189",
+      "playerlimit": "9223373045964986484",
+      "servercount": "35917"
+    },
+    "1454214354": {
+      "playercount": "16123",
+      "playerlimit": "9223373045964108077",
+      "servercount": "35427"
+    },
+    "1454216168": {
+      "playercount": "15087",
+      "playerlimit": "9223373045869313821",
+      "servercount": "35482"
+    },
+    "1454217982": {
+      "playercount": "14608",
+      "playerlimit": "9223372045869517726",
+      "servercount": "35650"
+    },
+    "1454219796": {
+      "playercount": "14028",
+      "playerlimit": "9223372045970400598",
+      "servercount": "35540"
+    },
+    "1454221610": {
+      "playercount": "13503",
+      "playerlimit": "9223373045964891675",
+      "servercount": "36025"
+    },
+    "1454223424": {
+      "playercount": "12928",
+      "playerlimit": "9223373045964905429",
+      "servercount": "35994"
+    },
+    "1454225238": {
+      "playercount": "12844",
+      "playerlimit": "9223373045864914230",
+      "servercount": "36058"
+    },
+    "1454227052": {
+      "playercount": "12818",
+      "playerlimit": "9223373052318382258",
+      "servercount": "36251"
+    },
+    "1454228866": {
+      "playercount": "13327",
+      "playerlimit": "9223373052308428474",
+      "servercount": "36286"
+    },
+    "1454230680": {
+      "playercount": "12874",
+      "playerlimit": "9223373054555867311",
+      "servercount": "36448"
+    },
+    "1454232494": {
+      "playercount": "13035",
+      "playerlimit": "9223372054555958424",
+      "servercount": "35564"
+    },
+    "1454234309": {
+      "playercount": "12860",
+      "playerlimit": "9223372052518508773",
+      "servercount": "36668"
+    },
+    "1454236123": {
+      "playercount": "12823",
+      "playerlimit": "9223372052508340228",
+      "servercount": "36764"
+    },
+    "1454237937": {
+      "playercount": "12565",
+      "playerlimit": "9223372052408669005",
+      "servercount": "36858"
+    },
+    "1454239752": {
+      "playercount": "13019",
+      "playerlimit": "18446744088852482226",
+      "servercount": "36909"
+    },
+    "1454241566": {
+      "playercount": "13030",
+      "playerlimit": "9223372054245162964",
+      "servercount": "36871"
+    },
+    "1454243380": {
+      "playercount": "13625",
+      "playerlimit": "9223372056292638313",
+      "servercount": "37047"
+    },
+    "1454245195": {
+      "playercount": "14678",
+      "playerlimit": "9223372054145172927",
+      "servercount": "37125"
+    },
+    "1454247009": {
+      "playercount": "16083",
+      "playerlimit": "9223372054211844194",
+      "servercount": "37401"
+    },
+    "1454248824": {
+      "playercount": "16216",
+      "playerlimit": "9223372051997645136",
+      "servercount": "37415"
+    },
+    "1454250638": {
+      "playercount": "17190",
+      "playerlimit": "9223372051997697781",
+      "servercount": "37665"
+    },
+    "1454252453": {
+      "playercount": "17065",
+      "playerlimit": "9223372054145172298",
+      "servercount": "37815"
+    },
+    "1454254268": {
+      "playercount": "18865",
+      "playerlimit": "9223372054147806119",
+      "servercount": "38063"
+    },
+    "1454256083": {
+      "playercount": "18625",
+      "playerlimit": "9223372054146503112",
+      "servercount": "38275"
+    },
+    "1454257898": {
+      "playercount": "19594",
+      "playerlimit": "9223372051997772821",
+      "servercount": "38526"
+    },
+    "1454259713": {
+      "playercount": "18924",
+      "playerlimit": "9223372054145265465",
+      "servercount": "38679"
+    },
+    "1454261528": {
+      "playercount": "19579",
+      "playerlimit": "9223372054145254150",
+      "servercount": "38938"
+    },
+    "1454263343": {
+      "playercount": "19300",
+      "playerlimit": "9223372051997764936",
+      "servercount": "38689"
+    },
+    "1454265157": {
+      "playercount": "19426",
+      "playerlimit": "9223372054145239346",
+      "servercount": "36514"
+    },
+    "1454266971": {
+      "playercount": "18481",
+      "playerlimit": "9224372054145251718",
+      "servercount": "36703"
+    },
+    "1454268786": {
+      "playercount": "19081",
+      "playerlimit": "9224372051997755764",
+      "servercount": "36893"
+    },
+    "1454270600": {
+      "playercount": "17746",
+      "playerlimit": "9224372054146243839",
+      "servercount": "36968"
+    },
+    "1454272415": {
+      "playercount": "17713",
+      "playerlimit": "9223372051997748152",
+      "servercount": "36759"
+    },
+    "1454274228": {
+      "playercount": "17155",
+      "playerlimit": "9223372051997770957",
+      "servercount": "34722"
+    },
+    "1454276042": {
+      "playercount": "16688",
+      "playerlimit": "9223372054145241836",
+      "servercount": "34784"
+    },
+    "1454277855": {
+      "playercount": "15708",
+      "playerlimit": "9223372054145254033",
+      "servercount": "34729"
+    },
+    "1454279669": {
+      "playercount": "15623",
+      "playerlimit": "9223372054145231799",
+      "servercount": "34813"
+    },
+    "1454281483": {
+      "playercount": "15358",
+      "playerlimit": "9223372054145234206",
+      "servercount": "34891"
+    },
+    "1454283296": {
+      "playercount": "15012",
+      "playerlimit": "9223372054145223734",
+      "servercount": "33630"
+    },
+    "1454285109": {
+      "playercount": "15098",
+      "playerlimit": "9223372054145106171",
+      "servercount": "33707"
+    },
+    "1454286922": {
+      "playercount": "15436",
+      "playerlimit": "9223372052307642251",
+      "servercount": "33758"
+    },
+    "1454288736": {
+      "playercount": "14743",
+      "playerlimit": "9223372052307649713",
+      "servercount": "33704"
+    },
+    "1454290549": {
+      "playercount": "14642",
+      "playerlimit": "9223372052307631085",
+      "servercount": "33760"
+    },
+    "1454292362": {
+      "playercount": "13973",
+      "playerlimit": "9223372051997745072",
+      "servercount": "33669"
+    },
+    "1454294175": {
+      "playercount": "13321",
+      "playerlimit": "9223372049850246871",
+      "servercount": "33533"
+    },
+    "1454295988": {
+      "playercount": "11756",
+      "playerlimit": "9223372049850210934",
+      "servercount": "33462"
+    },
+    "1454297801": {
+      "playercount": "10962",
+      "playerlimit": "9223372049850120824",
+      "servercount": "33360"
+    },
+    "1454299614": {
+      "playercount": "10264",
+      "playerlimit": "9223372049850209044",
+      "servercount": "33299"
+    },
+    "1454301427": {
+      "playercount": "9584",
+      "playerlimit": "9223372049850111812",
+      "servercount": "33213"
+    },
+    "1454303240": {
+      "playercount": "8802",
+      "playerlimit": "9223372049850875441",
+      "servercount": "33152"
+    },
+    "1454305053": {
+      "playercount": "8670",
+      "playerlimit": "9223372050160757523",
+      "servercount": "33031"
+    },
+    "1454306866": {
+      "playercount": "8075",
+      "playerlimit": "9223372052308240409",
+      "servercount": "32991"
+    },
+    "1454308679": {
+      "playercount": "7930",
+      "playerlimit": "9223372052308127714",
+      "servercount": "32906"
+    },
+    "1454310492": {
+      "playercount": "7679",
+      "playerlimit": "9223372052308231515",
+      "servercount": "32946"
+    },
+    "1454312305": {
+      "playercount": "7761",
+      "playerlimit": "9223372052318133482",
+      "servercount": "32884"
+    },
+    "1454314118": {
+      "playercount": "7938",
+      "playerlimit": "9223372052309219432",
+      "servercount": "32805"
+    },
+    "1454315931": {
+      "playercount": "7631",
+      "playerlimit": "9223372052309221365",
+      "servercount": "32792"
+    },
+    "1454317744": {
+      "playercount": "7635",
+      "playerlimit": "9223372052309218764",
+      "servercount": "32670"
+    },
+    "1454319557": {
+      "playercount": "7715",
+      "playerlimit": "9223372054456687650",
+      "servercount": "32581"
+    },
+    "1454321369": {
+      "playercount": "7752",
+      "playerlimit": "9223372052310195377",
+      "servercount": "32562"
+    },
+    "1454323182": {
+      "playercount": "8135",
+      "playerlimit": "9224372054458468672",
+      "servercount": "32494"
+    },
+    "1454324995": {
+      "playercount": "8661",
+      "playerlimit": "9224372052311010619",
+      "servercount": "32496"
+    },
+    "1454326808": {
+      "playercount": "9779",
+      "playerlimit": "9224372052311007387",
+      "servercount": "32574"
+    },
+    "1454328621": {
+      "playercount": "9877",
+      "playerlimit": "9223372050162521563",
+      "servercount": "32574"
+    },
+    "1454330434": {
+      "playercount": "11326",
+      "playerlimit": "9223372050162619804",
+      "servercount": "32555"
+    },
+    "1454332246": {
+      "playercount": "11166",
+      "playerlimit": "9223372050161764391",
+      "servercount": "32579"
+    },
+    "1454334059": {
+      "playercount": "11118",
+      "playerlimit": "9223372050161794643",
+      "servercount": "32578"
+    },
+    "1454335872": {
+      "playercount": "10593",
+      "playerlimit": "9223372052309229933",
+      "servercount": "32599"
+    },
+    "1454337685": {
+      "playercount": "10042",
+      "playerlimit": "9223372052311125736",
+      "servercount": "32495"
+    },
+    "1454339498": {
+      "playercount": "9972",
+      "playerlimit": "9223372052310121019",
+      "servercount": "32586"
+    },
+    "1454341310": {
+      "playercount": "10582",
+      "playerlimit": "9223372052310136365",
+      "servercount": "32525"
+    },
+    "1454343123": {
+      "playercount": "10784",
+      "playerlimit": "9223372052310137098",
+      "servercount": "32561"
+    },
+    "1454344936": {
+      "playercount": "11429",
+      "playerlimit": "9223372052310144509",
+      "servercount": "32562"
+    },
+    "1454346749": {
+      "playercount": "11224",
+      "playerlimit": "9223372054457590401",
+      "servercount": "32768"
+    },
+    "1454348562": {
+      "playercount": "11025",
+      "playerlimit": "9223372054456066365",
+      "servercount": "32685"
+    },
+    "1454350375": {
+      "playercount": "10746",
+      "playerlimit": "9223372054455158145",
+      "servercount": "32849"
+    },
+    "1454352187": {
+      "playercount": "10675",
+      "playerlimit": "9223372054455160193",
+      "servercount": "32899"
+    },
+    "1454354000": {
+      "playercount": "10629",
+      "playerlimit": "9223372054455061829",
+      "servercount": "32971"
+    },
+    "1454355813": {
+      "playercount": "11010",
+      "playerlimit": "9223372054455058114",
+      "servercount": "33004"
+    },
+    "1454357626": {
+      "playercount": "10970",
+      "playerlimit": "9223372054455019400",
+      "servercount": "33155"
+    },
+    "1454359439": {
+      "playercount": "11143",
+      "playerlimit": "9223372054455049013",
+      "servercount": "33130"
+    },
+    "1454361252": {
+      "playercount": "11810",
+      "playerlimit": "9223372054454986774",
+      "servercount": "33250"
+    },
+    "1454363065": {
+      "playercount": "12426",
+      "playerlimit": "9223372054454989744",
+      "servercount": "33322"
+    },
+    "1454364878": {
+      "playercount": "12348",
+      "playerlimit": "9223372054455081290",
+      "servercount": "33394"
+    },
+    "1454366691": {
+      "playercount": "12949",
+      "playerlimit": "9223372056602744320",
+      "servercount": "33452"
+    },
+    "1454368504": {
+      "playercount": "13299",
+      "playerlimit": "9223372056602660785",
+      "servercount": "33546"
+    },
+    "1454370317": {
+      "playercount": "13579",
+      "playerlimit": "9223372056602648669",
+      "servercount": "33669"
+    },
+    "1454372131": {
+      "playercount": "14205",
+      "playerlimit": "9223372056603589015",
+      "servercount": "33790"
+    },
+    "1454373944": {
+      "playercount": "14319",
+      "playerlimit": "9223372054456165195",
+      "servercount": "33814"
+    },
+    "1454375757": {
+      "playercount": "13848",
+      "playerlimit": "9223372054456154801",
+      "servercount": "33986"
+    },
+    "1454377570": {
+      "playercount": "13619",
+      "playerlimit": "9223372054456170592",
+      "servercount": "33701"
+    },
+    "1454379384": {
+      "playercount": "12761",
+      "playerlimit": "9223372054456145334",
+      "servercount": "34025"
+    },
+    "1454381197": {
+      "playercount": "11700",
+      "playerlimit": "9223372054457031422",
+      "servercount": "33746"
+    },
+    "1454383009": {
+      "playercount": "10538",
+      "playerlimit": "9223372052309437402",
+      "servercount": "30882"
+    },
+    "1454384821": {
+      "playercount": "9774",
+      "playerlimit": "9223372052310463579",
+      "servercount": "30905"
+    },
+    "1454386633": {
+      "playercount": "8830",
+      "playerlimit": "9223372052308584580",
+      "servercount": "30754"
+    },
+    "1454388445": {
+      "playercount": "8185",
+      "playerlimit": "9223372052308591523",
+      "servercount": "30677"
+    },
+    "1454390257": {
+      "playercount": "7542",
+      "playerlimit": "9223372052309479239",
+      "servercount": "30566"
+    },
+    "1454392069": {
+      "playercount": "7198",
+      "playerlimit": "9223372052319379223",
+      "servercount": "30576"
+    },
+    "1454393881": {
+      "playercount": "6887",
+      "playerlimit": "9223372054465936993",
+      "servercount": "30499"
+    },
+    "1454395693": {
+      "playercount": "6709",
+      "playerlimit": "9223372054146192408",
+      "servercount": "30460"
+    },
+    "1454397506": {
+      "playercount": "6627",
+      "playerlimit": "9223372054456085416",
+      "servercount": "30431"
+    },
+    "1454399318": {
+      "playercount": "7028",
+      "playerlimit": "9223372054457188688",
+      "servercount": "30002"
+    },
+    "1454401130": {
+      "playercount": "7129",
+      "playerlimit": "9223372054146290693",
+      "servercount": "30301"
+    },
+    "1454402941": {
+      "playercount": "6929",
+      "playerlimit": "9223372047702830286",
+      "servercount": "30204"
+    },
+    "1454404753": {
+      "playercount": "6933",
+      "playerlimit": "9223372054556188691",
+      "servercount": "30226"
+    },
+    "1454406565": {
+      "playercount": "6982",
+      "playerlimit": "9223372054556181463",
+      "servercount": "30197"
+    },
+    "1454408377": {
+      "playercount": "7573",
+      "playerlimit": "9223372054556208292",
+      "servercount": "30204"
+    },
+    "1454410189": {
+      "playercount": "8060",
+      "playerlimit": "9223372054556192347",
+      "servercount": "30138"
+    },
+    "1454412001": {
+      "playercount": "8663",
+      "playerlimit": "9223372056703663380",
+      "servercount": "30202"
+    },
+    "1454413813": {
+      "playercount": "9543",
+      "playerlimit": "9223372056703563221",
+      "servercount": "30248"
+    },
+    "1454415625": {
+      "playercount": "10177",
+      "playerlimit": "9223372054556071388",
+      "servercount": "30311"
+    },
+    "1454417437": {
+      "playercount": "10546",
+      "playerlimit": "9223372054556094867",
+      "servercount": "30359"
+    },
+    "1454419249": {
+      "playercount": "10410",
+      "playerlimit": "9223372054557095197",
+      "servercount": "30349"
+    },
+    "1454421061": {
+      "playercount": "10277",
+      "playerlimit": "9223372052409613540",
+      "servercount": "30417"
+    },
+    "1454422873": {
+      "playercount": "10009",
+      "playerlimit": "9223372052409613285",
+      "servercount": "30365"
+    },
+    "1454424685": {
+      "playercount": "9549",
+      "playerlimit": "9223372052409506756",
+      "servercount": "30425"
+    },
+    "1454426497": {
+      "playercount": "9530",
+      "playerlimit": "9223372052409506809",
+      "servercount": "30397"
+    },
+    "1454428309": {
+      "playercount": "10024",
+      "playerlimit": "9223372052408620249",
+      "servercount": "30451"
+    },
+    "1454430121": {
+      "playercount": "10386",
+      "playerlimit": "9223372052408612242",
+      "servercount": "30461"
+    },
+    "1454431933": {
+      "playercount": "10449",
+      "playerlimit": "9223372054556066152",
+      "servercount": "30422"
+    },
+    "1454433745": {
+      "playercount": "10316",
+      "playerlimit": "9223372054556965779",
+      "servercount": "30168"
+    },
+    "1454435556": {
+      "playercount": "10113",
+      "playerlimit": "9223372052509523763",
+      "servercount": "30059"
+    },
+    "1454437368": {
+      "playercount": "9958",
+      "playerlimit": "9223372052409515602",
+      "servercount": "30021"
+    },
+    "1454439180": {
+      "playercount": "10023",
+      "playerlimit": "9223372052409531035",
+      "servercount": "30282"
+    },
+    "1454440992": {
+      "playercount": "10101",
+      "playerlimit": "9223372052409539303",
+      "servercount": "30280"
+    },
+    "1454442804": {
+      "playercount": "10309",
+      "playerlimit": "9223372052409536764",
+      "servercount": "30325"
+    },
+    "1454444616": {
+      "playercount": "10411",
+      "playerlimit": "9223372052409536455",
+      "servercount": "30240"
+    },
+    "1454446428": {
+      "playercount": "11054",
+      "playerlimit": "9223372052409563872",
+      "servercount": "30340"
+    },
+    "1454448240": {
+      "playercount": "11672",
+      "playerlimit": "9223372052409634077",
+      "servercount": "30299"
+    },
+    "1454450052": {
+      "playercount": "11737",
+      "playerlimit": "9223372052409612115",
+      "servercount": "30417"
+    },
+    "1454451863": {
+      "playercount": "12292",
+      "playerlimit": "9223372052409607201",
+      "servercount": "30398"
+    },
+    "1454453675": {
+      "playercount": "12937",
+      "playerlimit": "9223372052409599009",
+      "servercount": "30560"
+    },
+    "1454455487": {
+      "playercount": "12826",
+      "playerlimit": "9223372052409600700",
+      "servercount": "30587"
+    },
+    "1454457299": {
+      "playercount": "13115",
+      "playerlimit": "9223372052099710602",
+      "servercount": "30665"
+    },
+    "1454459112": {
+      "playercount": "13153",
+      "playerlimit": "9223372052099710352",
+      "servercount": "30708"
+    },
+    "1454460924": {
+      "playercount": "13195",
+      "playerlimit": "9223372052099706920",
+      "servercount": "30770"
+    },
+    "1454462736": {
+      "playercount": "13507",
+      "playerlimit": "9223372052099713289",
+      "servercount": "30777"
+    },
+    "1454464548": {
+      "playercount": "13280",
+      "playerlimit": "9223372052100616998",
+      "servercount": "30896"
+    },
+    "1454466360": {
+      "playercount": "11973",
+      "playerlimit": "9223372052099728446",
+      "servercount": "30900"
+    },
+    "1454468172": {
+      "playercount": "11232",
+      "playerlimit": "9223372052409621462",
+      "servercount": "30868"
+    },
+    "1454469985": {
+      "playercount": "9823",
+      "playerlimit": "9223372052100733572",
+      "servercount": "30832"
+    },
+    "1454471797": {
+      "playercount": "8930",
+      "playerlimit": "9223372052100722731",
+      "servercount": "30799"
+    },
+    "1454473609": {
+      "playercount": "8297",
+      "playerlimit": "9223372052409594190",
+      "servercount": "30755"
+    },
+    "1454475421": {
+      "playercount": "7766",
+      "playerlimit": "9223372052409694750",
+      "servercount": "30653"
+    },
+    "1454477233": {
+      "playercount": "7502",
+      "playerlimit": "9223372052410463254",
+      "servercount": "30712"
+    },
+    "1454479045": {
+      "playercount": "6748",
+      "playerlimit": "9223372054558062541",
+      "servercount": "30687"
+    },
+    "1454480857": {
+      "playercount": "6906",
+      "playerlimit": "9223372054557367951",
+      "servercount": "30617"
+    },
+    "1454482669": {
+      "playercount": "6809",
+      "playerlimit": "9223372056704854289",
+      "servercount": "30577"
+    },
+    "1454484481": {
+      "playercount": "6810",
+      "playerlimit": "9223372056704855205",
+      "servercount": "30571"
+    },
+    "1454486293": {
+      "playercount": "6778",
+      "playerlimit": "9223372056704853800",
+      "servercount": "30582"
+    },
+    "1454488105": {
+      "playercount": "6992",
+      "playerlimit": "9223372054557399853",
+      "servercount": "30486"
+    },
+    "1454489917": {
+      "playercount": "6684",
+      "playerlimit": "9223372052409898031",
+      "servercount": "30477"
+    },
+    "1454491729": {
+      "playercount": "7067",
+      "playerlimit": "9223372054556498392",
+      "servercount": "30615"
+    },
+    "1454493541": {
+      "playercount": "7087",
+      "playerlimit": "9223372054556508224",
+      "servercount": "30631"
+    },
+    "1454495353": {
+      "playercount": "7547",
+      "playerlimit": "9223372054556506715",
+      "servercount": "30721"
+    },
+    "1454497165": {
+      "playercount": "7789",
+      "playerlimit": "9223372054555489086",
+      "servercount": "30692"
+    },
+    "1454498977": {
+      "playercount": "8683",
+      "playerlimit": "9223372052407908380",
+      "servercount": "30770"
+    },
+    "1454500790": {
+      "playercount": "9680",
+      "playerlimit": "9223372054555537182",
+      "servercount": "30849"
+    },
+    "1454502602": {
+      "playercount": "10321",
+      "playerlimit": "9223372054555485772",
+      "servercount": "30887"
+    },
+    "1454504414": {
+      "playercount": "10735",
+      "playerlimit": "9223372054555518719",
+      "servercount": "31038"
+    },
+    "1454506226": {
+      "playercount": "10866",
+      "playerlimit": "9223372054554523721",
+      "servercount": "30932"
+    },
+    "1454508038": {
+      "playercount": "10067",
+      "playerlimit": "9223372054555532383",
+      "servercount": "30974"
+    },
+    "1454509850": {
+      "playercount": "9823",
+      "playerlimit": "9223372054556537345",
+      "servercount": "31276"
+    },
+    "1454511663": {
+      "playercount": "9456",
+      "playerlimit": "9223372052409929884",
+      "servercount": "31366"
+    },
+    "1454513475": {
+      "playercount": "9691",
+      "playerlimit": "9223372052409032381",
+      "servercount": "31465"
+    },
+    "1454515287": {
+      "playercount": "9699",
+      "playerlimit": "9223372052410538890",
+      "servercount": "31549"
+    },
+    "1454517100": {
+      "playercount": "10160",
+      "playerlimit": "9223372052410547395",
+      "servercount": "31581"
+    },
+    "1454518912": {
+      "playercount": "10024",
+      "playerlimit": "9223372052408953696",
+      "servercount": "31596"
+    },
+    "1454520724": {
+      "playercount": "10412",
+      "playerlimit": "9223372052407950229",
+      "servercount": "31602"
+    },
+    "1454522537": {
+      "playercount": "9962",
+      "playerlimit": "9223372052408638031",
+      "servercount": "31652"
+    },
+    "1454524349": {
+      "playercount": "9939",
+      "playerlimit": "9223372052508642494",
+      "servercount": "31544"
+    },
+    "1454526162": {
+      "playercount": "9699",
+      "playerlimit": "9223372052409635042",
+      "servercount": "31586"
+    },
+    "1454527974": {
+      "playercount": "9961",
+      "playerlimit": "9223372054556127844",
+      "servercount": "31469"
+    },
+    "1454529786": {
+      "playercount": "10181",
+      "playerlimit": "9223372052409627469",
+      "servercount": "31624"
+    },
+    "1454531599": {
+      "playercount": "10976",
+      "playerlimit": "9223372052408635642",
+      "servercount": "31636"
+    },
+    "1454533411": {
+      "playercount": "11239",
+      "playerlimit": "9223372052408643088",
+      "servercount": "31546"
+    },
+    "1454535223": {
+      "playercount": "12238",
+      "playerlimit": "9223372054557128369",
+      "servercount": "31591"
+    },
+    "1454537036": {
+      "playercount": "12149",
+      "playerlimit": "9223372056702934352",
+      "servercount": "31709"
+    },
+    "1454538848": {
+      "playercount": "12541",
+      "playerlimit": "9223372056702931872",
+      "servercount": "31682"
+    },
+    "1454540661": {
+      "playercount": "12683",
+      "playerlimit": "9223372054555443610",
+      "servercount": "31659"
+    },
+    "1454542473": {
+      "playercount": "13201",
+      "playerlimit": "9223372056703003173",
+      "servercount": "31759"
+    },
+    "1454544285": {
+      "playercount": "12410",
+      "playerlimit": "9223372054555443147",
+      "servercount": "31616"
+    },
+    "1454546098": {
+      "playercount": "13058",
+      "playerlimit": "9223372052307955819",
+      "servercount": "31659"
+    },
+    "1454547910": {
+      "playercount": "12572",
+      "playerlimit": "9223372052307946122",
+      "servercount": "31595"
+    },
+    "1454549723": {
+      "playercount": "12675",
+      "playerlimit": "9223372052307963256",
+      "servercount": "31659"
+    },
+    "1454551535": {
+      "playercount": "12077",
+      "playerlimit": "9223372052307962741",
+      "servercount": "31631"
+    },
+    "1454553348": {
+      "playercount": "11930",
+      "playerlimit": "9223372052308055198",
+      "servercount": "31565"
+    },
+    "1454555160": {
+      "playercount": "10206",
+      "playerlimit": "9223372052307950263",
+      "servercount": "31394"
+    },
+    "1454556972": {
+      "playercount": "9427",
+      "playerlimit": "9223372052307960156",
+      "servercount": "31361"
+    },
+    "1454558784": {
+      "playercount": "8559",
+      "playerlimit": "9223372051998075686",
+      "servercount": "31316"
+    },
+    "1454560597": {
+      "playercount": "7873",
+      "playerlimit": "9223372052308837472",
+      "servercount": "31183"
+    },
+    "1454562409": {
+      "playercount": "7425",
+      "playerlimit": "9223372051998962003",
+      "servercount": "31042"
+    },
+    "1454564221": {
+      "playercount": "7277",
+      "playerlimit": "9223372052098957847",
+      "servercount": "31091"
+    },
+    "1454566033": {
+      "playercount": "6602",
+      "playerlimit": "9223372052099055601",
+      "servercount": "31043"
+    },
+    "1454567845": {
+      "playercount": "6693",
+      "playerlimit": "9223372052099066469",
+      "servercount": "30981"
+    },
+    "1454569657": {
+      "playercount": "6780",
+      "playerlimit": "9223372056394245521",
+      "servercount": "30994"
+    },
+    "1454571470": {
+      "playercount": "6957",
+      "playerlimit": "9223372052100031318",
+      "servercount": "30965"
+    },
+    "1454573282": {
+      "playercount": "7009",
+      "playerlimit": "9223372052409944507",
+      "servercount": "30955"
+    },
+    "1454575094": {
+      "playercount": "7271",
+      "playerlimit": "9223372054557921251",
+      "servercount": "30919"
+    },
+    "1454576906": {
+      "playercount": "7104",
+      "playerlimit": "9223372054557407803",
+      "servercount": "30860"
+    },
+    "1454578718": {
+      "playercount": "7088",
+      "playerlimit": "9223372050262062713",
+      "servercount": "30863"
+    },
+    "1454580530": {
+      "playercount": "7410",
+      "playerlimit": "9223372052508953536",
+      "servercount": "30898"
+    },
+    "1454582342": {
+      "playercount": "7525",
+      "playerlimit": "9223372052409177324",
+      "servercount": "30538"
+    },
+    "1454584154": {
+      "playercount": "8066",
+      "playerlimit": "9223372052509142015",
+      "servercount": "30190"
+    },
+    "1454585966": {
+      "playercount": "8813",
+      "playerlimit": "9223372052409119234",
+      "servercount": "30261"
+    },
+    "1454587778": {
+      "playercount": "9324",
+      "playerlimit": "9223372052409138824",
+      "servercount": "30990"
+    },
+    "1454589590": {
+      "playercount": "9759",
+      "playerlimit": "9223372052409337117",
+      "servercount": "31118"
+    },
+    "1454591403": {
+      "playercount": "9665",
+      "playerlimit": "9223372053408356184",
+      "servercount": "31157"
+    },
+    "1454593215": {
+      "playercount": "9864",
+      "playerlimit": "9223372052408155886",
+      "servercount": "31314"
+    },
+    "1454595027": {
+      "playercount": "9389",
+      "playerlimit": "9223372053408178674",
+      "servercount": "31764"
+    },
+    "1454596840": {
+      "playercount": "8905",
+      "playerlimit": "9223372052408180021",
+      "servercount": "31326"
+    },
+    "1454598652": {
+      "playercount": "8803",
+      "playerlimit": "9223372052509027257",
+      "servercount": "31332"
+    },
+    "1454600464": {
+      "playercount": "8772",
+      "playerlimit": "9223372052509032691",
+      "servercount": "31429"
+    },
+    "1454602277": {
+      "playercount": "8820",
+      "playerlimit": "9223372052508138519",
+      "servercount": "31398"
+    },
+    "1454604089": {
+      "playercount": "8851",
+      "playerlimit": "9223372052509230257",
+      "servercount": "31441"
+    },
+    "1454605902": {
+      "playercount": "8699",
+      "playerlimit": "9223372052509178275",
+      "servercount": "31562"
+    },
+    "1454607714": {
+      "playercount": "9065",
+      "playerlimit": "9223372052508201839",
+      "servercount": "31712"
+    },
+    "1454609527": {
+      "playercount": "8954",
+      "playerlimit": "9223372052508221211",
+      "servercount": "31737"
+    },
+    "1454611339": {
+      "playercount": "8489",
+      "playerlimit": "9223372052409201395",
+      "servercount": "31832"
+    },
+    "1454613152": {
+      "playercount": "8446",
+      "playerlimit": "9223372053409176371",
+      "servercount": "31881"
+    },
+    "1454614963": {
+      "playercount": "8066",
+      "playerlimit": "9223372053408074054",
+      "servercount": "30267"
+    },
+    "1454616776": {
+      "playercount": "8195",
+      "playerlimit": "9223372052408085556",
+      "servercount": "31959"
+    },
+    "1454618588": {
+      "playercount": "8280",
+      "playerlimit": "9223372052408078398",
+      "servercount": "32077"
+    },
+    "1454620401": {
+      "playercount": "7861",
+      "playerlimit": "9223372052408189338",
+      "servercount": "32089"
+    },
+    "1454622213": {
+      "playercount": "8492",
+      "playerlimit": "9223372050260594187",
+      "servercount": "32167"
+    },
+    "1454624026": {
+      "playercount": "8560",
+      "playerlimit": "9223372052408095108",
+      "servercount": "32266"
+    },
+    "1454625839": {
+      "playercount": "9008",
+      "playerlimit": "9223372054555495303",
+      "servercount": "32354"
+    },
+    "1454627651": {
+      "playercount": "8572",
+      "playerlimit": "9223372054555494520",
+      "servercount": "32417"
+    },
+    "1454629464": {
+      "playercount": "8760",
+      "playerlimit": "9223372056702985983",
+      "servercount": "32508"
+    },
+    "1454631277": {
+      "playercount": "8815",
+      "playerlimit": "9223372056702963906",
+      "servercount": "32512"
+    },
+    "1454633089": {
+      "playercount": "8791",
+      "playerlimit": "9223372056702981138",
+      "servercount": "32583"
+    },
+    "1454634902": {
+      "playercount": "8699",
+      "playerlimit": "9223372056702881479",
+      "servercount": "31986"
+    },
+    "1454636713": {
+      "playercount": "8301",
+      "playerlimit": "9223372054555379728",
+      "servercount": "29570"
+    },
+    "1454638525": {
+      "playercount": "8341",
+      "playerlimit": "9223372054555379086",
+      "servercount": "29700"
+    },
+    "1454640337": {
+      "playercount": "8233",
+      "playerlimit": "9223372054555486344",
+      "servercount": "29649"
+    },
+    "1454642149": {
+      "playercount": "7490",
+      "playerlimit": "9223372056555472627",
+      "servercount": "29717"
+    },
+    "1454643960": {
+      "playercount": "7016",
+      "playerlimit": "9223372054655479817",
+      "servercount": "29748"
+    },
+    "1454645772": {
+      "playercount": "6556",
+      "playerlimit": "9223372054555485129",
+      "servercount": "29748"
+    },
+    "1454647584": {
+      "playercount": "6215",
+      "playerlimit": "9223372054556484918",
+      "servercount": "29721"
+    },
+    "1454649396": {
+      "playercount": "5584",
+      "playerlimit": "9223372054557370784",
+      "servercount": "29730"
+    },
+    "1454651207": {
+      "playercount": "5852",
+      "playerlimit": "9223372054557466554",
+      "servercount": "29712"
+    },
+    "1454653018": {
+      "playercount": "5663",
+      "playerlimit": "9223372054557439537",
+      "servercount": "26586"
+    },
+    "1454654830": {
+      "playercount": "5599",
+      "playerlimit": "9223372054557342549",
+      "servercount": "29021"
+    },
+    "1454656641": {
+      "playercount": "5698",
+      "playerlimit": "9223372054456352424",
+      "servercount": "29812"
+    },
+    "1454658453": {
+      "playercount": "6323",
+      "playerlimit": "9223372054556375593",
+      "servercount": "29857"
+    },
+    "1454660265": {
+      "playercount": "5910",
+      "playerlimit": "9223372054556927526",
+      "servercount": "29908"
+    },
+    "1454662076": {
+      "playercount": "5903",
+      "playerlimit": "9223372052408895539",
+      "servercount": "29936"
+    },
+    "1454663888": {
+      "playercount": "6127",
+      "playerlimit": "9223372052409390018",
+      "servercount": "29974"
+    },
+    "1454665700": {
+      "playercount": "6581",
+      "playerlimit": "9223372052408780674",
+      "servercount": "30020"
+    },
+    "1454667512": {
+      "playercount": "6885",
+      "playerlimit": "9223372052408823311",
+      "servercount": "30127"
+    },
+    "1454669324": {
+      "playercount": "7281",
+      "playerlimit": "9223372052409313162",
+      "servercount": "30240"
+    },
+    "1454671136": {
+      "playercount": "7647",
+      "playerlimit": "9223372052409308547",
+      "servercount": "30258"
+    },
+    "1454672948": {
+      "playercount": "7962",
+      "playerlimit": "9223372053408421524",
+      "servercount": "30407"
+    },
+    "1454674760": {
+      "playercount": "8297",
+      "playerlimit": "9223372053406907848",
+      "servercount": "30599"
+    },
+    "1454676572": {
+      "playercount": "9162",
+      "playerlimit": "9223372052407414874",
+      "servercount": "30712"
+    },
+    "1454678384": {
+      "playercount": "9519",
+      "playerlimit": "9223372053407009563",
+      "servercount": "30966"
+    },
+    "1454680197": {
+      "playercount": "9675",
+      "playerlimit": "9223372054454504919",
+      "servercount": "31116"
+    },
+    "1454682009": {
+      "playercount": "9128",
+      "playerlimit": "9223372054454492866",
+      "servercount": "31220"
+    },
+    "1454683821": {
+      "playercount": "9222",
+      "playerlimit": "9223372057601986849",
+      "servercount": "31422"
+    },
+    "1454685634": {
+      "playercount": "9082",
+      "playerlimit": "9223372056602014971",
+      "servercount": "31626"
+    },
+    "1454687446": {
+      "playercount": "9096",
+      "playerlimit": "9224372056601992639",
+      "servercount": "32113"
+    },
+    "1454689259": {
+      "playercount": "9261",
+      "playerlimit": "1000021893743218",
+      "servercount": "32080"
+    },
+    "1454691072": {
+      "playercount": "8761",
+      "playerlimit": "1000015451289318",
+      "servercount": "32302"
+    },
+    "1454692883": {
+      "playercount": "8666",
+      "playerlimit": "1000015551189884",
+      "servercount": "30211"
+    },
+    "1454694695": {
+      "playercount": "8631",
+      "playerlimit": "1000015551274686",
+      "servercount": "29837"
+    },
+    "1454696507": {
+      "playercount": "8123",
+      "playerlimit": "1000015551273568",
+      "servercount": "30065"
+    },
+    "1454698319": {
+      "playercount": "7929",
+      "playerlimit": "1000015551323343",
+      "servercount": "30223"
+    },
+    "1454700131": {
+      "playercount": "8256",
+      "playerlimit": "15551303320",
+      "servercount": "30343"
+    },
+    "1454701943": {
+      "playercount": "8412",
+      "playerlimit": "15551299283",
+      "servercount": "30502"
+    },
+    "1454703755": {
+      "playercount": "8303",
+      "playerlimit": "18698784026",
+      "servercount": "30657"
+    },
+    "1454705567": {
+      "playercount": "8600",
+      "playerlimit": "16551439631",
+      "servercount": "30817"
+    },
+    "1454707380": {
+      "playercount": "8835",
+      "playerlimit": "18698876695",
+      "servercount": "30926"
+    },
+    "1454709192": {
+      "playercount": "9455",
+      "playerlimit": "18698719079",
+      "servercount": "31197"
+    },
+    "1454711004": {
+      "playercount": "9292",
+      "playerlimit": "17699772795",
+      "servercount": "31321"
+    },
+    "1454712817": {
+      "playercount": "9660",
+      "playerlimit": "17698785811",
+      "servercount": "31414"
+    },
+    "1454714629": {
+      "playercount": "10044",
+      "playerlimit": "19846257863",
+      "servercount": "31541"
+    },
+    "1454716441": {
+      "playercount": "10624",
+      "playerlimit": "19846268353",
+      "servercount": "31616"
+    },
+    "1454718254": {
+      "playercount": "11129",
+      "playerlimit": "17698773914",
+      "servercount": "31782"
+    },
+    "1454720066": {
+      "playercount": "11069",
+      "playerlimit": "15551300653",
+      "servercount": "31789"
+    },
+    "1454721879": {
+      "playercount": "11469",
+      "playerlimit": "15551289822",
+      "servercount": "31966"
+    },
+    "1454723690": {
+      "playercount": "11994",
+      "playerlimit": "15552165409",
+      "servercount": "29375"
+    },
+    "1454725502": {
+      "playercount": "11832",
+      "playerlimit": "15552165610",
+      "servercount": "29504"
+    },
+    "1454727314": {
+      "playercount": "11670",
+      "playerlimit": "15552178061",
+      "servercount": "29752"
+    },
+    "1454729126": {
+      "playercount": "11430",
+      "playerlimit": "15552702121",
+      "servercount": "29856"
+    },
+    "1454730937": {
+      "playercount": "11133",
+      "playerlimit": "15552181480",
+      "servercount": "29846"
+    },
+    "1454732749": {
+      "playercount": "10423",
+      "playerlimit": "15552163160",
+      "servercount": "29949"
+    },
+    "1454734561": {
+      "playercount": "9845",
+      "playerlimit": "15552091609",
+      "servercount": "30001"
+    },
+    "1454736373": {
+      "playercount": "9380",
+      "playerlimit": "15553175803",
+      "servercount": "30597"
+    },
+    "1454738185": {
+      "playercount": "9248",
+      "playerlimit": "15623178215",
+      "servercount": "30535"
+    },
+    "1454739997": {
+      "playercount": "8395",
+      "playerlimit": "15553083313",
+      "servercount": "30201"
+    },
+    "1454741809": {
+      "playercount": "8512",
+      "playerlimit": "16551223443",
+      "servercount": "30224"
+    },
+    "1454743621": {
+      "playercount": "8674",
+      "playerlimit": "19357595440",
+      "servercount": "30322"
+    },
+    "1454745433": {
+      "playercount": "8940",
+      "playerlimit": "17210097583",
+      "servercount": "30401"
+    },
+    "1454747245": {
+      "playercount": "9168",
+      "playerlimit": "17210098856",
+      "servercount": "30524"
+    },
+    "1454749058": {
+      "playercount": "9018",
+      "playerlimit": "16552128219",
+      "servercount": "30628"
+    },
+    "1454750870": {
+      "playercount": "9369",
+      "playerlimit": "16552136525",
+      "servercount": "30689"
+    },
+    "1454752682": {
+      "playercount": "9184",
+      "playerlimit": "14404597911",
+      "servercount": "30848"
+    },
+    "1454754494": {
+      "playercount": "9389",
+      "playerlimit": "13415981699",
+      "servercount": "31069"
+    },
+    "1454756306": {
+      "playercount": "9617",
+      "playerlimit": "14241180638",
+      "servercount": "31128"
+    },
+    "1454758119": {
+      "playercount": "10094",
+      "playerlimit": "14130276977",
+      "servercount": "31234"
+    },
+    "1454759931": {
+      "playercount": "10027",
+      "playerlimit": "13304301747",
+      "servercount": "31327"
+    },
+    "1454761744": {
+      "playercount": "10752",
+      "playerlimit": "13334754023",
+      "servercount": "31492"
+    },
+    "1454763556": {
+      "playercount": "11151",
+      "playerlimit": "13564920795",
+      "servercount": "31643"
+    },
+    "1454765369": {
+      "playercount": "12383",
+      "playerlimit": "13314748916",
+      "servercount": "31976"
+    },
+    "1454767181": {
+      "playercount": "12684",
+      "playerlimit": "13315742831",
+      "servercount": "31998"
+    },
+    "1454768994": {
+      "playercount": "13237",
+      "playerlimit": "13313763096",
+      "servercount": "32293"
+    },
+    "1454770807": {
+      "playercount": "13487",
+      "playerlimit": "13303849269",
+      "servercount": "32490"
+    },
+    "1454772619": {
+      "playercount": "12240",
+      "playerlimit": "15451242853",
+      "servercount": "32090"
+    },
+    "1454774432": {
+      "playercount": "12875",
+      "playerlimit": "13303837031",
+      "servercount": "33077"
+    },
+    "1454776245": {
+      "playercount": "13757",
+      "playerlimit": "13305906763",
+      "servercount": "33353"
+    },
+    "1454778059": {
+      "playercount": "13166",
+      "playerlimit": "13305916700",
+      "servercount": "33521"
+    },
+    "1454779872": {
+      "playercount": "13729",
+      "playerlimit": "13303913286",
+      "servercount": "33832"
+    },
+    "1454781685": {
+      "playercount": "13194",
+      "playerlimit": "13303811271",
+      "servercount": "34050"
+    },
+    "1454783498": {
+      "playercount": "13293",
+      "playerlimit": "13315679904",
+      "servercount": "34368"
+    },
+    "1454785312": {
+      "playercount": "12666",
+      "playerlimit": "13303793014",
+      "servercount": "34458"
+    },
+    "1454787125": {
+      "playercount": "13244",
+      "playerlimit": "13303784216",
+      "servercount": "34707"
+    },
+    "1454788939": {
+      "playercount": "11858",
+      "playerlimit": "13303794358",
+      "servercount": "34898"
+    },
+    "1454790753": {
+      "playercount": "12654",
+      "playerlimit": "13303737875",
+      "servercount": "34985"
+    },
+    "1454792566": {
+      "playercount": "12082",
+      "playerlimit": "13303742560",
+      "servercount": "35045"
+    },
+    "1454794380": {
+      "playercount": "12421",
+      "playerlimit": "13303760625",
+      "servercount": "35202"
+    },
+    "1454796194": {
+      "playercount": "11545",
+      "playerlimit": "13303705241",
+      "servercount": "35267"
+    },
+    "1454798007": {
+      "playercount": "11778",
+      "playerlimit": "13303704053",
+      "servercount": "35308"
+    },
+    "1454799821": {
+      "playercount": "12049",
+      "playerlimit": "1000013303701732",
+      "servercount": "35312"
+    },
+    "1454801635": {
+      "playercount": "12260",
+      "playerlimit": "1000013303683039",
+      "servercount": "35442"
+    },
+    "1454803449": {
+      "playercount": "12089",
+      "playerlimit": "13303785751",
+      "servercount": "35415"
+    },
+    "1454805263": {
+      "playercount": "12826",
+      "playerlimit": "13303796876",
+      "servercount": "35491"
+    },
+    "1454807077": {
+      "playercount": "12951",
+      "playerlimit": "13602721393",
+      "servercount": "35471"
+    },
+    "1454808891": {
+      "playercount": "13462",
+      "playerlimit": "13303766178",
+      "servercount": "35543"
+    },
+    "1454810705": {
+      "playercount": "13050",
+      "playerlimit": "13303765749",
+      "servercount": "35621"
+    },
+    "1454812519": {
+      "playercount": "13559",
+      "playerlimit": "13303768247",
+      "servercount": "35643"
+    },
+    "1454814333": {
+      "playercount": "12786",
+      "playerlimit": "13303761215",
+      "servercount": "35758"
+    },
+    "1454816147": {
+      "playercount": "13237",
+      "playerlimit": "13303766901",
+      "servercount": "35772"
+    },
+    "1454817961": {
+      "playercount": "12511",
+      "playerlimit": "13303762497",
+      "servercount": "35838"
+    },
+    "1454819774": {
+      "playercount": "12145",
+      "playerlimit": "13303766312",
+      "servercount": "35721"
+    },
+    "1454821589": {
+      "playercount": "10904",
+      "playerlimit": "13304666345",
+      "servercount": "35785"
+    },
+    "1454823403": {
+      "playercount": "10750",
+      "playerlimit": "13304673267",
+      "servercount": "35746"
+    },
+    "1454825217": {
+      "playercount": "9912",
+      "playerlimit": "14131095940",
+      "servercount": "35778"
+    },
+    "1454827031": {
+      "playercount": "9890",
+      "playerlimit": "15452158655",
+      "servercount": "35806"
+    },
+    "1454828845": {
+      "playercount": "9529",
+      "playerlimit": "13414557551",
+      "servercount": "35815"
+    },
+    "1454830659": {
+      "playercount": "10048",
+      "playerlimit": "13304576679",
+      "servercount": "35583"
+    },
+    "1454832473": {
+      "playercount": "9652",
+      "playerlimit": "15326730056",
+      "servercount": "35806"
+    },
+    "1454834286": {
+      "playercount": "9925",
+      "playerlimit": "9223372050156576589",
+      "servercount": "35082"
+    },
+    "1454836099": {
+      "playercount": "9750",
+      "playerlimit": "9223372050166536077",
+      "servercount": "33208"
+    },
+    "1454837913": {
+      "playercount": "9914",
+      "playerlimit": "13513308006",
+      "servercount": "33328"
+    },
+    "1454839726": {
+      "playercount": "9435",
+      "playerlimit": "1000013301895543",
+      "servercount": "33375"
+    },
+    "1454841539": {
+      "playercount": "9688",
+      "playerlimit": "1000013301797107",
+      "servercount": "33515"
+    },
+    "1454843352": {
+      "playercount": "10149",
+      "playerlimit": "9223372050166597247",
+      "servercount": "33611"
+    },
+    "1454845165": {
+      "playercount": "10177",
+      "playerlimit": "9223372052304075670",
+      "servercount": "33721"
+    },
+    "1454846979": {
+      "playercount": "10835",
+      "playerlimit": "9223372050166714595",
+      "servercount": "33730"
+    },
+    "1454848792": {
+      "playercount": "11249",
+      "playerlimit": "9223372050166698487",
+      "servercount": "33788"
+    },
+    "1454850605": {
+      "playercount": "12203",
+      "playerlimit": "9223372050156709822",
+      "servercount": "33897"
+    },
+    "1454852419": {
+      "playercount": "12816",
+      "playerlimit": "9223372050156701570",
+      "servercount": "34032"
+    },
+    "1454854232": {
+      "playercount": "13415",
+      "playerlimit": "9223372052306182674",
+      "servercount": "34152"
+    },
+    "1454856045": {
+      "playercount": "13592",
+      "playerlimit": "15451405478",
+      "servercount": "34393"
+    },
+    "1454857859": {
+      "playercount": "13923",
+      "playerlimit": "9223372050158732375",
+      "servercount": "34653"
+    },
+    "1454859673": {
+      "playercount": "14297",
+      "playerlimit": "13303910860",
+      "servercount": "34793"
+    },
+    "1454861486": {
+      "playercount": "14917",
+      "playerlimit": "9223372050158694881",
+      "servercount": "34869"
+    },
+    "1454863300": {
+      "playercount": "14964",
+      "playerlimit": "9223372050158693967",
+      "servercount": "35010"
+    },
+    "1454865114": {
+      "playercount": "15130",
+      "playerlimit": "13303920120",
+      "servercount": "35293"
+    },
+    "1454866928": {
+      "playercount": "15261",
+      "playerlimit": "18446744087013481932",
+      "servercount": "35572"
+    },
+    "1454868742": {
+      "playercount": "14783",
+      "playerlimit": "9223372052326768205",
+      "servercount": "35700"
+    },
+    "1454870556": {
+      "playercount": "15111",
+      "playerlimit": "9223372050079295634",
+      "servercount": "35861"
+    },
+    "1454872370": {
+      "playercount": "14320",
+      "playerlimit": "13203926667",
+      "servercount": "35999"
+    },
+    "1454874184": {
+      "playercount": "14516",
+      "playerlimit": "9223372049748804636",
+      "servercount": "35659"
+    },
+    "1454875998": {
+      "playercount": "13261",
+      "playerlimit": "9223372049748805719",
+      "servercount": "34970"
+    },
+    "1454877811": {
+      "playercount": "11119",
+      "playerlimit": "9223372049748811595",
+      "servercount": "34296"
+    },
+    "1454879625": {
+      "playercount": "8819",
+      "playerlimit": "9223372051896292705",
+      "servercount": "34666"
+    },
+    "1454881439": {
+      "playercount": "9080",
+      "playerlimit": "9223372049748825944",
+      "servercount": "35469"
+    },
+    "1454883252": {
+      "playercount": "8206",
+      "playerlimit": "9223372052217950918",
+      "servercount": "34383"
+    },
+    "1454885065": {
+      "playercount": "8237",
+      "playerlimit": "9223372050070463601",
+      "servercount": "33770"
+    },
+    "1454886878": {
+      "playercount": "7813",
+      "playerlimit": "9223372052217943749",
+      "servercount": "33201"
+    },
+    "1454888691": {
+      "playercount": "7924",
+      "playerlimit": "9223372056512904166",
+      "servercount": "32650"
+    },
+    "1454890504": {
+      "playercount": "8072",
+      "playerlimit": "9223372060807821889",
+      "servercount": "32148"
+    },
+    "1454892315": {
+      "playercount": "8089",
+      "playerlimit": "9223372058658344884",
+      "servercount": "29272"
+    },
+    "1454894127": {
+      "playercount": "7806",
+      "playerlimit": "9223372058658349905",
+      "servercount": "28784"
+    },
+    "1454895940": {
+      "playercount": "8565",
+      "playerlimit": "9223372054363398995",
+      "servercount": "33356"
+    },
+    "1454897753": {
+      "playercount": "10453",
+      "playerlimit": "9223372054486841155",
+      "servercount": "34174"
+    },
+    "1454899566": {
+      "playercount": "11092",
+      "playerlimit": "9223372054673784057",
+      "servercount": "34435"
+    },
+    "1454901380": {
+      "playercount": "10593",
+      "playerlimit": "9223372054673883956",
+      "servercount": "34331"
+    },
+    "1454903193": {
+      "playercount": "9618",
+      "playerlimit": "9223372054673862290",
+      "servercount": "34267"
+    },
+    "1454905006": {
+      "playercount": "8376",
+      "playerlimit": "9223372052526398018",
+      "servercount": "34175"
+    },
+    "1454906820": {
+      "playercount": "8190",
+      "playerlimit": "9323372052536404414",
+      "servercount": "34172"
+    },
+    "1454908633": {
+      "playercount": "7683",
+      "playerlimit": "9323372052536409061",
+      "servercount": "34044"
+    },
+    "1454910446": {
+      "playercount": "7399",
+      "playerlimit": "9323372052538413041",
+      "servercount": "33946"
+    },
+    "1454912260": {
+      "playercount": "7269",
+      "playerlimit": "9323372052538401049",
+      "servercount": "33962"
+    },
+    "1454914073": {
+      "playercount": "7028",
+      "playerlimit": "9323372052528304528",
+      "servercount": "33933"
+    },
+    "1454915886": {
+      "playercount": "6844",
+      "playerlimit": "9223372052538286325",
+      "servercount": "33883"
+    },
+    "1454917699": {
+      "playercount": "7128",
+      "playerlimit": "9323372052528325327",
+      "servercount": "33893"
+    },
+    "1454919513": {
+      "playercount": "7195",
+      "playerlimit": "9323372052528306102",
+      "servercount": "33876"
+    },
+    "1454921326": {
+      "playercount": "6746",
+      "playerlimit": "15683530086",
+      "servercount": "33777"
+    },
+    "1454923139": {
+      "playercount": "6914",
+      "playerlimit": "15683526202",
+      "servercount": "33586"
+    },
+    "1454924952": {
+      "playercount": "6801",
+      "playerlimit": "9323372052538287371",
+      "servercount": "33631"
+    },
+    "1454926766": {
+      "playercount": "6829",
+      "playerlimit": "9323372054685761338",
+      "servercount": "33484"
+    },
+    "1454928579": {
+      "playercount": "7333",
+      "playerlimit": "9323372054685769124",
+      "servercount": "33475"
+    },
+    "1454930392": {
+      "playercount": "7507",
+      "playerlimit": "9323372054685765982",
+      "servercount": "33508"
+    },
+    "1454932205": {
+      "playercount": "8285",
+      "playerlimit": "9323372054685781566",
+      "servercount": "33487"
+    },
+    "1454934018": {
+      "playercount": "8208",
+      "playerlimit": "9323372054686790291",
+      "servercount": "33483"
+    },
+    "1454935831": {
+      "playercount": "9134",
+      "playerlimit": "9223372054686777681",
+      "servercount": "33367"
+    },
+    "1454937644": {
+      "playercount": "9296",
+      "playerlimit": "9323372054686781277",
+      "servercount": "33266"
+    },
+    "1454939457": {
+      "playercount": "9382",
+      "playerlimit": "9223372052539306196",
+      "servercount": "33364"
+    },
+    "1454941269": {
+      "playercount": "9002",
+      "playerlimit": "100000017521220274",
+      "servercount": "29916"
+    },
+    "1454943081": {
+      "playercount": "8912",
+      "playerlimit": "9323372054378986632",
+      "servercount": "29945"
+    },
+    "1454944893": {
+      "playercount": "8762",
+      "playerlimit": "100000017525209447",
+      "servercount": "30046"
+    },
+    "1454946705": {
+      "playercount": "9031",
+      "playerlimit": "100000017524199094",
+      "servercount": "29932"
+    },
+    "1454948517": {
+      "playercount": "9170",
+      "playerlimit": "9323372054376965898",
+      "servercount": "30076"
+    },
+    "1454950328": {
+      "playercount": "9424",
+      "playerlimit": "100000017523212991",
+      "servercount": "30152"
+    },
+    "1454952140": {
+      "playercount": "9157",
+      "playerlimit": "9323372052229490690",
+      "servercount": "30091"
+    },
+    "1454953952": {
+      "playercount": "9361",
+      "playerlimit": "9323372052229489728",
+      "servercount": "30029"
+    },
+    "1454955764": {
+      "playercount": "9230",
+      "playerlimit": "100000015373709624",
+      "servercount": "30159"
+    },
+    "1454957576": {
+      "playercount": "9059",
+      "playerlimit": "9323372052228514462",
+      "servercount": "30380"
+    },
+    "1454959388": {
+      "playercount": "9048",
+      "playerlimit": "9223372052227516126",
+      "servercount": "30357"
+    },
+    "1454961200": {
+      "playercount": "8927",
+      "playerlimit": "9323372052227495067",
+      "servercount": "30406"
+    },
+    "1454963012": {
+      "playercount": "8951",
+      "playerlimit": "9323372052230511260",
+      "servercount": "30441"
+    },
+    "1454964824": {
+      "playercount": "9751",
+      "playerlimit": "100000015375720182",
+      "servercount": "30599"
+    },
+    "1454966636": {
+      "playercount": "9568",
+      "playerlimit": "9323372052230499708",
+      "servercount": "30478"
+    },
+    "1454968447": {
+      "playercount": "10221",
+      "playerlimit": "100000017523192307",
+      "servercount": "30771"
+    },
+    "1454970259": {
+      "playercount": "10383",
+      "playerlimit": "9323372052230482906",
+      "servercount": "30630"
+    },
+    "1454972071": {
+      "playercount": "10467",
+      "playerlimit": "9323372052230489551",
+      "servercount": "30736"
+    },
+    "1454973883": {
+      "playercount": "10880",
+      "playerlimit": "9223372052229366563",
+      "servercount": "29152"
+    },
+    "1454975694": {
+      "playercount": "11175",
+      "playerlimit": "9323372052229364623",
+      "servercount": "28232"
+    },
+    "1454977507": {
+      "playercount": "11938",
+      "playerlimit": "9323372052229379085",
+      "servercount": "30795"
+    },
+    "1454979319": {
+      "playercount": "12272",
+      "playerlimit": "9223372052229272743",
+      "servercount": "30834"
+    },
+    "1454981131": {
+      "playercount": "12215",
+      "playerlimit": "9323372052229173775",
+      "servercount": "30920"
+    },
+    "1454982943": {
+      "playercount": "11980",
+      "playerlimit": "9323372052229281655",
+      "servercount": "30850"
+    },
+    "1454984755": {
+      "playercount": "10669",
+      "playerlimit": "9323372056524234939",
+      "servercount": "30837"
+    },
+    "1454986567": {
+      "playercount": "10530",
+      "playerlimit": "9223372054376741188",
+      "servercount": "30795"
+    },
+    "1454988379": {
+      "playercount": "9472",
+      "playerlimit": "9323372054376731741",
+      "servercount": "30685"
+    },
+    "1454990191": {
+      "playercount": "8902",
+      "playerlimit": "9323372054375739164",
+      "servercount": "30586"
+    },
+    "1454992003": {
+      "playercount": "7950",
+      "playerlimit": "9223372052539143650",
+      "servercount": "30464"
+    },
+    "1454993815": {
+      "playercount": "7377",
+      "playerlimit": "100000017831838447",
+      "servercount": "30191"
+    },
+    "1454995627": {
+      "playercount": "6601",
+      "playerlimit": "9323372054686612767",
+      "servercount": "30173"
+    },
+    "1454997439": {
+      "playercount": "6276",
+      "playerlimit": "9223372054686677910",
+      "servercount": "30015"
+    },
+    "1454999250": {
+      "playercount": "6020",
+      "playerlimit": "100000017831848453",
+      "servercount": "29885"
+    },
+    "1455001062": {
+      "playercount": "5904",
+      "playerlimit": "100000017831832454",
+      "servercount": "29823"
+    },
+    "1455002874": {
+      "playercount": "6168",
+      "playerlimit": "100000017832817047",
+      "servercount": "29652"
+    },
+    "1455004686": {
+      "playercount": "6349",
+      "playerlimit": "100000015684354892",
+      "servercount": "29609"
+    },
+    "1455006497": {
+      "playercount": "6427",
+      "playerlimit": "17831851077",
+      "servercount": "29487"
+    },
+    "1455008309": {
+      "playercount": "6158",
+      "playerlimit": "100000017521976801",
+      "servercount": "29251"
+    },
+    "1455010120": {
+      "playercount": "6326",
+      "playerlimit": "9323372054476641862",
+      "servercount": "29105"
+    },
+    "1455011932": {
+      "playercount": "6296",
+      "playerlimit": "100000017621978600",
+      "servercount": "29131"
+    },
+    "1455013743": {
+      "playercount": "7094",
+      "playerlimit": "100000017521976877",
+      "servercount": "29093"
+    },
+    "1455015554": {
+      "playercount": "7219",
+      "playerlimit": "100000017521949891",
+      "servercount": "28936"
+    },
+    "1455017366": {
+      "playercount": "7344",
+      "playerlimit": "100000017521973240",
+      "servercount": "28873"
+    },
+    "1455019177": {
+      "playercount": "8488",
+      "playerlimit": "17521956870",
+      "servercount": "28791"
+    },
+    "1455020989": {
+      "playercount": "9283",
+      "playerlimit": "17831846401",
+      "servercount": "28821"
+    },
+    "1455022800": {
+      "playercount": "9691",
+      "playerlimit": "100000017831852369",
+      "servercount": "28655"
+    },
+    "1455024611": {
+      "playercount": "9489",
+      "playerlimit": "17831872330",
+      "servercount": "28495"
+    },
+    "1455026423": {
+      "playercount": "9282",
+      "playerlimit": "100000017831864456",
+      "servercount": "28451"
+    },
+    "1455028234": {
+      "playercount": "9644",
+      "playerlimit": "100000017831870033",
+      "servercount": "28408"
+    },
+    "1455030045": {
+      "playercount": "9250",
+      "playerlimit": "100000017520990198",
+      "servercount": "27931"
+    },
+    "1455031856": {
+      "playercount": "8849",
+      "playerlimit": "100000015381497127",
+      "servercount": "27194"
+    },
+    "1455033666": {
+      "playercount": "9062",
+      "playerlimit": "100000015373686046",
+      "servercount": "26662"
+    },
+    "1455035477": {
+      "playercount": "8782",
+      "playerlimit": "15373688429",
+      "servercount": "26194"
+    },
+    "1455037287": {
+      "playercount": "7894",
+      "playerlimit": "100000015373678765",
+      "servercount": "25632"
+    },
+    "1455039097": {
+      "playercount": "8324",
+      "playerlimit": "15373673570",
+      "servercount": "25103"
+    },
+    "1455040907": {
+      "playercount": "7557",
+      "playerlimit": "100000017521154095",
+      "servercount": "24560"
+    },
+    "1455042716": {
+      "playercount": "7481",
+      "playerlimit": "100000017644401953",
+      "servercount": "24043"
+    },
+    "1455044526": {
+      "playercount": "6963",
+      "playerlimit": "100000015374759237",
+      "servercount": "23500"
+    },
+    "1455046335": {
+      "playercount": "6831",
+      "playerlimit": "100000017522243913",
+      "servercount": "23243"
+    },
+    "1455048144": {
+      "playercount": "6288",
+      "playerlimit": "15374766182",
+      "servercount": "22448"
+    },
+    "1455049953": {
+      "playercount": "6341",
+      "playerlimit": "15374772288",
+      "servercount": "22041"
+    },
+    "1455051762": {
+      "playercount": "6399",
+      "playerlimit": "100000015372756215",
+      "servercount": "21548"
+    },
+    "1455053570": {
+      "playercount": "6709",
+      "playerlimit": "100000015372759594",
+      "servercount": "21111"
+    },
+    "1455055378": {
+      "playercount": "6228",
+      "playerlimit": "100000015372761674",
+      "servercount": "20621"
+    },
+    "1455057186": {
+      "playercount": "6405",
+      "playerlimit": "100000015373737542",
+      "servercount": "20136"
+    },
+    "1455058994": {
+      "playercount": "6004",
+      "playerlimit": "100000015372753887",
+      "servercount": "19710"
+    },
+    "1455060802": {
+      "playercount": "6778",
+      "playerlimit": "15372741222",
+      "servercount": "19260"
+    },
+    "1455062610": {
+      "playercount": "6671",
+      "playerlimit": "100000017520213585",
+      "servercount": "18867"
+    },
+    "1455064417": {
+      "playercount": "7275",
+      "playerlimit": "15382748810",
+      "servercount": "18478"
+    },
+    "1455066224": {
+      "playercount": "6742",
+      "playerlimit": "100000017520223315",
+      "servercount": "18053"
+    },
+    "1455068032": {
+      "playercount": "6962",
+      "playerlimit": "100000015372742090",
+      "servercount": "17905"
+    },
+    "1455069839": {
+      "playercount": "6318",
+      "playerlimit": "15372730797",
+      "servercount": "17671"
+    },
+    "1455071646": {
+      "playercount": "6432",
+      "playerlimit": "100000015372741253",
+      "servercount": "17361"
+    },
+    "1455073452": {
+      "playercount": "5883",
+      "playerlimit": "100000015372813847",
+      "servercount": "16430"
+    },
+    "1455075259": {
+      "playercount": "5735",
+      "playerlimit": "100000015372809614",
+      "servercount": "16006"
+    },
+    "1455077065": {
+      "playercount": "4963",
+      "playerlimit": "100000015372825961",
+      "servercount": "15238"
+    },
+    "1455078871": {
+      "playercount": "4757",
+      "playerlimit": "100000015372798377",
+      "servercount": "15085"
+    },
+    "1455080677": {
+      "playercount": "4526",
+      "playerlimit": "100000015372791935",
+      "servercount": "14890"
+    },
+    "1455082483": {
+      "playercount": "4318",
+      "playerlimit": "100000015374792515",
+      "servercount": "14727"
+    },
+    "1455084289": {
+      "playercount": "4176",
+      "playerlimit": "100000017522313195",
+      "servercount": "14619"
+    },
+    "1455086096": {
+      "playercount": "4262",
+      "playerlimit": "15374689022",
+      "servercount": "16637"
+    },
+    "1455087904": {
+      "playercount": "4446",
+      "playerlimit": "15374664924",
+      "servercount": "20191"
+    },
+    "1455089712": {
+      "playercount": "5069",
+      "playerlimit": "100000015374856128",
+      "servercount": "20015"
+    },
+    "1455091521": {
+      "playercount": "5297",
+      "playerlimit": "100000015374896447",
+      "servercount": "22596"
+    },
+    "1455093331": {
+      "playercount": "5263",
+      "playerlimit": "100000015374794975",
+      "servercount": "24017"
+    },
+    "1455095141": {
+      "playercount": "5557",
+      "playerlimit": "100000015374947146",
+      "servercount": "24547"
+    },
+    "1455096951": {
+      "playercount": "5744",
+      "playerlimit": "100000016608269902",
+      "servercount": "24547"
+    },
+    "1455098761": {
+      "playercount": "5956",
+      "playerlimit": "100000016608303938",
+      "servercount": "24690"
+    },
+    "1455100571": {
+      "playercount": "6265",
+      "playerlimit": "100000016608398397",
+      "servercount": "24689"
+    },
+    "1455102381": {
+      "playercount": "6576",
+      "playerlimit": "100000016608417911",
+      "servercount": "24777"
+    },
+    "1455104191": {
+      "playercount": "7309",
+      "playerlimit": "100000015378909265",
+      "servercount": "24814"
+    },
+    "1455106001": {
+      "playercount": "7673",
+      "playerlimit": "100000016366579937",
+      "servercount": "24985"
+    },
+    "1455107811": {
+      "playercount": "8516",
+      "playerlimit": "100000016366556605",
+      "servercount": "25043"
+    },
+    "1455109621": {
+      "playercount": "8562",
+      "playerlimit": "100000016676462158",
+      "servercount": "25183"
+    },
+    "1455111432": {
+      "playercount": "8751",
+      "playerlimit": "100000016366577332",
+      "servercount": "25268"
+    },
+    "1455113242": {
+      "playercount": "8177",
+      "playerlimit": "100000016366577351",
+      "servercount": "25489"
+    },
+    "1455115052": {
+      "playercount": "8318",
+      "playerlimit": "100000018514307290",
+      "servercount": "25474"
+    },
+    "1455116863": {
+      "playercount": "7560",
+      "playerlimit": "100000018514066358",
+      "servercount": "25570"
+    },
+    "1455118673": {
+      "playercount": "7495",
+      "playerlimit": "100000016367024612",
+      "servercount": "25734"
+    },
+    "1455120484": {
+      "playercount": "7761",
+      "playerlimit": "100000015651233491",
+      "servercount": "25797"
+    },
+    "1455122294": {
+      "playercount": "7755",
+      "playerlimit": "100000016361237192",
+      "servercount": "25953"
+    },
+    "1455124104": {
+      "playercount": "7548",
+      "playerlimit": "100000017521042712",
+      "servercount": "25891"
+    },
+    "1455125915": {
+      "playercount": "7550",
+      "playerlimit": "100000018508810512",
+      "servercount": "26073"
+    },
+    "1455127726": {
+      "playercount": "7354",
+      "playerlimit": "100000016361244420",
+      "servercount": "26105"
+    },
+    "1455129536": {
+      "playercount": "7155",
+      "playerlimit": "100000018508631007",
+      "servercount": "26171"
+    },
+    "1455131347": {
+      "playercount": "6967",
+      "playerlimit": "100000018498517275",
+      "servercount": "26141"
+    },
+    "1455133157": {
+      "playercount": "6979",
+      "playerlimit": "100000016351017743",
+      "servercount": "26145"
+    },
+    "1455134968": {
+      "playercount": "7429",
+      "playerlimit": "100000016351043464",
+      "servercount": "26289"
+    },
+    "1455136779": {
+      "playercount": "7561",
+      "playerlimit": "100000016351055666",
+      "servercount": "26314"
+    },
+    "1455138589": {
+      "playercount": "7627",
+      "playerlimit": "100000016351074706",
+      "servercount": "26434"
+    },
+    "1455140400": {
+      "playercount": "7710",
+      "playerlimit": "100000016351054723",
+      "servercount": "26402"
+    },
+    "1455142211": {
+      "playercount": "7991",
+      "playerlimit": "100000016351138907",
+      "servercount": "26488"
+    },
+    "1455144021": {
+      "playercount": "8217",
+      "playerlimit": "100000016351140668",
+      "servercount": "26553"
+    },
+    "1455145832": {
+      "playercount": "8119",
+      "playerlimit": "16351144698",
+      "servercount": "26720"
+    },
+    "1455147643": {
+      "playercount": "8572",
+      "playerlimit": "100000016351260438",
+      "servercount": "26715"
+    },
+    "1455149454": {
+      "playercount": "8297",
+      "playerlimit": "100000016351234844",
+      "servercount": "26441"
+    },
+    "1455151264": {
+      "playercount": "8522",
+      "playerlimit": "100000018498724565",
+      "servercount": "26103"
+    },
+    "1455153075": {
+      "playercount": "8407",
+      "playerlimit": "100000016661320928",
+      "servercount": "25978"
+    },
+    "1455154885": {
+      "playercount": "8489",
+      "playerlimit": "100000016661323373",
+      "servercount": "26108"
+    },
+    "1455156696": {
+      "playercount": "8440",
+      "playerlimit": "100000016661317502",
+      "servercount": "26007"
+    },
+    "1455158506": {
+      "playercount": "7753",
+      "playerlimit": "16351424689",
+      "servercount": "25953"
+    },
+    "1455160317": {
+      "playercount": "7150",
+      "playerlimit": "100000016386639767",
+      "servercount": "26017"
+    },
+    "1455162128": {
+      "playercount": "6915",
+      "playerlimit": "100000016351418567",
+      "servercount": "25877"
+    },
+    "1455163938": {
+      "playercount": "6515",
+      "playerlimit": "100000016356632619",
+      "servercount": "25907"
+    },
+    "1455165748": {
+      "playercount": "5802",
+      "playerlimit": "100000016356659187",
+      "servercount": "25869"
+    },
+    "1455167559": {
+      "playercount": "5909",
+      "playerlimit": "100000016352315970",
+      "servercount": "25909"
+    },
+    "1455169370": {
+      "playercount": "5679",
+      "playerlimit": "100000016356540037",
+      "servercount": "26198"
+    },
+    "1455171180": {
+      "playercount": "5716",
+      "playerlimit": "100000016666347837",
+      "servercount": "26283"
+    },
+    "1455172991": {
+      "playercount": "5727",
+      "playerlimit": "100000016666352982",
+      "servercount": "26189"
+    },
+    "1455174801": {
+      "playercount": "5377",
+      "playerlimit": "100000016666344941",
+      "servercount": "25938"
+    },
+    "1455176612": {
+      "playercount": "5278",
+      "playerlimit": "100000016666349811",
+      "servercount": "26219"
+    },
+    "1455178422": {
+      "playercount": "5081",
+      "playerlimit": "100000016666462659",
+      "servercount": "26200"
+    },
+    "1455180233": {
+      "playercount": "5389",
+      "playerlimit": "16356516229",
+      "servercount": "26159"
+    },
+    "1455182044": {
+      "playercount": "5312",
+      "playerlimit": "100000018503903768",
+      "servercount": "26367"
+    },
+    "1455183854": {
+      "playercount": "5579",
+      "playerlimit": "100000017666301444",
+      "servercount": "25831"
+    },
+    "1455185664": {
+      "playercount": "5818",
+      "playerlimit": "100000017356442139",
+      "servercount": "26048"
+    },
+    "1455187475": {
+      "playercount": "6148",
+      "playerlimit": "100000018356917371",
+      "servercount": "26076"
+    },
+    "1455189285": {
+      "playercount": "6174",
+      "playerlimit": "19503939688",
+      "servercount": "26069"
+    },
+    "1455191096": {
+      "playercount": "6969",
+      "playerlimit": "100000018677342808",
+      "servercount": "26092"
+    },
+    "1455192907": {
+      "playercount": "7271",
+      "playerlimit": "17667444482",
+      "servercount": "26161"
+    },
+    "1455194717": {
+      "playercount": "7852",
+      "playerlimit": "19834923526",
+      "servercount": "26142"
+    },
+    "1455196528": {
+      "playercount": "7593",
+      "playerlimit": "100000020813945137",
+      "servercount": "26173"
+    },
+    "1455198338": {
+      "playercount": "7755",
+      "playerlimit": "100000021956221279",
+      "servercount": "26193"
+    },
+    "1455200149": {
+      "playercount": "7453",
+      "playerlimit": "100000021956147418",
+      "servercount": "26151"
+    },
+    "1455201960": {
+      "playercount": "7268",
+      "playerlimit": "100000021956132412",
+      "servercount": "26294"
+    },
+    "1455203770": {
+      "playercount": "7066",
+      "playerlimit": "100000022228602245",
+      "servercount": "26495"
+    },
+    "1455205581": {
+      "playercount": "7388",
+      "playerlimit": "100000017352285238",
+      "servercount": "26674"
+    },
+    "1455207392": {
+      "playercount": "6900",
+      "playerlimit": "100000019772235953",
+      "servercount": "26875"
+    },
+    "1455209203": {
+      "playercount": "7140",
+      "playerlimit": "100000019499854365",
+      "servercount": "27057"
+    },
+    "1455211014": {
+      "playercount": "7039",
+      "playerlimit": "19499806890",
+      "servercount": "27323"
+    },
+    "1455212825": {
+      "playercount": "7033",
+      "playerlimit": "100000019498731025",
+      "servercount": "27561"
+    },
+    "1455214636": {
+      "playercount": "7167",
+      "playerlimit": "100000017351333422",
+      "servercount": "27793"
+    },
+    "1455216447": {
+      "playercount": "7023",
+      "playerlimit": "100000019498851509",
+      "servercount": "27972"
+    },
+    "1455218258": {
+      "playercount": "6850",
+      "playerlimit": "100000017351350516",
+      "servercount": "28152"
+    },
+    "1455220070": {
+      "playercount": "6943",
+      "playerlimit": "100000017029707352",
+      "servercount": "28355"
+    },
+    "1455221881": {
+      "playercount": "6863",
+      "playerlimit": "9323372057031937298",
+      "servercount": "28602"
+    },
+    "1455223693": {
+      "playercount": "7074",
+      "playerlimit": "9323372053884511918",
+      "servercount": "28808"
+    },
+    "1455225504": {
+      "playercount": "7639",
+      "playerlimit": "9323372053884504137",
+      "servercount": "29019"
+    },
+    "1455227316": {
+      "playercount": "7627",
+      "playerlimit": "9323372053884500010",
+      "servercount": "29314"
+    },
+    "1455229128": {
+      "playercount": "7797",
+      "playerlimit": "9323372053884517491",
+      "servercount": "29636"
+    },
+    "1455230940": {
+      "playercount": "8080",
+      "playerlimit": "9323372053884501832",
+      "servercount": "29756"
+    },
+    "1455232752": {
+      "playercount": "8151",
+      "playerlimit": "9323372056031913290",
+      "servercount": "30088"
+    },
+    "1455234564": {
+      "playercount": "8291",
+      "playerlimit": "9323372053884614251",
+      "servercount": "30308"
+    },
+    "1455236376": {
+      "playercount": "8504",
+      "playerlimit": "9323372056032097235",
+      "servercount": "30445"
+    },
+    "1455238188": {
+      "playercount": "8993",
+      "playerlimit": "9323372056032103179",
+      "servercount": "30578"
+    },
+    "1455240000": {
+      "playercount": "9166",
+      "playerlimit": "9323372056032011260",
+      "servercount": "30713"
+    },
+    "1455241813": {
+      "playercount": "9339",
+      "playerlimit": "9323372053884539432",
+      "servercount": "30961"
+    },
+    "1455243625": {
+      "playercount": "8814",
+      "playerlimit": "9323372053884639168",
+      "servercount": "31202"
+    },
+    "1455245438": {
+      "playercount": "8813",
+      "playerlimit": "9323372053883521519",
+      "servercount": "31218"
+    },
+    "1455247250": {
+      "playercount": "7656",
+      "playerlimit": "9223372053883528142",
+      "servercount": "31003"
+    },
+    "1455249062": {
+      "playercount": "7204",
+      "playerlimit": "9323372053883641482",
+      "servercount": "30799"
+    },
+    "1455250875": {
+      "playercount": "6602",
+      "playerlimit": "9323372056031013458",
+      "servercount": "30807"
+    },
+    "1455252687": {
+      "playercount": "6587",
+      "playerlimit": "9323372058178403784",
+      "servercount": "30931"
+    },
+    "1455254499": {
+      "playercount": "6084",
+      "playerlimit": "9323372057190765646",
+      "servercount": "31063"
+    },
+    "1455256312": {
+      "playercount": "5929",
+      "playerlimit": "9323372056031178124",
+      "servercount": "31066"
+    },
+    "1455258124": {
+      "playercount": "5980",
+      "playerlimit": "9323372056031938682",
+      "servercount": "31077"
+    },
+    "1455259937": {
+      "playercount": "5978",
+      "playerlimit": "9323372056131942209",
+      "servercount": "31052"
+    },
+    "1455261749": {
+      "playercount": "5855",
+      "playerlimit": "9323372056132355559",
+      "servercount": "30888"
+    },
+    "1455263561": {
+      "playercount": "6132",
+      "playerlimit": "9323372053884988735",
+      "servercount": "30949"
+    },
+    "1455265374": {
+      "playercount": "6046",
+      "playerlimit": "9323372053884989532",
+      "servercount": "30864"
+    },
+    "1455267186": {
+      "playercount": "6126",
+      "playerlimit": "9323372053884983910",
+      "servercount": "30805"
+    },
+    "1455268999": {
+      "playercount": "6292",
+      "playerlimit": "9323372056032474194",
+      "servercount": "30769"
+    },
+    "1455270811": {
+      "playercount": "6392",
+      "playerlimit": "9323372053885084460",
+      "servercount": "30778"
+    },
+    "1455272623": {
+      "playercount": "6542",
+      "playerlimit": "9323372054158837637",
+      "servercount": "30773"
+    },
+    "1455274436": {
+      "playercount": "6888",
+      "playerlimit": "9323372053886398648",
+      "servercount": "30793"
+    },
+    "1455276248": {
+      "playercount": "7278",
+      "playerlimit": "9323372053887530435",
+      "servercount": "30764"
+    },
+    "1455278060": {
+      "playercount": "7722",
+      "playerlimit": "9323372053886412107",
+      "servercount": "30705"
+    },
+    "1455279873": {
+      "playercount": "8689",
+      "playerlimit": "9323372053886324189",
+      "servercount": "30754"
+    },
+    "1455281685": {
+      "playercount": "9124",
+      "playerlimit": "9323372053891886907",
+      "servercount": "30667"
+    },
+    "1455283497": {
+      "playercount": "9384",
+      "playerlimit": "9323372053886425189",
+      "servercount": "30396"
+    },
+    "1455285309": {
+      "playercount": "9210",
+      "playerlimit": "9323372052898670757",
+      "servercount": "30549"
+    },
+    "1455287122": {
+      "playercount": "9419",
+      "playerlimit": "9323372052898727719",
+      "servercount": "30650"
+    },
+    "1455288934": {
+      "playercount": "9006",
+      "playerlimit": "9323372052898801849",
+      "servercount": "30681"
+    },
+    "1455290747": {
+      "playercount": "9049",
+      "playerlimit": "9323372051898741475",
+      "servercount": "30645"
+    },
+    "1455292559": {
+      "playercount": "9034",
+      "playerlimit": "9223372052898768241",
+      "servercount": "30669"
+    },
+    "1455294371": {
+      "playercount": "9273",
+      "playerlimit": "9223372052898561346",
+      "servercount": "30710"
+    },
+    "1455296183": {
+      "playercount": "8849",
+      "playerlimit": "9223372052907551730",
+      "servercount": "30608"
+    },
+    "1455297996": {
+      "playercount": "8561",
+      "playerlimit": "9223372052908654374",
+      "servercount": "30612"
+    },
+    "1455299808": {
+      "playercount": "8878",
+      "playerlimit": "9223372052910235449",
+      "servercount": "30587"
+    },
+    "1455301620": {
+      "playercount": "8701",
+      "playerlimit": "9223372055057144255",
+      "servercount": "30665"
+    },
+    "1455303432": {
+      "playercount": "8487",
+      "playerlimit": "9223372055057145972",
+      "servercount": "30702"
+    },
+    "1455305245": {
+      "playercount": "8619",
+      "playerlimit": "9223372055056129767",
+      "servercount": "30607"
+    },
+    "1455307057": {
+      "playercount": "8501",
+      "playerlimit": "9223372057204627852",
+      "servercount": "30680"
+    },
+    "1455308869": {
+      "playercount": "9083",
+      "playerlimit": "9223372057204635376",
+      "servercount": "30898"
+    },
+    "1455310682": {
+      "playercount": "9000",
+      "playerlimit": "9223372055056148219",
+      "servercount": "30927"
+    },
+    "1455312494": {
+      "playercount": "9916",
+      "playerlimit": "9223372057203646315",
+      "servercount": "30916"
+    },
+    "1455314306": {
+      "playercount": "9305",
+      "playerlimit": "9223372055056145966",
+      "servercount": "30932"
+    },
+    "1455316119": {
+      "playercount": "9817",
+      "playerlimit": "9223372055056149959",
+      "servercount": "30931"
+    },
+    "1455317931": {
+      "playercount": "9695",
+      "playerlimit": "9223372055057149768",
+      "servercount": "31028"
+    },
+    "1455319743": {
+      "playercount": "10145",
+      "playerlimit": "9223372055056145097",
+      "servercount": "30964"
+    },
+    "1455321556": {
+      "playercount": "10250",
+      "playerlimit": "9223372055056234182",
+      "servercount": "31064"
+    },
+    "1455323368": {
+      "playercount": "11347",
+      "playerlimit": "9223372055056245323",
+      "servercount": "31039"
+    },
+    "1455325181": {
+      "playercount": "10767",
+      "playerlimit": "9223372055056146389",
+      "servercount": "31074"
+    },
+    "1455326993": {
+      "playercount": "11971",
+      "playerlimit": "9223372055055156881",
+      "servercount": "30979"
+    },
+    "1455328806": {
+      "playercount": "11755",
+      "playerlimit": "9223372057202579172",
+      "servercount": "31151"
+    },
+    "1455330618": {
+      "playercount": "11843",
+      "playerlimit": "9223372057202581811",
+      "servercount": "31228"
+    },
+    "1455332431": {
+      "playercount": "11144",
+      "playerlimit": "9223372057202643527",
+      "servercount": "31173"
+    },
+    "1455334243": {
+      "playercount": "11319",
+      "playerlimit": "9223372055055159051",
+      "servercount": "31330"
+    },
+    "1455336056": {
+      "playercount": "10382",
+      "playerlimit": "9223372055713369235",
+      "servercount": "31212"
+    },
+    "1455337868": {
+      "playercount": "10442",
+      "playerlimit": "9223372055055555207",
+      "servercount": "31339"
+    },
+    "1455339681": {
+      "playercount": "9722",
+      "playerlimit": "9223372055055456535",
+      "servercount": "31190"
+    },
+    "1455341493": {
+      "playercount": "9200",
+      "playerlimit": "9223372055055135350",
+      "servercount": "31240"
+    },
+    "1455343306": {
+      "playercount": "8831",
+      "playerlimit": "9223372055117705460",
+      "servercount": "31320"
+    },
+    "1455345118": {
+      "playercount": "8608",
+      "playerlimit": "9223372055328697271",
+      "servercount": "31360"
+    },
+    "1455346931": {
+      "playercount": "8723",
+      "playerlimit": "9223372055054963242",
+      "servercount": "31422"
+    },
+    "1455348744": {
+      "playercount": "8434",
+      "playerlimit": "9223372055054838397",
+      "servercount": "31289"
+    },
+    "1455350556": {
+      "playercount": "8328",
+      "playerlimit": "9223372055328503023",
+      "servercount": "31455"
+    },
+    "1455352369": {
+      "playercount": "8857",
+      "playerlimit": "9223372055053942481",
+      "servercount": "31527"
+    },
+    "1455354182": {
+      "playercount": "8675",
+      "playerlimit": "9223372055054040270",
+      "servercount": "31615"
+    },
+    "1455355994": {
+      "playercount": "9374",
+      "playerlimit": "9223372055054928182",
+      "servercount": "31558"
+    },
+    "1455357807": {
+      "playercount": "8744",
+      "playerlimit": "9223372055053912426",
+      "servercount": "31613"
+    },
+    "1455359620": {
+      "playercount": "9319",
+      "playerlimit": "18446744094056183641",
+      "servercount": "31763"
+    },
+    "1455361433": {
+      "playercount": "8935",
+      "playerlimit": "9223372055053921485",
+      "servercount": "31803"
+    },
+    "1455363245": {
+      "playercount": "9422",
+      "playerlimit": "9223372055053818540",
+      "servercount": "31949"
+    },
+    "1455365058": {
+      "playercount": "9612",
+      "playerlimit": "9223372055053809878",
+      "servercount": "32015"
+    },
+    "1455366871": {
+      "playercount": "10510",
+      "playerlimit": "9223372054153794868",
+      "servercount": "32140"
+    },
+    "1455368684": {
+      "playercount": "11081",
+      "playerlimit": "9223372055426921440",
+      "servercount": "32051"
+    },
+    "1455370497": {
+      "playercount": "12252",
+      "playerlimit": "9223372048712137709",
+      "servercount": "32214"
+    },
+    "1455372310": {
+      "playercount": "12453",
+      "playerlimit": "9223372058303098333",
+      "servercount": "32515"
+    },
+    "1455374123": {
+      "playercount": "13126",
+      "playerlimit": "9223372056154817622",
+      "servercount": "32668"
+    },
+    "1455375936": {
+      "playercount": "13104",
+      "playerlimit": "9223372056154941970",
+      "servercount": "32898"
+    },
+    "1455377749": {
+      "playercount": "13891",
+      "playerlimit": "9223372058302499310",
+      "servercount": "33093"
+    },
+    "1455379562": {
+      "playercount": "13764",
+      "playerlimit": "9223372058302504599",
+      "servercount": "33314"
+    },
+    "1455381376": {
+      "playercount": "13828",
+      "playerlimit": "9223372058301473968",
+      "servercount": "33434"
+    },
+    "1455383189": {
+      "playercount": "13221",
+      "playerlimit": "9223372057302502208",
+      "servercount": "33571"
+    },
+    "1455385002": {
+      "playercount": "13424",
+      "playerlimit": "9223372055155025185",
+      "servercount": "33715"
+    },
+    "1455386816": {
+      "playercount": "13054",
+      "playerlimit": "9223372054007541145",
+      "servercount": "33628"
+    },
+    "1455388629": {
+      "playercount": "12653",
+      "playerlimit": "9223372056154999597",
+      "servercount": "32662"
+    },
+    "1455390442": {
+      "playercount": "11331",
+      "playerlimit": "9223372058302481380",
+      "servercount": "31813"
+    },
+    "1455392254": {
+      "playercount": "11101",
+      "playerlimit": "9223372056154997348",
+      "servercount": "31290"
+    },
+    "1455394066": {
+      "playercount": "10388",
+      "playerlimit": "9223372055154984574",
+      "servercount": "30265"
+    },
+    "1455395878": {
+      "playercount": "10386",
+      "playerlimit": "9223372055154890529",
+      "servercount": "29415"
+    },
+    "1455397690": {
+      "playercount": "9293",
+      "playerlimit": "9223372055155074652",
+      "servercount": "28803"
+    },
+    "1455399501": {
+      "playercount": "9303",
+      "playerlimit": "9223372057303351914",
+      "servercount": "28307"
+    },
+    "1455401314": {
+      "playercount": "9734",
+      "playerlimit": "9223372055155912794",
+      "servercount": "31440"
+    },
+    "1455403127": {
+      "playercount": "10944",
+      "playerlimit": "9223372055165807614",
+      "servercount": "32429"
+    },
+    "1455404940": {
+      "playercount": "10727",
+      "playerlimit": "9223372055156009579",
+      "servercount": "32427"
+    },
+    "1455406753": {
+      "playercount": "11279",
+      "playerlimit": "9223372055813007829",
+      "servercount": "32510"
+    },
+    "1455408565": {
+      "playercount": "11534",
+      "playerlimit": "18446744092667775002",
+      "servercount": "32482"
+    },
+    "1455410378": {
+      "playercount": "12267",
+      "playerlimit": "9223372055812990871",
+      "servercount": "32486"
+    },
+    "1455412191": {
+      "playercount": "12289",
+      "playerlimit": "9223372057302473348",
+      "servercount": "32579"
+    },
+    "1455414004": {
+      "playercount": "10822",
+      "playerlimit": "9223372057302475290",
+      "servercount": "32286"
+    },
+    "1455415817": {
+      "playercount": "11460",
+      "playerlimit": "9223372055154984957",
+      "servercount": "32545"
+    },
+    "1455417630": {
+      "playercount": "12411",
+      "playerlimit": "9223372055155982543",
+      "servercount": "32509"
+    },
+    "1455419443": {
+      "playercount": "11874",
+      "playerlimit": "9223372055155875920",
+      "servercount": "32584"
+    },
+    "1455421256": {
+      "playercount": "10721",
+      "playerlimit": "9223372057303372244",
+      "servercount": "32537"
+    },
+    "1455423069": {
+      "playercount": "11044",
+      "playerlimit": "9223372057302323548",
+      "servercount": "32628"
+    },
+    "1455424882": {
+      "playercount": "11012",
+      "playerlimit": "9223372057302370880",
+      "servercount": "32615"
+    },
+    "1455426695": {
+      "playercount": "10696",
+      "playerlimit": "9223372057301321330",
+      "servercount": "32508"
+    },
+    "1455428508": {
+      "playercount": "10293",
+      "playerlimit": "9223372057303327534",
+      "servercount": "32425"
+    },
+    "1455430321": {
+      "playercount": "9901",
+      "playerlimit": "9223372057303523094",
+      "servercount": "32396"
+    },
+    "1455432134": {
+      "playercount": "9488",
+      "playerlimit": "9223372058449944643",
+      "servercount": "32406"
+    },
+    "1455433947": {
+      "playercount": "9160",
+      "playerlimit": "9223372058449743005",
+      "servercount": "32337"
+    },
+    "1455435760": {
+      "playercount": "9603",
+      "playerlimit": "9223372058449785249",
+      "servercount": "32383"
+    },
+    "1455437573": {
+      "playercount": "9535",
+      "playerlimit": "9223372058458924181",
+      "servercount": "32413"
+    },
+    "1455439386": {
+      "playercount": "10041",
+      "playerlimit": "9223372058449945820",
+      "servercount": "32476"
+    },
+    "1455441199": {
+      "playercount": "10018",
+      "playerlimit": "9223372058449967561",
+      "servercount": "32646"
+    },
+    "1455443012": {
+      "playercount": "10201",
+      "playerlimit": "9223372058448811164",
+      "servercount": "32563"
+    },
+    "1455444825": {
+      "playercount": "9940",
+      "playerlimit": "9223372058448946356",
+      "servercount": "32697"
+    },
+    "1455446638": {
+      "playercount": "9708",
+      "playerlimit": "9223372056301451963",
+      "servercount": "32718"
+    },
+    "1455448451": {
+      "playercount": "9574",
+      "playerlimit": "9223372058468948421",
+      "servercount": "32762"
+    },
+    "1455450264": {
+      "playercount": "10046",
+      "playerlimit": "9223372057377954527",
+      "servercount": "32755"
+    },
+    "1455452078": {
+      "playercount": "9760",
+      "playerlimit": "9223372056378053913",
+      "servercount": "32774"
+    },
+    "1455453891": {
+      "playercount": "10438",
+      "playerlimit": "9223372056378061032",
+      "servercount": "32785"
+    },
+    "1455455704": {
+      "playercount": "11015",
+      "playerlimit": "9223372056378065044",
+      "servercount": "32840"
+    },
+    "1455457517": {
+      "playercount": "11975",
+      "playerlimit": "9223372056376961160",
+      "servercount": "32866"
+    },
+    "1455459330": {
+      "playercount": "12485",
+      "playerlimit": "9223372056378866709",
+      "servercount": "32924"
+    },
+    "1455461144": {
+      "playercount": "12566",
+      "playerlimit": "9223372056377952187",
+      "servercount": "33010"
+    },
+    "1455462957": {
+      "playercount": "12483",
+      "playerlimit": "9223372056301402401",
+      "servercount": "33122"
+    },
+    "1455464770": {
+      "playercount": "13037",
+      "playerlimit": "9223372058448884610",
+      "servercount": "33297"
+    },
+    "1455466584": {
+      "playercount": "13513",
+      "playerlimit": "9223372058525429528",
+      "servercount": "33356"
+    },
+    "1455468397": {
+      "playercount": "13760",
+      "playerlimit": "9223372058525457778",
+      "servercount": "33510"
+    },
+    "1455470210": {
+      "playercount": "13766",
+      "playerlimit": "9223372056377960980",
+      "servercount": "33648"
+    },
+    "1455472024": {
+      "playercount": "13425",
+      "playerlimit": "9223372056378019867",
+      "servercount": "33586"
+    },
+    "1455473837": {
+      "playercount": "13480",
+      "playerlimit": "9223372056378012795",
+      "servercount": "33784"
+    },
+    "1455475651": {
+      "playercount": "13334",
+      "playerlimit": "9223372056377979279",
+      "servercount": "33780"
+    },
+    "1455477464": {
+      "playercount": "13431",
+      "playerlimit": "9223372056377964845",
+      "servercount": "33890"
+    },
+    "1455479278": {
+      "playercount": "12440",
+      "playerlimit": "9223372056377973476",
+      "servercount": "33839"
+    },
+    "1455481092": {
+      "playercount": "12583",
+      "playerlimit": "9223372056377997146",
+      "servercount": "33834"
+    },
+    "1455482905": {
+      "playercount": "12410",
+      "playerlimit": "9223372058625448036",
+      "servercount": "33844"
+    },
+    "1455484719": {
+      "playercount": "12087",
+      "playerlimit": "18446744095380234926",
+      "servercount": "33784"
+    },
+    "1455486532": {
+      "playercount": "11869",
+      "playerlimit": "18446744095380123684",
+      "servercount": "33810"
+    },
+    "1455488346": {
+      "playercount": "11380",
+      "playerlimit": "18446744095380281682",
+      "servercount": "33640"
+    },
+    "1455490159": {
+      "playercount": "11536",
+      "playerlimit": "9223372058525935656",
+      "servercount": "33609"
+    },
+    "1455491972": {
+      "playercount": "10938",
+      "playerlimit": "9223372056377981396",
+      "servercount": "33518"
+    },
+    "1455493785": {
+      "playercount": "11028",
+      "playerlimit": "9223372056377967987",
+      "servercount": "33224"
+    },
+    "1455495599": {
+      "playercount": "11032",
+      "playerlimit": "9223372056377974552",
+      "servercount": "33214"
+    },
+    "1455497412": {
+      "playercount": "11363",
+      "playerlimit": "9223372056377828536",
+      "servercount": "33087"
+    },
+    "1455499225": {
+      "playercount": "11664",
+      "playerlimit": "9223372058525374084",
+      "servercount": "33133"
+    },
+    "1455501038": {
+      "playercount": "11679",
+      "playerlimit": "9223372056377909177",
+      "servercount": "32983"
+    },
+    "1455502852": {
+      "playercount": "11354",
+      "playerlimit": "9223372058525485423",
+      "servercount": "33016"
+    },
+    "1455504665": {
+      "playercount": "11304",
+      "playerlimit": "9223372058449002318",
+      "servercount": "32826"
+    },
+    "1455506478": {
+      "playercount": "10748",
+      "playerlimit": "9223372060672978550",
+      "servercount": "32779"
+    },
+    "1455508291": {
+      "playercount": "10157",
+      "playerlimit": "9223372060672959551",
+      "servercount": "32573"
+    },
+    "1455510104": {
+      "playercount": "9703",
+      "playerlimit": "9223372060950616317",
+      "servercount": "32437"
+    },
+    "1455511917": {
+      "playercount": "9001",
+      "playerlimit": "9223372058454135415",
+      "servercount": "32373"
+    },
+    "1455513730": {
+      "playercount": "8508",
+      "playerlimit": "9223372058530678315",
+      "servercount": "32243"
+    },
+    "1455515542": {
+      "playercount": "8171",
+      "playerlimit": "9223372058530679738",
+      "servercount": "32194"
+    },
+    "1455517355": {
+      "playercount": "7590",
+      "playerlimit": "9223372056383239067",
+      "servercount": "32104"
+    },
+    "1455519168": {
+      "playercount": "7224",
+      "playerlimit": "9223372056383276885",
+      "servercount": "32038"
+    },
+    "1455520981": {
+      "playercount": "6913",
+      "playerlimit": "9223372058803216964",
+      "servercount": "31894"
+    },
+    "1455522794": {
+      "playercount": "6980",
+      "playerlimit": "9223372062826753157",
+      "servercount": "31834"
+    },
+    "1455524606": {
+      "playercount": "6645",
+      "playerlimit": "9223372064973239147",
+      "servercount": "31799"
+    },
+    "1455526419": {
+      "playercount": "6627",
+      "playerlimit": "9223372063099199525",
+      "servercount": "31686"
+    },
+    "1455528232": {
+      "playercount": "6999",
+      "playerlimit": "9223372065245684668",
+      "servercount": "31656"
+    },
+    "1455530045": {
+      "playercount": "7190",
+      "playerlimit": "9223372064973239055",
+      "servercount": "31430"
+    },
+    "1455531857": {
+      "playercount": "7246",
+      "playerlimit": "9223372062926640301",
+      "servercount": "31484"
+    },
+    "1455533670": {
+      "playercount": "7293",
+      "playerlimit": "9223372062826745985",
+      "servercount": "31327"
+    },
+    "1455535482": {
+      "playercount": "7559",
+      "playerlimit": "9223372065887589235",
+      "servercount": "31213"
+    },
+    "1455537295": {
+      "playercount": "7727",
+      "playerlimit": "9223372062925655014",
+      "servercount": "31149"
+    },
+    "1455539107": {
+      "playercount": "8290",
+      "playerlimit": "9223372060777975421",
+      "servercount": "31129"
+    },
+    "1455540920": {
+      "playercount": "9391",
+      "playerlimit": "9223372058453919100",
+      "servercount": "31333"
+    },
+    "1455542732": {
+      "playercount": "10153",
+      "playerlimit": "9223372058454034303",
+      "servercount": "31080"
+    },
+    "1455544545": {
+      "playercount": "10869",
+      "playerlimit": "9223372058531559818",
+      "servercount": "30948"
+    },
+    "1455546357": {
+      "playercount": "11746",
+      "playerlimit": "9223372058530588920",
+      "servercount": "31091"
+    },
+    "1455548170": {
+      "playercount": "12227",
+      "playerlimit": "9223372060501630162",
+      "servercount": "31363"
+    },
+    "1455549982": {
+      "playercount": "12267",
+      "playerlimit": "9223372060578027867",
+      "servercount": "31009"
+    },
+    "1455551794": {
+      "playercount": "12984",
+      "playerlimit": "9223372060586963186",
+      "servercount": "30853"
+    },
+    "1455553607": {
+      "playercount": "13150",
+      "playerlimit": "9223372060587979882",
+      "servercount": "30956"
+    },
+    "1455555419": {
+      "playercount": "12330",
+      "playerlimit": "9223372058354024608",
+      "servercount": "30891"
+    },
+    "1455557232": {
+      "playercount": "12468",
+      "playerlimit": "9223372060511511124",
+      "servercount": "30939"
+    },
+    "1455559044": {
+      "playercount": "11962",
+      "playerlimit": "9223372059930550671",
+      "servercount": "31039"
+    },
+    "1455560856": {
+      "playercount": "11778",
+      "playerlimit": "9223372059930554820",
+      "servercount": "31092"
+    },
+    "1455562669": {
+      "playercount": "11197",
+      "playerlimit": "9223372059950562556",
+      "servercount": "31367"
+    },
+    "1455564481": {
+      "playercount": "11422",
+      "playerlimit": "9223372062088025753",
+      "servercount": "31470"
+    },
+    "1455566294": {
+      "playercount": "10763",
+      "playerlimit": "9223372058940562984",
+      "servercount": "31212"
+    },
+    "1455568106": {
+      "playercount": "10851",
+      "playerlimit": "9223372058940547746",
+      "servercount": "30778"
+    },
+    "1455569918": {
+      "playercount": "11462",
+      "playerlimit": "9223372061088045721",
+      "servercount": "31286"
+    },
+    "1455571731": {
+      "playercount": "11677",
+      "playerlimit": "9223372063235512405",
+      "servercount": "31242"
+    },
+    "1455573543": {
+      "playercount": "11685",
+      "playerlimit": "9223372061088032568",
+      "servercount": "31422"
+    },
+    "1455575353": {
+      "playercount": "9805",
+      "playerlimit": "9223372061087979896",
+      "servercount": "24470"
+    },
+    "1455577163": {
+      "playercount": "8659",
+      "playerlimit": "9223372061087980622",
+      "servercount": "23761"
+    },
+    "1455578973": {
+      "playercount": "8893",
+      "playerlimit": "9223372058940491242",
+      "servercount": "24810"
+    },
+    "1455580783": {
+      "playercount": "9426",
+      "playerlimit": "9223372058940504602",
+      "servercount": "26227"
+    },
+    "1455582594": {
+      "playercount": "10544",
+      "playerlimit": "9223372058540516237",
+      "servercount": "27579"
+    },
+    "1455584405": {
+      "playercount": "10600",
+      "playerlimit": "9223372058440525682",
+      "servercount": "27514"
+    },
+    "1455586217": {
+      "playercount": "10978",
+      "playerlimit": "9223372060363981979",
+      "servercount": "27570"
+    },
+    "1455588028": {
+      "playercount": "10962",
+      "playerlimit": "9223372058363984311",
+      "servercount": "27707"
+    },
+    "1455589839": {
+      "playercount": "10714",
+      "playerlimit": "9223372058363978425",
+      "servercount": "27657"
+    },
+    "1455591650": {
+      "playercount": "9908",
+      "playerlimit": "9223372060511464894",
+      "servercount": "27682"
+    },
+    "1455593461": {
+      "playercount": "8908",
+      "playerlimit": "9223372060860461700",
+      "servercount": "27550"
+    },
+    "1455595272": {
+      "playercount": "8064",
+      "playerlimit": "9223372060860439659",
+      "servercount": "27097"
+    },
+    "1455597083": {
+      "playercount": "7757",
+      "playerlimit": "9223372060587918420",
+      "servercount": "27047"
+    },
+    "1455598894": {
+      "playercount": "6904",
+      "playerlimit": "9223372060587917468",
+      "servercount": "27008"
+    },
+    "1455600705": {
+      "playercount": "6563",
+      "playerlimit": "9223372060587916539",
+      "servercount": "26779"
+    },
+    "1455602516": {
+      "playercount": "6272",
+      "playerlimit": "9223372060587836777",
+      "servercount": "27371"
+    },
+    "1455604327": {
+      "playercount": "5815",
+      "playerlimit": "9223372060512394636",
+      "servercount": "27405"
+    },
+    "1455606138": {
+      "playercount": "5780",
+      "playerlimit": "9223372060587927131",
+      "servercount": "27457"
+    },
+    "1455607949": {
+      "playercount": "5794",
+      "playerlimit": "9223372062725476968",
+      "servercount": "27485"
+    },
+    "1455609761": {
+      "playercount": "5747",
+      "playerlimit": "9223372062726482347",
+      "servercount": "27470"
+    },
+    "1455611572": {
+      "playercount": "6010",
+      "playerlimit": "9223372056205430858",
+      "servercount": "27440"
+    },
+    "1455613383": {
+      "playercount": "5882",
+      "playerlimit": "9223372058429427356",
+      "servercount": "27360"
+    },
+    "1455615194": {
+      "playercount": "6142",
+      "playerlimit": "9223372056291971721",
+      "servercount": "27305"
+    },
+    "1455617005": {
+      "playercount": "5911",
+      "playerlimit": "9223372056205445358",
+      "servercount": "27405"
+    },
+    "1455618816": {
+      "playercount": "5235",
+      "playerlimit": "9223372058428427313",
+      "servercount": "26674"
+    },
+    "1455620627": {
+      "playercount": "6069",
+      "playerlimit": "9223372060847526908",
+      "servercount": "27236"
+    },
+    "1455622438": {
+      "playercount": "6836",
+      "playerlimit": "9223372060597020000",
+      "servercount": "27445"
+    },
+    "1455624249": {
+      "playercount": "7332",
+      "playerlimit": "9223372061597029487",
+      "servercount": "27552"
+    },
+    "1455626060": {
+      "playercount": "8275",
+      "playerlimit": "9223372062744535058",
+      "servercount": "27736"
+    },
+    "1455627872": {
+      "playercount": "8907",
+      "playerlimit": "9223372060501465694",
+      "servercount": "27857"
+    },
+    "1455629683": {
+      "playercount": "9174",
+      "playerlimit": "9223372061001394184",
+      "servercount": "27988"
+    },
+    "1455631495": {
+      "playercount": "9142",
+      "playerlimit": "9223372056805542216",
+      "servercount": "27905"
+    },
+    "1455633306": {
+      "playercount": "9525",
+      "playerlimit": "9223372056805413718",
+      "servercount": "28025"
+    },
+    "1455635117": {
+      "playercount": "9142",
+      "playerlimit": "9223372056881982994",
+      "servercount": "28095"
+    },
+    "1455636929": {
+      "playercount": "9259",
+      "playerlimit": "9223372056781985974",
+      "servercount": "28233"
+    },
+    "1455638740": {
+      "playercount": "9213",
+      "playerlimit": "9223372056705477638",
+      "servercount": "28206"
+    },
+    "1455640551": {
+      "playercount": "9398",
+      "playerlimit": "9223372056782032154",
+      "servercount": "28193"
+    },
+    "1455642362": {
+      "playercount": "9001",
+      "playerlimit": "9223372050339579523",
+      "servercount": "27434"
+    },
+    "1455644174": {
+      "playercount": "9120",
+      "playerlimit": "9223372050339592540",
+      "servercount": "27899"
+    },
+    "1455645985": {
+      "playercount": "8738",
+      "playerlimit": "9223372050339603501",
+      "servercount": "28045"
+    },
+    "1455647796": {
+      "playercount": "9343",
+      "playerlimit": "9223372050339556433",
+      "servercount": "27942"
+    },
+    "1455649607": {
+      "playercount": "8643",
+      "playerlimit": "9223372050339575598",
+      "servercount": "27934"
+    },
+    "1455651419": {
+      "playercount": "8872",
+      "playerlimit": "9223372052487119777",
+      "servercount": "27813"
+    },
+    "1455653230": {
+      "playercount": "8527",
+      "playerlimit": "9223372052497057389",
+      "servercount": "27636"
+    },
+    "1455655041": {
+      "playercount": "9050",
+      "playerlimit": "9223372054644528551",
+      "servercount": "27592"
+    },
+    "1455656852": {
+      "playercount": "8836",
+      "playerlimit": "9223372054634540401",
+      "servercount": "27554"
+    },
+    "1455658663": {
+      "playercount": "9455",
+      "playerlimit": "9223372052487041639",
+      "servercount": "27560"
+    },
+    "1455660474": {
+      "playercount": "9326",
+      "playerlimit": "9223372049839658908",
+      "servercount": "27577"
+    },
+    "1455662285": {
+      "playercount": "9727",
+      "playerlimit": "9223372049839648470",
+      "servercount": "27677"
+    },
+    "1455664096": {
+      "playercount": "10044",
+      "playerlimit": "9223372049839572078",
+      "servercount": "27660"
+    },
+    "1455665908": {
+      "playercount": "10342",
+      "playerlimit": "9223372049763027656",
+      "servercount": "27746"
+    },
+    "1455667719": {
+      "playercount": "10574",
+      "playerlimit": "9223372049839588654",
+      "servercount": "27365"
+    },
+    "1455669530": {
+      "playercount": "11024",
+      "playerlimit": "9223372049839659983",
+      "servercount": "27883"
+    },
+    "1455671341": {
+      "playercount": "11002",
+      "playerlimit": "9223372049763134243",
+      "servercount": "27885"
+    },
+    "1455673152": {
+      "playercount": "10697",
+      "playerlimit": "9223372049839675138",
+      "servercount": "27399"
+    },
+    "1455674963": {
+      "playercount": "10241",
+      "playerlimit": "9223372049840241885",
+      "servercount": "27767"
+    },
+    "1455676774": {
+      "playercount": "10145",
+      "playerlimit": "9223372050839635768",
+      "servercount": "27142"
+    },
+    "1455678585": {
+      "playercount": "9195",
+      "playerlimit": "9223372050773101376",
+      "servercount": "27647"
+    },
+    "1455680396": {
+      "playercount": "8639",
+      "playerlimit": "9223372055068035757",
+      "servercount": "27580"
+    },
+    "1455682207": {
+      "playercount": "7823",
+      "playerlimit": "9223372052920547080",
+      "servercount": "27141"
+    },
+    "1455684018": {
+      "playercount": "7273",
+      "playerlimit": "9223372055068026559",
+      "servercount": "26415"
+    },
+    "1455685829": {
+      "playercount": "6672",
+      "playerlimit": "9223372055068050204",
+      "servercount": "26714"
+    },
+    "1455687640": {
+      "playercount": "6067",
+      "playerlimit": "9223372055067977199",
+      "servercount": "27194"
+    },
+    "1455689451": {
+      "playercount": "5911",
+      "playerlimit": "9223372055330491271",
+      "servercount": "27117"
+    },
+    "1455691262": {
+      "playercount": "5963",
+      "playerlimit": "9223372050763075329",
+      "servercount": "27008"
+    },
+    "1455693072": {
+      "playercount": "5687",
+      "playerlimit": "9223372055067955189",
+      "servercount": "26980"
+    },
+    "1455694883": {
+      "playercount": "5681",
+      "playerlimit": "9223372061508377731",
+      "servercount": "27045"
+    },
+    "1455696694": {
+      "playercount": "5674",
+      "playerlimit": "9223372059360824633",
+      "servercount": "26952"
+    },
+    "1455698505": {
+      "playercount": "6061",
+      "playerlimit": "9223372062645795954",
+      "servercount": "26892"
+    },
+    "1455700316": {
+      "playercount": "6083",
+      "playerlimit": "9223372062645895707",
+      "servercount": "26898"
+    },
+    "1455702126": {
+      "playercount": "6454",
+      "playerlimit": "9223372051908557593",
+      "servercount": "26777"
+    },
+    "1455703937": {
+      "playercount": "6316",
+      "playerlimit": "9223372050036878289",
+      "servercount": "26802"
+    },
+    "1455705748": {
+      "playercount": "6616",
+      "playerlimit": "9223372050035303045",
+      "servercount": "26821"
+    },
+    "1455707559": {
+      "playercount": "6906",
+      "playerlimit": "9223372047615192398",
+      "servercount": "26836"
+    },
+    "1455709369": {
+      "playercount": "7682",
+      "playerlimit": "9223372049762662556",
+      "servercount": "26859"
+    },
+    "1455711180": {
+      "playercount": "8426",
+      "playerlimit": "9223372049762749773",
+      "servercount": "26864"
+    },
+    "1455712991": {
+      "playercount": "8495",
+      "playerlimit": "9223372049763285768",
+      "servercount": "26929"
+    },
+    "1455714802": {
+      "playercount": "8765",
+      "playerlimit": "9223372049868939974",
+      "servercount": "26916"
+    },
+    "1455716613": {
+      "playercount": "8950",
+      "playerlimit": "9223372049762242263",
+      "servercount": "27042"
+    },
+    "1455718424": {
+      "playercount": "8572",
+      "playerlimit": "9323372049762272377",
+      "servercount": "26911"
+    },
+    "1455720234": {
+      "playercount": "8670",
+      "playerlimit": "9323372049762145565",
+      "servercount": "26855"
+    },
+    "1455722045": {
+      "playercount": "8591",
+      "playerlimit": "9323372049762147662",
+      "servercount": "26925"
+    },
+    "1455723856": {
+      "playercount": "8385",
+      "playerlimit": "9323372049760468991",
+      "servercount": "26836"
+    },
+    "1455725667": {
+      "playercount": "8240",
+      "playerlimit": "9323372049762200818",
+      "servercount": "26813"
+    },
+    "1455727478": {
+      "playercount": "8417",
+      "playerlimit": "9323372049764196854",
+      "servercount": "26592"
+    },
+    "1455729289": {
+      "playercount": "8166",
+      "playerlimit": "9323372049764156266",
+      "servercount": "26713"
+    },
+    "1455731099": {
+      "playercount": "7810",
+      "playerlimit": "9323372049764239298",
+      "servercount": "26705"
+    },
+    "1455732910": {
+      "playercount": "7920",
+      "playerlimit": "9223372049764227169",
+      "servercount": "26723"
+    },
+    "1455734721": {
+      "playercount": "7946",
+      "playerlimit": "9323372049764148975",
+      "servercount": "26744"
+    },
+    "1455736531": {
+      "playercount": "7645",
+      "playerlimit": "9323372051911572355",
+      "servercount": "26782"
+    },
+    "1455738342": {
+      "playercount": "7426",
+      "playerlimit": "9323372051911563543",
+      "servercount": "26924"
+    },
+    "1455740153": {
+      "playercount": "7687",
+      "playerlimit": "9323372049762403569",
+      "servercount": "26841"
+    },
+    "1455741964": {
+      "playercount": "8253",
+      "playerlimit": "18546744086617275207",
+      "servercount": "26809"
+    },
+    "1455743775": {
+      "playercount": "8715",
+      "playerlimit": "9323372057939209510",
+      "servercount": "26713"
+    },
+    "1455745586": {
+      "playercount": "8996",
+      "playerlimit": "9323372057939368925",
+      "servercount": "26824"
+    },
+    "1455747396": {
+      "playercount": "9480",
+      "playerlimit": "9323372057939274824",
+      "servercount": "26754"
+    },
+    "1455749207": {
+      "playercount": "9751",
+      "playerlimit": "9323372055791901511",
+      "servercount": "26698"
+    },
+    "1455751018": {
+      "playercount": "9738",
+      "playerlimit": "9323372055791929191",
+      "servercount": "26759"
+    },
+    "1455752829": {
+      "playercount": "10192",
+      "playerlimit": "9323372055791997277",
+      "servercount": "27059"
+    },
+    "1455754640": {
+      "playercount": "10413",
+      "playerlimit": "9323372055791916758",
+      "servercount": "27246"
+    },
+    "1455756450": {
+      "playercount": "10480",
+      "playerlimit": "9323372055791993509",
+      "servercount": "27195"
+    },
+    "1455758261": {
+      "playercount": "10294",
+      "playerlimit": "9323372055791990092",
+      "servercount": "27296"
+    },
+    "1455760073": {
+      "playercount": "10232",
+      "playerlimit": "9323372055798585709",
+      "servercount": "27631"
+    },
+    "1455761884": {
+      "playercount": "9874",
+      "playerlimit": "9323372049355577575",
+      "servercount": "26806"
+    },
+    "1455763695": {
+      "playercount": "10099",
+      "playerlimit": "9323372049348911267",
+      "servercount": "26755"
+    },
+    "1455765506": {
+      "playercount": "9051",
+      "playerlimit": "9323372055791893290",
+      "servercount": "27563"
+    },
+    "1455767317": {
+      "playercount": "8282",
+      "playerlimit": "9323372055791888515",
+      "servercount": "27523"
+    },
+    "1455769128": {
+      "playercount": "7421",
+      "playerlimit": "9323372055791947572",
+      "servercount": "27455"
+    },
+    "1455770939": {
+      "playercount": "7256",
+      "playerlimit": "9323372055816271129",
+      "servercount": "27410"
+    },
+    "1455772750": {
+      "playercount": "6473",
+      "playerlimit": "9323372055823891203",
+      "servercount": "27426"
+    },
+    "1455774561": {
+      "playercount": "6281",
+      "playerlimit": "9323372055827907011",
+      "servercount": "27356"
+    },
+    "1455776372": {
+      "playercount": "5839",
+      "playerlimit": "9223372055816788275",
+      "servercount": "27275"
+    },
+    "1455778183": {
+      "playercount": "5535",
+      "playerlimit": "9223372055817798844",
+      "servercount": "27186"
+    },
+    "1455779994": {
+      "playercount": "5367",
+      "playerlimit": "9223372055815208468",
+      "servercount": "27164"
+    },
+    "1455781805": {
+      "playercount": "5566",
+      "playerlimit": "9223372055821879041",
+      "servercount": "27561"
+    },
+    "1455783616": {
+      "playercount": "5537",
+      "playerlimit": "9223372057962736161",
+      "servercount": "27518"
+    },
+    "1455785427": {
+      "playercount": "5800",
+      "playerlimit": "9223372055815194139",
+      "servercount": "27465"
+    },
+    "1455787238": {
+      "playercount": "5599",
+      "playerlimit": "9223372055815200462",
+      "servercount": "27499"
+    },
+    "1455789049": {
+      "playercount": "5590",
+      "playerlimit": "9223372055815223495",
+      "servercount": "27519"
+    },
+    "1455790861": {
+      "playercount": "5972",
+      "playerlimit": "9223372055815274386",
+      "servercount": "27521"
+    },
+    "1455792672": {
+      "playercount": "6228",
+      "playerlimit": "9223372055815528609",
+      "servercount": "27525"
+    },
+    "1455794483": {
+      "playercount": "6446",
+      "playerlimit": "9223372057962973938",
+      "servercount": "27584"
+    },
+    "1455796294": {
+      "playercount": "7150",
+      "playerlimit": "9223372057963011958",
+      "servercount": "27665"
+    },
+    "1455798105": {
+      "playercount": "7579",
+      "playerlimit": "9223372057969595265",
+      "servercount": "27709"
+    },
+    "1455799916": {
+      "playercount": "7809",
+      "playerlimit": "9223372057939471921",
+      "servercount": "27729"
+    },
+    "1455801727": {
+      "playercount": "7455",
+      "playerlimit": "9223372057939532337",
+      "servercount": "27775"
+    },
+    "1455803539": {
+      "playercount": "7811",
+      "playerlimit": "9223372057941203815",
+      "servercount": "27894"
+    },
+    "1455805350": {
+      "playercount": "7033",
+      "playerlimit": "18938929567",
+      "servercount": "27716"
+    },
+    "1455807161": {
+      "playercount": "7203",
+      "playerlimit": "18938898219",
+      "servercount": "27736"
+    },
+    "1455808972": {
+      "playercount": "7150",
+      "playerlimit": "18948943700",
+      "servercount": "27735"
+    },
+    "1455810784": {
+      "playercount": "7081",
+      "playerlimit": "18938883123",
+      "servercount": "27713"
+    },
+    "1455812595": {
+      "playercount": "6771",
+      "playerlimit": "18938889001",
+      "servercount": "27714"
+    },
+    "1455814406": {
+      "playercount": "6491",
+      "playerlimit": "18937092439",
+      "servercount": "27776"
+    },
+    "1455816217": {
+      "playercount": "6321",
+      "playerlimit": "1000018933488087",
+      "servercount": "27784"
+    },
+    "1455818028": {
+      "playercount": "6286",
+      "playerlimit": "1000018938819561",
+      "servercount": "27904"
+    },
+    "1455819839": {
+      "playercount": "6121",
+      "playerlimit": "21086287066",
+      "servercount": "27920"
+    },
+    "1455821651": {
+      "playercount": "5983",
+      "playerlimit": "23233810830",
+      "servercount": "27975"
+    },
+    "1455823462": {
+      "playercount": "5814",
+      "playerlimit": "21086399374",
+      "servercount": "28066"
+    },
+    "1455825273": {
+      "playercount": "6095",
+      "playerlimit": "18938773498",
+      "servercount": "28046"
+    },
+    "1455827084": {
+      "playercount": "6260",
+      "playerlimit": "1000018938681265",
+      "servercount": "27942"
+    },
+    "1455828896": {
+      "playercount": "6396",
+      "playerlimit": "1000018938593497",
+      "servercount": "28058"
+    },
+    "1455830707": {
+      "playercount": "6471",
+      "playerlimit": "1000021086232443",
+      "servercount": "28064"
+    },
+    "1455832518": {
+      "playercount": "6483",
+      "playerlimit": "18938693746",
+      "servercount": "28147"
+    },
+    "1455834330": {
+      "playercount": "6440",
+      "playerlimit": "18938700652",
+      "servercount": "28149"
+    },
+    "1455836141": {
+      "playercount": "7099",
+      "playerlimit": "18938704986",
+      "servercount": "28240"
+    },
+    "1455837952": {
+      "playercount": "7476",
+      "playerlimit": "10761886843",
+      "servercount": "28224"
+    },
+    "1455839763": {
+      "playercount": "7843",
+      "playerlimit": "10760202436",
+      "servercount": "28372"
+    },
+    "1455841575": {
+      "playercount": "8265",
+      "playerlimit": "18937019870",
+      "servercount": "28349"
+    },
+    "1455843386": {
+      "playercount": "8021",
+      "playerlimit": "21084500244",
+      "servercount": "28483"
+    },
+    "1455845198": {
+      "playercount": "8402",
+      "playerlimit": "12907793186",
+      "servercount": "28571"
+    },
+    "1455847009": {
+      "playercount": "8159",
+      "playerlimit": "10760295657",
+      "servercount": "28708"
+    },
+    "1455848821": {
+      "playercount": "8271",
+      "playerlimit": "10760297122",
+      "servercount": "28734"
+    },
+    "1455850632": {
+      "playercount": "7815",
+      "playerlimit": "11033738825",
+      "servercount": "28725"
+    },
+    "1455852443": {
+      "playercount": "7108",
+      "playerlimit": "10760379657",
+      "servercount": "28735"
+    },
+    "1455854255": {
+      "playercount": "6756",
+      "playerlimit": "8612843232",
+      "servercount": "28609"
+    },
+    "1455856066": {
+      "playercount": "6482",
+      "playerlimit": "8618018222",
+      "servercount": "28721"
+    },
+    "1455857878": {
+      "playercount": "5985",
+      "playerlimit": "8618029387",
+      "servercount": "28724"
+    },
+    "1455859689": {
+      "playercount": "5801",
+      "playerlimit": "8618093922",
+      "servercount": "28731"
+    },
+    "1455861501": {
+      "playercount": "5213",
+      "playerlimit": "8620703476",
+      "servercount": "28673"
+    },
+    "1455863312": {
+      "playercount": "5283",
+      "playerlimit": "8619620083",
+      "servercount": "28694"
+    },
+    "1455865124": {
+      "playercount": "4900",
+      "playerlimit": "8743035617",
+      "servercount": "28682"
+    },
+    "1455866935": {
+      "playercount": "4892",
+      "playerlimit": "8642928731",
+      "servercount": "28810"
+    },
+    "1455868747": {
+      "playercount": "4761",
+      "playerlimit": "8620268331",
+      "servercount": "28822"
+    },
+    "1455870558": {
+      "playercount": "5060",
+      "playerlimit": "8619520937",
+      "servercount": "28850"
+    },
+    "1455872370": {
+      "playercount": "5479",
+      "playerlimit": "8619672549",
+      "servercount": "28855"
+    },
+    "1455874182": {
+      "playercount": "5807",
+      "playerlimit": "8625602771",
+      "servercount": "28892"
+    },
+    "1455875993": {
+      "playercount": "5763",
+      "playerlimit": "10767096552",
+      "servercount": "28917"
+    },
+    "1455877805": {
+      "playercount": "6329",
+      "playerlimit": "10767185225",
+      "servercount": "28961"
+    },
+    "1455879616": {
+      "playercount": "6246",
+      "playerlimit": "10775770859",
+      "servercount": "28967"
+    },
+    "1455881428": {
+      "playercount": "6852",
+      "playerlimit": "10768115319",
+      "servercount": "29022"
+    },
+    "1455883240": {
+      "playercount": "7000",
+      "playerlimit": "10767622281",
+      "servercount": "29044"
+    },
+    "1455885051": {
+      "playercount": "7805",
+      "playerlimit": "10773767203",
+      "servercount": "29133"
+    },
+    "1455886863": {
+      "playercount": "7863",
+      "playerlimit": "10773679488",
+      "servercount": "29138"
+    },
+    "1455888675": {
+      "playercount": "7974",
+      "playerlimit": "10767121431",
+      "servercount": "29408"
+    },
+    "1455890486": {
+      "playercount": "7942",
+      "playerlimit": "10773703793",
+      "servercount": "29448"
+    },
+    "1455892298": {
+      "playercount": "8242",
+      "playerlimit": "10767044064",
+      "servercount": "29542"
+    },
+    "1455894110": {
+      "playercount": "8082",
+      "playerlimit": "10768005732",
+      "servercount": "29579"
+    },
+    "1455895922": {
+      "playercount": "8212",
+      "playerlimit": "10766996788",
+      "servercount": "29646"
+    },
+    "1455897733": {
+      "playercount": "7599",
+      "playerlimit": "10766908342",
+      "servercount": "29674"
+    },
+    "1455899545": {
+      "playercount": "7801",
+      "playerlimit": "12914476704",
+      "servercount": "29677"
+    },
+    "1455901357": {
+      "playercount": "7319",
+      "playerlimit": "10765276643",
+      "servercount": "29732"
+    },
+    "1455903169": {
+      "playercount": "7085",
+      "playerlimit": "8617827489",
+      "servercount": "29852"
+    },
+    "1455904981": {
+      "playercount": "6932",
+      "playerlimit": "8617847493",
+      "servercount": "29953"
+    },
+    "1455906792": {
+      "playercount": "7078",
+      "playerlimit": "8617917332",
+      "servercount": "29917"
+    },
+    "1455908604": {
+      "playercount": "6789",
+      "playerlimit": "8617949478",
+      "servercount": "30058"
+    },
+    "1455910417": {
+      "playercount": "7004",
+      "playerlimit": "9223372045475710280",
+      "servercount": "30244"
+    },
+    "1455912228": {
+      "playercount": "7162",
+      "playerlimit": "10763111806",
+      "servercount": "30301"
+    },
+    "1455914041": {
+      "playercount": "7866",
+      "playerlimit": "10765305325",
+      "servercount": "30421"
+    },
+    "1455915853": {
+      "playercount": "7747",
+      "playerlimit": "10765312997",
+      "servercount": "30479"
+    },
+    "1455917665": {
+      "playercount": "8622",
+      "playerlimit": "10765398379",
+      "servercount": "30456"
+    },
+    "1455919477": {
+      "playercount": "8256",
+      "playerlimit": "8617954168",
+      "servercount": "30754"
+    },
+    "1455921289": {
+      "playercount": "8785",
+      "playerlimit": "8617952546",
+      "servercount": "30598"
+    },
+    "1455923101": {
+      "playercount": "8927",
+      "playerlimit": "8617836996",
+      "servercount": "30775"
+    },
+    "1455924914": {
+      "playercount": "9205",
+      "playerlimit": "8617838757",
+      "servercount": "30700"
+    },
+    "1455926726": {
+      "playercount": "9399",
+      "playerlimit": "8617833894",
+      "servercount": "30738"
+    },
+    "1455928538": {
+      "playercount": "10492",
+      "playerlimit": "8617859817",
+      "servercount": "30892"
+    },
+    "1455930350": {
+      "playercount": "9939",
+      "playerlimit": "8617862775",
+      "servercount": "30883"
+    },
+    "1455932163": {
+      "playercount": "10418",
+      "playerlimit": "8618014226",
+      "servercount": "31203"
+    },
+    "1455933975": {
+      "playercount": "10229",
+      "playerlimit": "8617921059",
+      "servercount": "31163"
+    },
+    "1455935788": {
+      "playercount": "10799",
+      "playerlimit": "8618867110",
+      "servercount": "31362"
+    },
+    "1455937600": {
+      "playercount": "9852",
+      "playerlimit": "8617858798",
+      "servercount": "31376"
+    },
+    "1455939413": {
+      "playercount": "10063",
+      "playerlimit": "10776098632",
+      "servercount": "31478"
+    },
+    "1455941226": {
+      "playercount": "9240",
+      "playerlimit": "10765377885",
+      "servercount": "31591"
+    },
+    "1455943038": {
+      "playercount": "8947",
+      "playerlimit": "11037715037",
+      "servercount": "31611"
+    },
+    "1455944851": {
+      "playercount": "8532",
+      "playerlimit": "8617888640",
+      "servercount": "31714"
+    },
+    "1455946664": {
+      "playercount": "8082",
+      "playerlimit": "8620699655",
+      "servercount": "31733"
+    },
+    "1455948477": {
+      "playercount": "8002",
+      "playerlimit": "10761124321",
+      "servercount": "31781"
+    },
+    "1455950290": {
+      "playercount": "7515",
+      "playerlimit": "10760165244",
+      "servercount": "31820"
+    },
+    "1455952102": {
+      "playercount": "7261",
+      "playerlimit": "8612649522",
+      "servercount": "31790"
+    },
+    "1455953915": {
+      "playercount": "7717",
+      "playerlimit": "12909837741",
+      "servercount": "32007"
+    },
+    "1455955728": {
+      "playercount": "7871",
+      "playerlimit": "12910502818",
+      "servercount": "32143"
+    },
+    "1455957541": {
+      "playercount": "7804",
+      "playerlimit": "12908767529",
+      "servercount": "32205"
+    },
+    "1455959354": {
+      "playercount": "7728",
+      "playerlimit": "12908764887",
+      "servercount": "32293"
+    },
+    "1455961167": {
+      "playercount": "8309",
+      "playerlimit": "13008701103",
+      "servercount": "32427"
+    },
+    "1455962980": {
+      "playercount": "8343",
+      "playerlimit": "13008856715",
+      "servercount": "32499"
+    },
+    "1455964793": {
+      "playercount": "8442",
+      "playerlimit": "13008970673",
+      "servercount": "32588"
+    },
+    "1455966606": {
+      "playercount": "8703",
+      "playerlimit": "15157707862",
+      "servercount": "32616"
+    },
+    "1455968419": {
+      "playercount": "9168",
+      "playerlimit": "13009599026",
+      "servercount": "32694"
+    },
+    "1455970232": {
+      "playercount": "9385",
+      "playerlimit": "10861524759",
+      "servercount": "32772"
+    },
+    "1455972046": {
+      "playercount": "9895",
+      "playerlimit": "21598961285",
+      "servercount": "32927"
+    },
+    "1455973859": {
+      "playercount": "10787",
+      "playerlimit": "23745078037",
+      "servercount": "32992"
+    },
+    "1455975672": {
+      "playercount": "11602",
+      "playerlimit": "21869919463",
+      "servercount": "33481"
+    },
+    "1455977485": {
+      "playercount": "12269",
+      "playerlimit": "21597570397",
+      "servercount": "33429"
+    },
+    "1455979299": {
+      "playercount": "12314",
+      "playerlimit": "21509740392",
+      "servercount": "33655"
+    },
+    "1455981112": {
+      "playercount": "12245",
+      "playerlimit": "21498563588",
+      "servercount": "33972"
+    },
+    "1455982926": {
+      "playercount": "11841",
+      "playerlimit": "21498596586",
+      "servercount": "34165"
+    },
+    "1455984739": {
+      "playercount": "11879",
+      "playerlimit": "23645350665",
+      "servercount": "34332"
+    },
+    "1455986553": {
+      "playercount": "11689",
+      "playerlimit": "23646725747",
+      "servercount": "34180"
+    },
+    "1455988367": {
+      "playercount": "11426",
+      "playerlimit": "21499339500",
+      "servercount": "34550"
+    },
+    "1455990181": {
+      "playercount": "11138",
+      "playerlimit": "21500247407",
+      "servercount": "34734"
+    },
+    "1455991994": {
+      "playercount": "11047",
+      "playerlimit": "23646677571",
+      "servercount": "35011"
+    },
+    "1455993808": {
+      "playercount": "11111",
+      "playerlimit": "21500620714",
+      "servercount": "35322"
+    },
+    "1455995622": {
+      "playercount": "10616",
+      "playerlimit": "21510633431",
+      "servercount": "33652"
+    },
+    "1455997435": {
+      "playercount": "10509",
+      "playerlimit": "21494621966",
+      "servercount": "32317"
+    },
+    "1455999248": {
+      "playercount": "10311",
+      "playerlimit": "21501707025",
+      "servercount": "32338"
+    },
+    "1456001061": {
+      "playercount": "9930",
+      "playerlimit": "19352704619",
+      "servercount": "32517"
+    },
+    "1456002874": {
+      "playercount": "9862",
+      "playerlimit": "19352790954",
+      "servercount": "32514"
+    },
+    "1456004687": {
+      "playercount": "9468",
+      "playerlimit": "17205746526",
+      "servercount": "32659"
+    },
+    "1456006500": {
+      "playercount": "9378",
+      "playerlimit": "19351777490",
+      "servercount": "32626"
+    },
+    "1456008313": {
+      "playercount": "9565",
+      "playerlimit": "19351210831",
+      "servercount": "32719"
+    },
+    "1456010126": {
+      "playercount": "9810",
+      "playerlimit": "17203915146",
+      "servercount": "32784"
+    },
+    "1456011939": {
+      "playercount": "10284",
+      "playerlimit": "19351327641",
+      "servercount": "32939"
+    },
+    "1456013752": {
+      "playercount": "10520",
+      "playerlimit": "19351920327",
+      "servercount": "32897"
+    },
+    "1456015565": {
+      "playercount": "10799",
+      "playerlimit": "19351970842",
+      "servercount": "32969"
+    },
+    "1456017379": {
+      "playercount": "11175",
+      "playerlimit": "19351841486",
+      "servercount": "32937"
+    },
+    "1456019192": {
+      "playercount": "11120",
+      "playerlimit": "15056388818",
+      "servercount": "32463"
+    },
+    "1456021005": {
+      "playercount": "11089",
+      "playerlimit": "15057014123",
+      "servercount": "32520"
+    },
+    "1456022818": {
+      "playercount": "11312",
+      "playerlimit": "15055184692",
+      "servercount": "32489"
+    },
+    "1456024631": {
+      "playercount": "11004",
+      "playerlimit": "15055172482",
+      "servercount": "32497"
+    },
+    "1456026444": {
+      "playercount": "11174",
+      "playerlimit": "15534134332",
+      "servercount": "32752"
+    },
+    "1456028257": {
+      "playercount": "10390",
+      "playerlimit": "15055177035",
+      "servercount": "32767"
+    },
+    "1456030070": {
+      "playercount": "9850",
+      "playerlimit": "15055277972",
+      "servercount": "32665"
+    },
+    "1456031883": {
+      "playercount": "9937",
+      "playerlimit": "21492988285",
+      "servercount": "33489"
+    },
+    "1456033697": {
+      "playercount": "9588",
+      "playerlimit": "21498157835",
+      "servercount": "33548"
+    },
+    "1456035510": {
+      "playercount": "9483",
+      "playerlimit": "21498481994",
+      "servercount": "33635"
+    },
+    "1456037323": {
+      "playercount": "8812",
+      "playerlimit": "21498178759",
+      "servercount": "33807"
+    },
+    "1456039137": {
+      "playercount": "8901",
+      "playerlimit": "21508282269",
+      "servercount": "33627"
+    },
+    "1456040950": {
+      "playercount": "8864",
+      "playerlimit": "23646744715",
+      "servercount": "33721"
+    },
+    "1456042764": {
+      "playercount": "9048",
+      "playerlimit": "23647775626",
+      "servercount": "33964"
+    },
+    "1456044577": {
+      "playercount": "9054",
+      "playerlimit": "23645650442",
+      "servercount": "34056"
+    },
+    "1456046391": {
+      "playercount": "8533",
+      "playerlimit": "24124788516",
+      "servercount": "34198"
+    },
+    "1456048204": {
+      "playercount": "8750",
+      "playerlimit": "24124780341",
+      "servercount": "33868"
+    },
+    "1456050018": {
+      "playercount": "8794",
+      "playerlimit": "23645225787",
+      "servercount": "33649"
+    },
+    "1456051831": {
+      "playercount": "9023",
+      "playerlimit": "23753102304",
+      "servercount": "33426"
+    },
+    "1456053644": {
+      "playercount": "8775",
+      "playerlimit": "21599587988",
+      "servercount": "33342"
+    },
+    "1456055457": {
+      "playercount": "8743",
+      "playerlimit": "21499453417",
+      "servercount": "33203"
+    },
+    "1456057270": {
+      "playercount": "9194",
+      "playerlimit": "21509438529",
+      "servercount": "33134"
+    },
+    "1456059083": {
+      "playercount": "9517",
+      "playerlimit": "23650518595",
+      "servercount": "32962"
+    },
+    "1456060896": {
+      "playercount": "9161",
+      "playerlimit": "23757120678",
+      "servercount": "32830"
+    },
+    "1456062709": {
+      "playercount": "9690",
+      "playerlimit": "25804591443",
+      "servercount": "32725"
+    },
+    "1456064522": {
+      "playercount": "10629",
+      "playerlimit": "25804625154",
+      "servercount": "32634"
+    },
+    "1456066335": {
+      "playercount": "10579",
+      "playerlimit": "23645613152",
+      "servercount": "32439"
+    },
+    "1456068148": {
+      "playercount": "10595",
+      "playerlimit": "23655639863",
+      "servercount": "32351"
+    },
+    "1456069960": {
+      "playercount": "10485",
+      "playerlimit": "21498112832",
+      "servercount": "32193"
+    },
+    "1456071773": {
+      "playercount": "10659",
+      "playerlimit": "21598109408",
+      "servercount": "32034"
+    },
+    "1456073585": {
+      "playercount": "10861",
+      "playerlimit": "21598122189",
+      "servercount": "31789"
+    },
+    "1456075398": {
+      "playercount": "10752",
+      "playerlimit": "21498105593",
+      "servercount": "31633"
+    },
+    "1456077210": {
+      "playercount": "10088",
+      "playerlimit": "21498130156",
+      "servercount": "31446"
+    },
+    "1456079022": {
+      "playercount": "9913",
+      "playerlimit": "21498256217",
+      "servercount": "31342"
+    },
+    "1456080835": {
+      "playercount": "8658",
+      "playerlimit": "21499509634",
+      "servercount": "30945"
+    },
+    "1456082647": {
+      "playercount": "8100",
+      "playerlimit": "21498191612",
+      "servercount": "30827"
+    },
+    "1456084459": {
+      "playercount": "8827",
+      "playerlimit": "23646025915",
+      "servercount": "30663"
+    },
+    "1456086270": {
+      "playercount": "8828",
+      "playerlimit": "23645769854",
+      "servercount": "30606"
+    },
+    "1456088082": {
+      "playercount": "8604",
+      "playerlimit": "19350816956",
+      "servercount": "30449"
+    },
+    "1456089894": {
+      "playercount": "8452",
+      "playerlimit": "1000023645764197",
+      "servercount": "30313"
+    },
+    "1456091706": {
+      "playercount": "8394",
+      "playerlimit": "1000021498204286",
+      "servercount": "30184"
+    },
+    "1456093518": {
+      "playercount": "8180",
+      "playerlimit": "1000023645752354",
+      "servercount": "30048"
+    },
+    "1456095329": {
+      "playercount": "7914",
+      "playerlimit": "1000021559838806",
+      "servercount": "29931"
+    },
+    "1456097141": {
+      "playercount": "8457",
+      "playerlimit": "21493042233",
+      "servercount": "29809"
+    },
+    "1456098953": {
+      "playercount": "9001",
+      "playerlimit": "21498252294",
+      "servercount": "29706"
+    },
+    "1456100764": {
+      "playercount": "9042",
+      "playerlimit": "19350810168",
+      "servercount": "29504"
+    },
+    "1456102576": {
+      "playercount": "9666",
+      "playerlimit": "23499604686",
+      "servercount": "29853"
+    },
+    "1456104387": {
+      "playercount": "9842",
+      "playerlimit": "23498265054",
+      "servercount": "29994"
+    },
+    "1456106199": {
+      "playercount": "9270",
+      "playerlimit": "23498274146",
+      "servercount": "29835"
+    },
+    "1456108011": {
+      "playercount": "9591",
+      "playerlimit": "23498216001",
+      "servercount": "29941"
+    },
+    "1456109822": {
+      "playercount": "8892",
+      "playerlimit": "23773967635",
+      "servercount": "29828"
+    },
+    "1456111634": {
+      "playercount": "8534",
+      "playerlimit": "23588496106",
+      "servercount": "28809"
+    },
+    "1456113445": {
+      "playercount": "7613",
+      "playerlimit": "23499534763",
+      "servercount": "28832"
+    },
+    "1456115256": {
+      "playercount": "7136",
+      "playerlimit": "25645659642",
+      "servercount": "27655"
+    },
+    "1456117067": {
+      "playercount": "6694",
+      "playerlimit": "25646663654",
+      "servercount": "27473"
+    },
+    "1456118878": {
+      "playercount": "6596",
+      "playerlimit": "23499505746",
+      "servercount": "27487"
+    },
+    "1456120688": {
+      "playercount": "6062",
+      "playerlimit": "23500608746",
+      "servercount": "26267"
+    },
+    "1456122498": {
+      "playercount": "5888",
+      "playerlimit": "23499480895",
+      "servercount": "23777"
+    },
+    "1456124307": {
+      "playercount": "5481",
+      "playerlimit": "25647005183",
+      "servercount": "22869"
+    },
+    "1456126116": {
+      "playercount": "5303",
+      "playerlimit": "25745671212",
+      "servercount": "22225"
+    },
+    "1456127924": {
+      "playercount": "5371",
+      "playerlimit": "25741033057",
+      "servercount": "20988"
+    },
+    "1456129733": {
+      "playercount": "5266",
+      "playerlimit": "23500296182",
+      "servercount": "23453"
+    },
+    "1456131542": {
+      "playercount": "5164",
+      "playerlimit": "23601291498",
+      "servercount": "22796"
+    },
+    "1456133351": {
+      "playercount": "5429",
+      "playerlimit": "23599389599",
+      "servercount": "22138"
+    },
+    "1456135159": {
+      "playercount": "5321",
+      "playerlimit": "25698070975",
+      "servercount": "20890"
+    },
+    "1456136967": {
+      "playercount": "5801",
+      "playerlimit": "23599054022",
+      "servercount": "20939"
+    },
+    "1456138775": {
+      "playercount": "5861",
+      "playerlimit": "23598168859",
+      "servercount": "20980"
+    },
+    "1456140583": {
+      "playercount": "6425",
+      "playerlimit": "23598068586",
+      "servercount": "21092"
+    },
+    "1456142391": {
+      "playercount": "6594",
+      "playerlimit": "23598070262",
+      "servercount": "21150"
+    },
+    "1456144199": {
+      "playercount": "7015",
+      "playerlimit": "23598203817",
+      "servercount": "21300"
+    },
+    "1456146007": {
+      "playercount": "6968",
+      "playerlimit": "23599157067",
+      "servercount": "21374"
+    },
+    "1456147815": {
+      "playercount": "7107",
+      "playerlimit": "23598357834",
+      "servercount": "21492"
+    },
+    "1456149623": {
+      "playercount": "6895",
+      "playerlimit": "23598143367",
+      "servercount": "21553"
+    },
+    "1456151431": {
+      "playercount": "6302",
+      "playerlimit": "23598240486",
+      "servercount": "21672"
+    },
+    "1456153239": {
+      "playercount": "6309",
+      "playerlimit": "21450581150",
+      "servercount": "21675"
+    },
+    "1456155047": {
+      "playercount": "6201",
+      "playerlimit": "21450577967",
+      "servercount": "21920"
+    },
+    "1456156856": {
+      "playercount": "6276",
+      "playerlimit": "21450631761",
+      "servercount": "21950"
+    },
+    "1456158664": {
+      "playercount": "6701",
+      "playerlimit": "21450609120",
+      "servercount": "21994"
+    },
+    "1456160472": {
+      "playercount": "6433",
+      "playerlimit": "21450611651",
+      "servercount": "22055"
+    },
+    "1456162280": {
+      "playercount": "6394",
+      "playerlimit": "21450620832",
+      "servercount": "22122"
+    },
+    "1456164101": {
+      "playercount": "6109",
+      "playerlimit": "21450634076",
+      "servercount": "22238"
+    },
+    "1456165910": {
+      "playercount": "6395",
+      "playerlimit": "21450616586",
+      "servercount": "22277"
+    },
+    "1456167718": {
+      "playercount": "5753",
+      "playerlimit": "21448617024",
+      "servercount": "22330"
+    },
+    "1456169526": {
+      "playercount": "6060",
+      "playerlimit": "21448619027",
+      "servercount": "22309"
+    },
+    "1456171334": {
+      "playercount": "5909",
+      "playerlimit": "21443405657",
+      "servercount": "22398"
+    },
+    "1456173142": {
+      "playercount": "6463",
+      "playerlimit": "21448515460",
+      "servercount": "22453"
+    },
+    "1456174951": {
+      "playercount": "6085",
+      "playerlimit": "21448616843",
+      "servercount": "22511"
+    },
+    "1456176759": {
+      "playercount": "6509",
+      "playerlimit": "21448615605",
+      "servercount": "22641"
+    },
+    "1456178567": {
+      "playercount": "6558",
+      "playerlimit": "21448616427",
+      "servercount": "22731"
+    },
+    "1456180375": {
+      "playercount": "7384",
+      "playerlimit": "21448616237",
+      "servercount": "22893"
+    },
+    "1456182184": {
+      "playercount": "7115",
+      "playerlimit": "21448705846",
+      "servercount": "23040"
+    },
+    "1456183992": {
+      "playercount": "8135",
+      "playerlimit": "21450615003",
+      "servercount": "23183"
+    },
+    "1456185800": {
+      "playercount": "8054",
+      "playerlimit": "21450631158",
+      "servercount": "23279"
+    },
+    "1456187609": {
+      "playercount": "8915",
+      "playerlimit": "21450600870",
+      "servercount": "23371"
+    },
+    "1456189417": {
+      "playercount": "8456",
+      "playerlimit": "21450629692",
+      "servercount": "23543"
+    },
+    "1456191226": {
+      "playercount": "9408",
+      "playerlimit": "21450830259",
+      "servercount": "23533"
+    },
+    "1456193034": {
+      "playercount": "8354",
+      "playerlimit": "21450688955",
+      "servercount": "23651"
+    },
+    "1456194843": {
+      "playercount": "8878",
+      "playerlimit": "21450706262",
+      "servercount": "23648"
+    },
+    "1456196651": {
+      "playercount": "7680",
+      "playerlimit": "21450709707",
+      "servercount": "23693"
+    },
+    "1456198460": {
+      "playercount": "7037",
+      "playerlimit": "21450948688",
+      "servercount": "23619"
+    },
+    "1456200267": {
+      "playercount": "6764",
+      "playerlimit": "19304515871",
+      "servercount": "21024"
+    },
+    "1456202074": {
+      "playercount": "6093",
+      "playerlimit": "19303203901",
+      "servercount": "19899"
+    },
+    "1456203882": {
+      "playercount": "5445",
+      "playerlimit": "19403184304",
+      "servercount": "19899"
+    },
+    "1456205689": {
+      "playercount": "5667",
+      "playerlimit": "19403158158",
+      "servercount": "19852"
+    },
+    "1456207496": {
+      "playercount": "4728",
+      "playerlimit": "19403182992",
+      "servercount": "19857"
+    },
+    "1456209303": {
+      "playercount": "4913",
+      "playerlimit": "19403199087",
+      "servercount": "19748"
+    },
+    "1456211110": {
+      "playercount": "4642",
+      "playerlimit": "19403181893",
+      "servercount": "19780"
+    },
+    "1456212917": {
+      "playercount": "4911",
+      "playerlimit": "19403193209",
+      "servercount": "19177"
+    },
+    "1456214724": {
+      "playercount": "4628",
+      "playerlimit": "19403099771",
+      "servercount": "18778"
+    },
+    "1456216531": {
+      "playercount": "4456",
+      "playerlimit": "19303089894",
+      "servercount": "17680"
+    },
+    "1456218337": {
+      "playercount": "4519",
+      "playerlimit": "19403109246",
+      "servercount": "17824"
+    },
+    "1456220144": {
+      "playercount": "4528",
+      "playerlimit": "21550533891",
+      "servercount": "17882"
+    },
+    "1456221950": {
+      "playercount": "4830",
+      "playerlimit": "21551860658",
+      "servercount": "18041"
+    },
+    "1456223757": {
+      "playercount": "5247",
+      "playerlimit": "19403073462",
+      "servercount": "18122"
+    },
+    "1456225564": {
+      "playercount": "5498",
+      "playerlimit": "19403082132",
+      "servercount": "18253"
+    },
+    "1456227370": {
+      "playercount": "6226",
+      "playerlimit": "19404378975",
+      "servercount": "18440"
+    },
+    "1456229177": {
+      "playercount": "6272",
+      "playerlimit": "19403075217",
+      "servercount": "18611"
+    },
+    "1456230984": {
+      "playercount": "6905",
+      "playerlimit": "21550548257",
+      "servercount": "18818"
+    },
+    "1456232790": {
+      "playercount": "6911",
+      "playerlimit": "21550540944",
+      "servercount": "19005"
+    },
+    "1456234597": {
+      "playercount": "7109",
+      "playerlimit": "21550662763",
+      "servercount": "19089"
+    },
+    "1456236404": {
+      "playercount": "6774",
+      "playerlimit": "21450542686",
+      "servercount": "19254"
+    },
+    "1456238211": {
+      "playercount": "6611",
+      "playerlimit": "23598057139",
+      "servercount": "19426"
+    },
+    "1456240018": {
+      "playercount": "6492",
+      "playerlimit": "21450674009",
+      "servercount": "19613"
+    },
+    "1456241825": {
+      "playercount": "6543",
+      "playerlimit": "21452597345",
+      "servercount": "19762"
+    },
+    "1456243632": {
+      "playercount": "6722",
+      "playerlimit": "21450580350",
+      "servercount": "20033"
+    },
+    "1456245440": {
+      "playercount": "6522",
+      "playerlimit": "21450621074",
+      "servercount": "20270"
+    },
+    "1456247247": {
+      "playercount": "6355",
+      "playerlimit": "21448597580",
+      "servercount": "20281"
+    },
+    "1456249054": {
+      "playercount": "6749",
+      "playerlimit": "21448595317",
+      "servercount": "20559"
+    },
+    "1456250861": {
+      "playercount": "6747",
+      "playerlimit": "21448596069",
+      "servercount": "20775"
+    },
+    "1456252669": {
+      "playercount": "6584",
+      "playerlimit": "21448594854",
+      "servercount": "20966"
+    },
+    "1456254476": {
+      "playercount": "6303",
+      "playerlimit": "21448604579",
+      "servercount": "21046"
+    },
+    "1456256284": {
+      "playercount": "6488",
+      "playerlimit": "21448497528",
+      "servercount": "21181"
+    },
+    "1456258091": {
+      "playercount": "6377",
+      "playerlimit": "21443190487",
+      "servercount": "21287"
+    },
+    "1456259899": {
+      "playercount": "6394",
+      "playerlimit": "21443186363",
+      "servercount": "21464"
+    },
+    "1456261707": {
+      "playercount": "6894",
+      "playerlimit": "21448634347",
+      "servercount": "21702"
+    },
+    "1456263514": {
+      "playercount": "7401",
+      "playerlimit": "21448545032",
+      "servercount": "21894"
+    },
+    "1456265322": {
+      "playercount": "7582",
+      "playerlimit": "21449711509",
+      "servercount": "22212"
+    },
+    "1456267130": {
+      "playercount": "7833",
+      "playerlimit": "21443278660",
+      "servercount": "22334"
+    },
+    "1456268937": {
+      "playercount": "8024",
+      "playerlimit": "21448473075",
+      "servercount": "22442"
+    },
+    "1456270745": {
+      "playercount": "8869",
+      "playerlimit": "21448472359",
+      "servercount": "22699"
+    },
+    "1456272554": {
+      "playercount": "9237",
+      "playerlimit": "21448383825",
+      "servercount": "23030"
+    },
+    "1456274362": {
+      "playercount": "9609",
+      "playerlimit": "24595957507",
+      "servercount": "23150"
+    },
+    "1456276170": {
+      "playercount": "9598",
+      "playerlimit": "21448479357",
+      "servercount": "23331"
+    },
+    "1456277978": {
+      "playercount": "9805",
+      "playerlimit": "21448719235",
+      "servercount": "23318"
+    },
+    "1456279786": {
+      "playercount": "9165",
+      "playerlimit": "21448483114",
+      "servercount": "23319"
+    },
+    "1456281594": {
+      "playercount": "8714",
+      "playerlimit": "21448485979",
+      "servercount": "23344"
+    },
+    "1456283402": {
+      "playercount": "7789",
+      "playerlimit": "21548491059",
+      "servercount": "23272"
+    },
+    "1456285210": {
+      "playercount": "7467",
+      "playerlimit": "21548479389",
+      "servercount": "23220"
+    },
+    "1456287018": {
+      "playercount": "6787",
+      "playerlimit": "21548482305",
+      "servercount": "23231"
+    },
+    "1456288826": {
+      "playercount": "6220",
+      "playerlimit": "21548484879",
+      "servercount": "23130"
+    },
+    "1456290635": {
+      "playercount": "5821",
+      "playerlimit": "21548497667",
+      "servercount": "23234"
+    },
+    "1456292443": {
+      "playercount": "5318",
+      "playerlimit": "21548485884",
+      "servercount": "23241"
+    },
+    "1456294251": {
+      "playercount": "5065",
+      "playerlimit": "21548518979",
+      "servercount": "23238"
+    },
+    "1456296059": {
+      "playercount": "4890",
+      "playerlimit": "19400995703",
+      "servercount": "23218"
+    },
+    "1456297867": {
+      "playercount": "4752",
+      "playerlimit": "19301295114",
+      "servercount": "23169"
+    },
+    "1456299675": {
+      "playercount": "4619",
+      "playerlimit": "19301604294",
+      "servercount": "23204"
+    },
+    "1456301483": {
+      "playercount": "4907",
+      "playerlimit": "19401335866",
+      "servercount": "23092"
+    },
+    "1456303292": {
+      "playercount": "4869",
+      "playerlimit": "19401293194",
+      "servercount": "23214"
+    },
+    "1456305100": {
+      "playercount": "4975",
+      "playerlimit": "19401008948",
+      "servercount": "23242"
+    },
+    "1456306908": {
+      "playercount": "5041",
+      "playerlimit": "19401193375",
+      "servercount": "23253"
+    },
+    "1456308716": {
+      "playercount": "5135",
+      "playerlimit": "21548378886",
+      "servercount": "23277"
+    },
+    "1456310525": {
+      "playercount": "5544",
+      "playerlimit": "21448502335",
+      "servercount": "23342"
+    },
+    "1456312333": {
+      "playercount": "5986",
+      "playerlimit": "21448405908",
+      "servercount": "23423"
+    },
+    "1456314141": {
+      "playercount": "6249",
+      "playerlimit": "21548489253",
+      "servercount": "23472"
+    },
+    "1456315950": {
+      "playercount": "7139",
+      "playerlimit": "19400972212",
+      "servercount": "23597"
+    },
+    "1456317758": {
+      "playercount": "7846",
+      "playerlimit": "19400988542",
+      "servercount": "23719"
+    },
+    "1456319567": {
+      "playercount": "8389",
+      "playerlimit": "19308113481",
+      "servercount": "23867"
+    },
+    "1456321375": {
+      "playercount": "8130",
+      "playerlimit": "19301313433",
+      "servercount": "23921"
+    },
+    "1456323184": {
+      "playercount": "7333",
+      "playerlimit": "19303313647",
+      "servercount": "24004"
+    },
+    "1456324993": {
+      "playercount": "7282",
+      "playerlimit": "21448916497",
+      "servercount": "24099"
+    },
+    "1456326801": {
+      "playercount": "6996",
+      "playerlimit": "19307964487",
+      "servercount": "24126"
+    },
+    "1456328610": {
+      "playercount": "6731",
+      "playerlimit": "19307671410",
+      "servercount": "24338"
+    },
+    "1456330419": {
+      "playercount": "6811",
+      "playerlimit": "19307694403",
+      "servercount": "24374"
+    },
+    "1456332228": {
+      "playercount": "6963",
+      "playerlimit": "19303033268",
+      "servercount": "24504"
+    },
+    "1456334037": {
+      "playercount": "6990",
+      "playerlimit": "19303040411",
+      "servercount": "24607"
+    },
+    "1456335845": {
+      "playercount": "6775",
+      "playerlimit": "19300986973",
+      "servercount": "21028"
+    },
+    "1456337653": {
+      "playercount": "6669",
+      "playerlimit": "19300973637",
+      "servercount": "21026"
+    },
+    "1456339461": {
+      "playercount": "6582",
+      "playerlimit": "19300958184",
+      "servercount": "21115"
+    },
+    "1456341269": {
+      "playercount": "6329",
+      "playerlimit": "19300959454",
+      "servercount": "21142"
+    },
+    "1456343077": {
+      "playercount": "6667",
+      "playerlimit": "19300967895",
+      "servercount": "21179"
+    },
+    "1456344885": {
+      "playercount": "6565",
+      "playerlimit": "19295775435",
+      "servercount": "21243"
+    },
+    "1456346693": {
+      "playercount": "6997",
+      "playerlimit": "19300972294",
+      "servercount": "21402"
+    },
+    "1456348501": {
+      "playercount": "7325",
+      "playerlimit": "19300978488",
+      "servercount": "21486"
+    },
+    "1456350310": {
+      "playercount": "7591",
+      "playerlimit": "19301638649",
+      "servercount": "21681"
+    },
+    "1456352118": {
+      "playercount": "7770",
+      "playerlimit": "19300966971",
+      "servercount": "21718"
+    },
+    "1456353926": {
+      "playercount": "8133",
+      "playerlimit": "19301974194",
+      "servercount": "21844"
+    },
+    "1456355735": {
+      "playercount": "8951",
+      "playerlimit": "19300985700",
+      "servercount": "21903"
+    },
+    "1456357543": {
+      "playercount": "9288",
+      "playerlimit": "19301983935",
+      "servercount": "22058"
+    },
+    "1456359352": {
+      "playercount": "9603",
+      "playerlimit": "19300982694",
+      "servercount": "22114"
+    },
+    "1456361160": {
+      "playercount": "9738",
+      "playerlimit": "19400982213",
+      "servercount": "22118"
+    },
+    "1456362969": {
+      "playercount": "9875",
+      "playerlimit": "19400980541",
+      "servercount": "22203"
+    },
+    "1456364778": {
+      "playercount": "9786",
+      "playerlimit": "19400975255",
+      "servercount": "22133"
+    },
+    "1456366586": {
+      "playercount": "9245",
+      "playerlimit": "19400992052",
+      "servercount": "22231"
+    },
+    "1456368395": {
+      "playercount": "9050",
+      "playerlimit": "19400977136",
+      "servercount": "22153"
+    },
+    "1456370204": {
+      "playercount": "8030",
+      "playerlimit": "19401985330",
+      "servercount": "22155"
+    },
+    "1456372013": {
+      "playercount": "7393",
+      "playerlimit": "19400984579",
+      "servercount": "22133"
+    },
+    "1456373821": {
+      "playercount": "6741",
+      "playerlimit": "19400978181",
+      "servercount": "22097"
+    },
+    "1456375630": {
+      "playercount": "5913",
+      "playerlimit": "19673733039",
+      "servercount": "22137"
+    },
+    "1456377439": {
+      "playercount": "5843",
+      "playerlimit": "19401367519",
+      "servercount": "22053"
+    },
+    "1456379248": {
+      "playercount": "5268",
+      "playerlimit": "19402263331",
+      "servercount": "22003"
+    },
+    "1456381056": {
+      "playercount": "4996",
+      "playerlimit": "19673714916",
+      "servercount": "22008"
+    },
+    "1456382865": {
+      "playercount": "4862",
+      "playerlimit": "19401288495",
+      "servercount": "21996"
+    },
+    "1456384674": {
+      "playercount": "4805",
+      "playerlimit": "21820888880",
+      "servercount": "22022"
+    },
+    "1456386483": {
+      "playercount": "4975",
+      "playerlimit": "19400971568",
+      "servercount": "22004"
+    },
+    "1456388292": {
+      "playercount": "4888",
+      "playerlimit": "21548320142",
+      "servercount": "22020"
+    },
+    "1456390101": {
+      "playercount": "4788",
+      "playerlimit": "21548636209",
+      "servercount": "22024"
+    },
+    "1456391910": {
+      "playercount": "4728",
+      "playerlimit": "19583286412",
+      "servercount": "22066"
+    },
+    "1456393718": {
+      "playercount": "4881",
+      "playerlimit": "19401157190",
+      "servercount": "22054"
+    },
+    "1456395527": {
+      "playercount": "5146",
+      "playerlimit": "19401144931",
+      "servercount": "22088"
+    },
+    "1456397336": {
+      "playercount": "5536",
+      "playerlimit": "19302885423",
+      "servercount": "22139"
+    },
+    "1456399145": {
+      "playercount": "6059",
+      "playerlimit": "19300893288",
+      "servercount": "22130"
+    },
+    "1456400954": {
+      "playercount": "6571",
+      "playerlimit": "19300894731",
+      "servercount": "22226"
+    },
+    "1456402763": {
+      "playercount": "7137",
+      "playerlimit": "21448340669",
+      "servercount": "22260"
+    },
+    "1456404572": {
+      "playercount": "7160",
+      "playerlimit": "19300872816",
+      "servercount": "22374"
+    },
+    "1456406381": {
+      "playercount": "7423",
+      "playerlimit": "19300861558",
+      "servercount": "22503"
+    },
+    "1456408190": {
+      "playercount": "7034",
+      "playerlimit": "21448350306",
+      "servercount": "22539"
+    },
+    "1456409999": {
+      "playercount": "6968",
+      "playerlimit": "19301978617",
+      "servercount": "22663"
+    },
+    "1456411809": {
+      "playercount": "6874",
+      "playerlimit": "19300951060",
+      "servercount": "22534"
+    },
+    "1456413618": {
+      "playercount": "6749",
+      "playerlimit": "19300862778",
+      "servercount": "22589"
+    },
+    "1456415427": {
+      "playercount": "6899",
+      "playerlimit": "21458333436",
+      "servercount": "22549"
+    },
+    "1456417236": {
+      "playercount": "6758",
+      "playerlimit": "19300897319",
+      "servercount": "22748"
+    },
+    "1456419045": {
+      "playercount": "6825",
+      "playerlimit": "19323023738",
+      "servercount": "23102"
+    },
+    "1456420854": {
+      "playercount": "6824",
+      "playerlimit": "19302861175",
+      "servercount": "23224"
+    },
+    "1456422663": {
+      "playercount": "6400",
+      "playerlimit": "17155372792",
+      "servercount": "23336"
+    },
+    "1456424473": {
+      "playercount": "6485",
+      "playerlimit": "21448344086",
+      "servercount": "23446"
+    },
+    "1456426282": {
+      "playercount": "6613",
+      "playerlimit": "17153366014",
+      "servercount": "23490"
+    },
+    "1456428091": {
+      "playercount": "6673",
+      "playerlimit": "19300860984",
+      "servercount": "23571"
+    },
+    "1456429901": {
+      "playercount": "6661",
+      "playerlimit": "21448348381",
+      "servercount": "23700"
+    },
+    "1456431710": {
+      "playercount": "6935",
+      "playerlimit": "19314442831",
+      "servercount": "23762"
+    },
+    "1456433519": {
+      "playercount": "7001",
+      "playerlimit": "19300863450",
+      "servercount": "23796"
+    },
+    "1456435329": {
+      "playercount": "7179",
+      "playerlimit": "19314443748",
+      "servercount": "23912"
+    },
+    "1456437138": {
+      "playercount": "7487",
+      "playerlimit": "21461924761",
+      "servercount": "23984"
+    },
+    "1456438948": {
+      "playercount": "7704",
+      "playerlimit": "19303228037",
+      "servercount": "24066"
+    },
+    "1456440757": {
+      "playercount": "7864",
+      "playerlimit": "19303225653",
+      "servercount": "24148"
+    },
+    "1456442567": {
+      "playercount": "8542",
+      "playerlimit": "18154744960",
+      "servercount": "24214"
+    },
+    "1456444376": {
+      "playercount": "8924",
+      "playerlimit": "19302228287",
+      "servercount": "24325"
+    },
+    "1456446186": {
+      "playercount": "9433",
+      "playerlimit": "19302237472",
+      "servercount": "24334"
+    },
+    "1456447996": {
+      "playercount": "9755",
+      "playerlimit": "17254750796",
+      "servercount": "24392"
+    },
+    "1456449805": {
+      "playercount": "10184",
+      "playerlimit": "19402239763",
+      "servercount": "24428"
+    },
+    "1456451615": {
+      "playercount": "9437",
+      "playerlimit": "19402222286",
+      "servercount": "24456"
+    },
+    "1456453425": {
+      "playercount": "9208",
+      "playerlimit": "19392132361",
+      "servercount": "24413"
+    },
+    "1456455234": {
+      "playercount": "8494",
+      "playerlimit": "19392141877",
+      "servercount": "24392"
+    },
+    "1456457044": {
+      "playercount": "7812",
+      "playerlimit": "19666579676",
+      "servercount": "24336"
+    },
+    "1456458854": {
+      "playercount": "7199",
+      "playerlimit": "19394195615",
+      "servercount": "24282"
+    },
+    "1456460663": {
+      "playercount": "6773",
+      "playerlimit": "19294015366",
+      "servercount": "24060"
+    },
+    "1456462473": {
+      "playercount": "6062",
+      "playerlimit": "19293732208",
+      "servercount": "23785"
+    },
+    "1456464282": {
+      "playercount": "6063",
+      "playerlimit": "12851563336",
+      "servercount": "23615"
+    },
+    "1456466091": {
+      "playercount": "5911",
+      "playerlimit": "12851640304",
+      "servercount": "23595"
+    },
+    "1456467900": {
+      "playercount": "5287",
+      "playerlimit": "12851223482",
+      "servercount": "20739"
+    },
+    "1456469708": {
+      "playercount": "5053",
+      "playerlimit": "12851222794",
+      "servercount": "20738"
+    },
+    "1456471516": {
+      "playercount": "5134",
+      "playerlimit": "12951755431",
+      "servercount": "20759"
+    },
+    "1456473324": {
+      "playercount": "5361",
+      "playerlimit": "12851120217",
+      "servercount": "20789"
+    },
+    "1456475133": {
+      "playercount": "5452",
+      "playerlimit": "15018870649",
+      "servercount": "20850"
+    },
+    "1456476941": {
+      "playercount": "5363",
+      "playerlimit": "12851543936",
+      "servercount": "20870"
+    },
+    "1456478749": {
+      "playercount": "5767",
+      "playerlimit": "12851529040",
+      "servercount": "20904"
+    },
+    "1456480558": {
+      "playercount": "6065",
+      "playerlimit": "12852219574",
+      "servercount": "20983"
+    },
+    "1456482366": {
+      "playercount": "5881",
+      "playerlimit": "12851235902",
+      "servercount": "21042"
+    },
+    "1456484174": {
+      "playercount": "6327",
+      "playerlimit": "12869538660",
+      "servercount": "21122"
+    },
+    "1456485983": {
+      "playercount": "6926",
+      "playerlimit": "12851882322",
+      "servercount": "21163"
+    },
+    "1456487791": {
+      "playercount": "7586",
+      "playerlimit": "12940161538",
+      "servercount": "21296"
+    },
+    "1456489600": {
+      "playercount": "7972",
+      "playerlimit": "10703805145",
+      "servercount": "21437"
+    },
+    "1456491408": {
+      "playercount": "8762",
+      "playerlimit": "10703789329",
+      "servercount": "21623"
+    },
+    "1456493217": {
+      "playercount": "8681",
+      "playerlimit": "10802300039",
+      "servercount": "21719"
+    },
+    "1456495026": {
+      "playercount": "8484",
+      "playerlimit": "9223372047669144414",
+      "servercount": "21906"
+    },
+    "1456496834": {
+      "playercount": "8336",
+      "playerlimit": "9223372047569090561",
+      "servercount": "22032"
+    },
+    "1456498643": {
+      "playercount": "8119",
+      "playerlimit": "9223372047569175566",
+      "servercount": "22141"
+    },
+    "1456500452": {
+      "playercount": "8353",
+      "playerlimit": "9223372047569042284",
+      "servercount": "22220"
+    },
+    "1456502261": {
+      "playercount": "8160",
+      "playerlimit": "9223372047667048140",
+      "servercount": "22413"
+    },
+    "1456504070": {
+      "playercount": "8117",
+      "playerlimit": "9223372047668041127",
+      "servercount": "22564"
+    },
+    "1456505879": {
+      "playercount": "8164",
+      "playerlimit": "9223372047667056851",
+      "servercount": "22695"
+    },
+    "1456507688": {
+      "playercount": "7767",
+      "playerlimit": "9223372047667051928",
+      "servercount": "22845"
+    },
+    "1456509497": {
+      "playercount": "7783",
+      "playerlimit": "9223372047667050198",
+      "servercount": "22994"
+    },
+    "1456511306": {
+      "playercount": "7906",
+      "playerlimit": "9223372047667047577",
+      "servercount": "23149"
+    },
+    "1456513115": {
+      "playercount": "7389",
+      "playerlimit": "9223372047662549519",
+      "servercount": "23344"
+    },
+    "1456514924": {
+      "playercount": "7633",
+      "playerlimit": "18446744086670037555",
+      "servercount": "23428"
+    },
+    "1456516733": {
+      "playercount": "7768",
+      "playerlimit": "9223372049814503627",
+      "servercount": "23570"
+    },
+    "1456518543": {
+      "playercount": "8358",
+      "playerlimit": "9223372049814523230",
+      "servercount": "23680"
+    },
+    "1456520352": {
+      "playercount": "8113",
+      "playerlimit": "9223372049814509259",
+      "servercount": "23886"
+    },
+    "1456522161": {
+      "playercount": "9089",
+      "playerlimit": "9223372049814555520",
+      "servercount": "23936"
+    },
+    "1456523971": {
+      "playercount": "9322",
+      "playerlimit": "9223372049814519953",
+      "servercount": "24198"
+    },
+    "1456525780": {
+      "playercount": "9545",
+      "playerlimit": "9223372049814518751",
+      "servercount": "24338"
+    },
+    "1456527590": {
+      "playercount": "9338",
+      "playerlimit": "9223372049816513486",
+      "servercount": "24445"
+    },
+    "1456529400": {
+      "playercount": "9678",
+      "playerlimit": "9223372049814539843",
+      "servercount": "24623"
+    },
+    "1456531209": {
+      "playercount": "10010",
+      "playerlimit": "9223372049814530096",
+      "servercount": "24731"
+    },
+    "1456533019": {
+      "playercount": "10474",
+      "playerlimit": "9223372051964030351",
+      "servercount": "24937"
+    },
+    "1456534829": {
+      "playercount": "9950",
+      "playerlimit": "9223372052064029153",
+      "servercount": "24984"
+    },
+    "1456536639": {
+      "playercount": "10838",
+      "playerlimit": "9223372049914546293",
+      "servercount": "25249"
+    },
+    "1456538449": {
+      "playercount": "10552",
+      "playerlimit": "9223372049914550692",
+      "servercount": "25360"
+    },
+    "1456540259": {
+      "playercount": "11253",
+      "playerlimit": "9223372047667074859",
+      "servercount": "25462"
+    },
+    "1456542069": {
+      "playercount": "10908",
+      "playerlimit": "9223372048667079996",
+      "servercount": "25634"
+    },
+    "1456543879": {
+      "playercount": "10913",
+      "playerlimit": "9223372048682307834",
+      "servercount": "25730"
+    },
+    "1456545689": {
+      "playercount": "10185",
+      "playerlimit": "9223372050829799772",
+      "servercount": "25795"
+    },
+    "1456547500": {
+      "playercount": "9797",
+      "playerlimit": "9223372050814622401",
+      "servercount": "25955"
+    },
+    "1456549310": {
+      "playercount": "9169",
+      "playerlimit": "9223372050814551766",
+      "servercount": "26026"
+    },
+    "1456551120": {
+      "playercount": "8941",
+      "playerlimit": "9223372052962043867",
+      "servercount": "26101"
+    },
+    "1456552931": {
+      "playercount": "8737",
+      "playerlimit": "9223372050814567351",
+      "servercount": "26201"
+    },
+    "1456554741": {
+      "playercount": "8182",
+      "playerlimit": "9223372050815556395",
+      "servercount": "26230"
+    },
+    "1456556552": {
+      "playercount": "8415",
+      "playerlimit": "9223372050815298887",
+      "servercount": "26325"
+    },
+    "1456558363": {
+      "playercount": "8128",
+      "playerlimit": "9223372048667798917",
+      "servercount": "26418"
+    },
+    "1456560173": {
+      "playercount": "8190",
+      "playerlimit": "9223372048667787454",
+      "servercount": "26517"
+    },
+    "1456561983": {
+      "playercount": "8253",
+      "playerlimit": "9224372048667810474",
+      "servercount": "26418"
+    },
+    "1456563794": {
+      "playercount": "8244",
+      "playerlimit": "9224372048940274270",
+      "servercount": "26602"
+    },
+    "1456565604": {
+      "playercount": "8500",
+      "playerlimit": "9224372048940674933",
+      "servercount": "26739"
+    },
+    "1456567415": {
+      "playercount": "8484",
+      "playerlimit": "9223372050814737750",
+      "servercount": "26889"
+    },
+    "1456569225": {
+      "playercount": "8872",
+      "playerlimit": "9223372047667319890",
+      "servercount": "26944"
+    },
+    "1456571036": {
+      "playercount": "8986",
+      "playerlimit": "18446744084525067374",
+      "servercount": "27114"
+    },
+    "1456572847": {
+      "playercount": "9119",
+      "playerlimit": "18446744084794964311",
+      "servercount": "27307"
+    },
+    "1456574658": {
+      "playercount": "9708",
+      "playerlimit": "18446744084521861569",
+      "servercount": "27463"
+    },
+    "1456576469": {
+      "playercount": "10224",
+      "playerlimit": "18446744086794326027",
+      "servercount": "27583"
+    },
+    "1456578280": {
+      "playercount": "10680",
+      "playerlimit": "18446744086522012608",
+      "servercount": "27735"
+    },
+    "1456580091": {
+      "playercount": "11337",
+      "playerlimit": "18446744086794291651",
+      "servercount": "27868"
+    },
+    "1456581902": {
+      "playercount": "12082",
+      "playerlimit": "9223372049667167104",
+      "servercount": "28019"
+    },
+    "1456583713": {
+      "playercount": "11711",
+      "playerlimit": "9223372049682335628",
+      "servercount": "28211"
+    },
+    "1456585524": {
+      "playercount": "11803",
+      "playerlimit": "9223372051729951261",
+      "servercount": "28166"
+    },
+    "1456587335": {
+      "playercount": "12191",
+      "playerlimit": "9223372049567132212",
+      "servercount": "28348"
+    },
+    "1456589147": {
+      "playercount": "11841",
+      "playerlimit": "9223372047419662734",
+      "servercount": "28675"
+    },
+    "1456590958": {
+      "playercount": "12381",
+      "playerlimit": "9223372047420606986",
+      "servercount": "27879"
+    },
+    "1456592768": {
+      "playercount": "11723",
+      "playerlimit": "9223372047419610890",
+      "servercount": "26536"
+    },
+    "1456594578": {
+      "playercount": "11942",
+      "playerlimit": "9223372049567859683",
+      "servercount": "24334"
+    },
+    "1456596387": {
+      "playercount": "11159",
+      "playerlimit": "9223372047419590362",
+      "servercount": "24589"
+    },
+    "1456598197": {
+      "playercount": "11887",
+      "playerlimit": "9223372047419590874",
+      "servercount": "24099"
+    },
+    "1456600006": {
+      "playercount": "11068",
+      "playerlimit": "9223372047419654430",
+      "servercount": "24264"
+    },
+    "1456601816": {
+      "playercount": "11139",
+      "playerlimit": "9223372047419648777",
+      "servercount": "24447"
+    },
+    "1456603626": {
+      "playercount": "11005",
+      "playerlimit": "9223372047419630971",
+      "servercount": "24709"
+    },
+    "1456605435": {
+      "playercount": "11168",
+      "playerlimit": "9223372047419615570",
+      "servercount": "24933"
+    },
+    "1456607245": {
+      "playercount": "10593",
+      "playerlimit": "9223372049567095424",
+      "servercount": "24987"
+    },
+    "1456609055": {
+      "playercount": "10821",
+      "playerlimit": "9223372049567116786",
+      "servercount": "25305"
+    },
+    "1456610865": {
+      "playercount": "10611",
+      "playerlimit": "9223372049567091481",
+      "servercount": "25516"
+    },
+    "1456612675": {
+      "playercount": "10871",
+      "playerlimit": "9223372047692054117",
+      "servercount": "25637"
+    },
+    "1456614485": {
+      "playercount": "10801",
+      "playerlimit": "9223372049567102553",
+      "servercount": "25721"
+    },
+    "1456616295": {
+      "playercount": "11419",
+      "playerlimit": "9223372047419609011",
+      "servercount": "25780"
+    },
+    "1456618105": {
+      "playercount": "11684",
+      "playerlimit": "9223372047419623060",
+      "servercount": "25905"
+    },
+    "1456619915": {
+      "playercount": "12179",
+      "playerlimit": "9223372047419609919",
+      "servercount": "26007"
+    },
+    "1456621725": {
+      "playercount": "12504",
+      "playerlimit": "9223372047509424429",
+      "servercount": "26187"
+    },
+    "1456623535": {
+      "playercount": "12516",
+      "playerlimit": "9223372047419617117",
+      "servercount": "26254"
+    },
+    "1456625345": {
+      "playercount": "12234",
+      "playerlimit": "9223372047419608956",
+      "servercount": "24017"
+    },
+    "1456627154": {
+      "playercount": "11922",
+      "playerlimit": "9223372047419590745",
+      "servercount": "24059"
+    },
+    "1456628963": {
+      "playercount": "11932",
+      "playerlimit": "9223372047419601836",
+      "servercount": "24180"
+    },
+    "1456630772": {
+      "playercount": "11659",
+      "playerlimit": "9223372047419595975",
+      "servercount": "24191"
+    },
+    "1456632582": {
+      "playercount": "11313",
+      "playerlimit": "9223372047419601637",
+      "servercount": "24224"
+    },
+    "1456634391": {
+      "playercount": "10921",
+      "playerlimit": "9223372047693483943",
+      "servercount": "24294"
+    },
+    "1456636201": {
+      "playercount": "10438",
+      "playerlimit": "9223372047420008619",
+      "servercount": "24337"
+    },
+    "1456638010": {
+      "playercount": "10135",
+      "playerlimit": "9223372047419997060",
+      "servercount": "24408"
+    },
+    "1456639820": {
+      "playercount": "9341",
+      "playerlimit": "9223372047420113090",
+      "servercount": "24470"
+    },
+    "1456641629": {
+      "playercount": "9355",
+      "playerlimit": "9223372047420113705",
+      "servercount": "24508"
+    },
+    "1456643439": {
+      "playercount": "9807",
+      "playerlimit": "9223372047420888359",
+      "servercount": "24582"
+    },
+    "1456645248": {
+      "playercount": "9379",
+      "playerlimit": "9223372047420725036",
+      "servercount": "24579"
+    },
+    "1456647058": {
+      "playercount": "9564",
+      "playerlimit": "9223372047620025893",
+      "servercount": "24764"
+    },
+    "1456648868": {
+      "playercount": "9838",
+      "playerlimit": "9223372047423027780",
+      "servercount": "24816"
+    },
+    "1456650678": {
+      "playercount": "9898",
+      "playerlimit": "9223372047422004758",
+      "servercount": "24862"
+    },
+    "1456652487": {
+      "playercount": "9636",
+      "playerlimit": "9223372047423491945",
+      "servercount": "24916"
+    },
+    "1456654297": {
+      "playercount": "9834",
+      "playerlimit": "9223372047423031876",
+      "servercount": "25052"
+    },
+    "1456656107": {
+      "playercount": "9622",
+      "playerlimit": "9223372047421505421",
+      "servercount": "25152"
+    },
+    "1456657917": {
+      "playercount": "9720",
+      "playerlimit": "9223372049569515385",
+      "servercount": "25290"
+    },
+    "1456659726": {
+      "playercount": "10068",
+      "playerlimit": "9223372047423188910",
+      "servercount": "25400"
+    },
+    "1456661536": {
+      "playercount": "10150",
+      "playerlimit": "9223372047522554112",
+      "servercount": "25507"
+    },
+    "1456663346": {
+      "playercount": "10950",
+      "playerlimit": "9223372047522613752",
+      "servercount": "25648"
+    },
+    "1456665157": {
+      "playercount": "11356",
+      "playerlimit": "9223372047795010713",
+      "servercount": "25860"
+    },
+    "1456666967": {
+      "playercount": "11733",
+      "playerlimit": "9223372047522570519",
+      "servercount": "25908"
+    },
+    "1456668777": {
+      "playercount": "12232",
+      "playerlimit": "9223372047420615121",
+      "servercount": "26066"
+    },
+    "1456670587": {
+      "playercount": "12578",
+      "playerlimit": "9223372045419517298",
+      "servercount": "26219"
+    },
+    "1456672397": {
+      "playercount": "12290",
+      "playerlimit": "9223372045419499856",
+      "servercount": "26403"
+    },
+    "1456674207": {
+      "playercount": "12551",
+      "playerlimit": "9223372045439659208",
+      "servercount": "26510"
+    },
+    "1456676017": {
+      "playercount": "12659",
+      "playerlimit": "9223372045419506250",
+      "servercount": "26756"
+    },
+    "1456677827": {
+      "playercount": "13256",
+      "playerlimit": "9223372045419551527",
+      "servercount": "26964"
+    },
+    "1456679638": {
+      "playercount": "12639",
+      "playerlimit": "9223372045419504936",
+      "servercount": "27049"
+    },
+    "1456681448": {
+      "playercount": "12406",
+      "playerlimit": "9223372045419516329",
+      "servercount": "27280"
+    },
+    "1456683259": {
+      "playercount": "12511",
+      "playerlimit": "9223372045420516338",
+      "servercount": "27428"
+    },
+    "1456685069": {
+      "playercount": "12681",
+      "playerlimit": "9223372045420521225",
+      "servercount": "27589"
+    },
+    "1456686880": {
+      "playercount": "12160",
+      "playerlimit": "9223372045420515898",
+      "servercount": "27745"
+    },
+    "1456688690": {
+      "playercount": "12047",
+      "playerlimit": "9223372045420513618",
+      "servercount": "27859"
+    },
+    "1456690501": {
+      "playercount": "11415",
+      "playerlimit": "9223372045419491061",
+      "servercount": "27924"
+    },
+    "1456692312": {
+      "playercount": "11134",
+      "playerlimit": "9223372045419493610",
+      "servercount": "28087"
+    },
+    "1456694122": {
+      "playercount": "10917",
+      "playerlimit": "9223372045419517198",
+      "servercount": "28214"
+    },
+    "1456695933": {
+      "playercount": "10419",
+      "playerlimit": "9223372046419519334",
+      "servercount": "28135"
+    },
+    "1456697744": {
+      "playercount": "9913",
+      "playerlimit": "9223372046420345817",
+      "servercount": "28203"
+    },
+    "1456699555": {
+      "playercount": "10276",
+      "playerlimit": "9223372046420572903",
+      "servercount": "28237"
+    },
+    "1456701366": {
+      "playercount": "10386",
+      "playerlimit": "9223372046419491255",
+      "servercount": "28246"
+    },
+    "1456703177": {
+      "playercount": "10794",
+      "playerlimit": "9223372047419490579",
+      "servercount": "28265"
+    },
+    "1456704987": {
+      "playercount": "11087",
+      "playerlimit": "9223372047419506396",
+      "servercount": "28279"
+    },
+    "1456706798": {
+      "playercount": "11559",
+      "playerlimit": "10664738868",
+      "servercount": "28295"
+    },
+    "1456708609": {
+      "playercount": "11513",
+      "playerlimit": "12812758003",
+      "servercount": "28250"
+    },
+    "1456710420": {
+      "playercount": "11176",
+      "playerlimit": "12812742851",
+      "servercount": "28271"
+    },
+    "1456712230": {
+      "playercount": "11163",
+      "playerlimit": "12812742000",
+      "servercount": "28189"
+    },
+    "1456714041": {
+      "playercount": "10277",
+      "playerlimit": "12812735425",
+      "servercount": "28131"
+    },
+    "1456715852": {
+      "playercount": "8912",
+      "playerlimit": "10665249552",
+      "servercount": "27990"
+    },
+    "1456717662": {
+      "playercount": "8443",
+      "playerlimit": "12712728752",
+      "servercount": "27852"
+    },
+    "1456719473": {
+      "playercount": "7445",
+      "playerlimit": "12712729304",
+      "servercount": "27798"
+    },
+    "1456721283": {
+      "playercount": "7062",
+      "playerlimit": "12712866125",
+      "servercount": "27685"
+    },
+    "1456723094": {
+      "playercount": "6294",
+      "playerlimit": "12712749802",
+      "servercount": "27601"
+    },
+    "1456724904": {
+      "playercount": "6184",
+      "playerlimit": "12822850457",
+      "servercount": "27559"
+    },
+    "1456726715": {
+      "playercount": "5482",
+      "playerlimit": "12722743237",
+      "servercount": "27424"
+    },
+    "1456728525": {
+      "playercount": "5522",
+      "playerlimit": "12722736588",
+      "servercount": "26648"
+    },
+    "1456730334": {
+      "playercount": "4993",
+      "playerlimit": "12722810903",
+      "servercount": "22953"
+    },
+    "1456732142": {
+      "playercount": "4985",
+      "playerlimit": "12722722449",
+      "servercount": "22962"
+    },
+    "1456733951": {
+      "playercount": "5003",
+      "playerlimit": "12722717380",
+      "servercount": "22815"
+    },
+    "1456735760": {
+      "playercount": "5234",
+      "playerlimit": "12722814318",
+      "servercount": "22816"
+    },
+    "1456737569": {
+      "playercount": "5213",
+      "playerlimit": "10722711035",
+      "servercount": "22741"
+    },
+    "1456739377": {
+      "playercount": "5228",
+      "playerlimit": "8575227298",
+      "servercount": "22712"
+    },
+    "1456741186": {
+      "playercount": "5567",
+      "playerlimit": "8849671113",
+      "servercount": "22650"
+    },
+    "1456742995": {
+      "playercount": "5972",
+      "playerlimit": "8577169668",
+      "servercount": "22627"
+    },
+    "1456744803": {
+      "playercount": "6096",
+      "playerlimit": "10576450122",
+      "servercount": "22740"
+    },
+    "1456746612": {
+      "playercount": "6792",
+      "playerlimit": "10576643077",
+      "servercount": "22765"
+    },
+    "1456748421": {
+      "playercount": "7135",
+      "playerlimit": "10579213015",
+      "servercount": "22778"
+    },
+    "1456750230": {
+      "playercount": "7395",
+      "playerlimit": "10576435030",
+      "servercount": "22811"
+    },
+    "1456752039": {
+      "playercount": "7446",
+      "playerlimit": "12723609277",
+      "servercount": "22816"
+    },
+    "1456753847": {
+      "playercount": "7487",
+      "playerlimit": "10598570859",
+      "servercount": "22867"
+    },
+    "1456755656": {
+      "playercount": "7087",
+      "playerlimit": "10575168685",
+      "servercount": "22852"
+    },
+    "1456757465": {
+      "playercount": "7215",
+      "playerlimit": "10575144834",
+      "servercount": "22889"
+    },
+    "1456759274": {
+      "playercount": "6886",
+      "playerlimit": "10575150150",
+      "servercount": "22782"
+    },
+    "1456761083": {
+      "playercount": "7188",
+      "playerlimit": "10575095071",
+      "servercount": "22791"
+    },
+    "1456762891": {
+      "playercount": "7312",
+      "playerlimit": "10575103633",
+      "servercount": "22870"
+    },
+    "1456764700": {
+      "playercount": "7503",
+      "playerlimit": "10575145466",
+      "servercount": "24994"
+    },
+    "1456766509": {
+      "playercount": "7469",
+      "playerlimit": "10575161915",
+      "servercount": "25044"
+    },
+    "1456768318": {
+      "playercount": "7441",
+      "playerlimit": "10675145592",
+      "servercount": "25083"
+    },
+    "1456770127": {
+      "playercount": "7363",
+      "playerlimit": "10675144196",
+      "servercount": "25121"
+    },
+    "1456771936": {
+      "playercount": "7197",
+      "playerlimit": "10575154443",
+      "servercount": "25079"
+    },
+    "1456773745": {
+      "playercount": "7162",
+      "playerlimit": "10575140742",
+      "servercount": "25064"
+    },
+    "1456775554": {
+      "playercount": "7185",
+      "playerlimit": "10575135775",
+      "servercount": "24972"
+    },
+    "1456777363": {
+      "playercount": "7174",
+      "playerlimit": "10575151092",
+      "servercount": "24910"
+    },
+    "1456779172": {
+      "playercount": "7646",
+      "playerlimit": "10585141580",
+      "servercount": "24979"
+    },
+    "1456780981": {
+      "playercount": "8100",
+      "playerlimit": "10585160607",
+      "servercount": "24925"
+    },
+    "1456782790": {
+      "playercount": "8828",
+      "playerlimit": "10585126828",
+      "servercount": "25065"
+    },
+    "1456784599": {
+      "playercount": "8934",
+      "playerlimit": "10576029385",
+      "servercount": "25045"
+    },
+    "1456786409": {
+      "playercount": "9344",
+      "playerlimit": "10575236832",
+      "servercount": "25219"
+    },
+    "1456788218": {
+      "playercount": "9802",
+      "playerlimit": "10576169581",
+      "servercount": "25258"
+    },
+    "1456790027": {
+      "playercount": "10427",
+      "playerlimit": "10575149579",
+      "servercount": "25344"
+    },
+    "1456791836": {
+      "playercount": "11152",
+      "playerlimit": "10575139845",
+      "servercount": "25437"
+    },
+    "1456793645": {
+      "playercount": "11721",
+      "playerlimit": "10575144260",
+      "servercount": "25447"
+    },
+    "1456795455": {
+      "playercount": "10824",
+      "playerlimit": "10575132615",
+      "servercount": "25317"
+    },
+    "1456797264": {
+      "playercount": "11072",
+      "playerlimit": "10575137453",
+      "servercount": "24898"
+    },
+    "1456799073": {
+      "playercount": "10475",
+      "playerlimit": "10575150787",
+      "servercount": "25166"
+    },
+    "1456800882": {
+      "playercount": "9813",
+      "playerlimit": "10847600610",
+      "servercount": "25388"
+    },
+    "1456802692": {
+      "playercount": "8860",
+      "playerlimit": "10575138925",
+      "servercount": "24890"
+    },
+    "1456804501": {
+      "playercount": "8005",
+      "playerlimit": "10576836517",
+      "servercount": "24588"
+    },
+    "1456806310": {
+      "playercount": "7295",
+      "playerlimit": "10575143599",
+      "servercount": "25034"
+    },
+    "1456808119": {
+      "playercount": "6588",
+      "playerlimit": "10675132706",
+      "servercount": "24429"
+    },
+    "1456809928": {
+      "playercount": "6034",
+      "playerlimit": "10575144906",
+      "servercount": "24386"
+    },
+    "1456811737": {
+      "playercount": "5702",
+      "playerlimit": "10575154192",
+      "servercount": "24868"
+    },
+    "1456813546": {
+      "playercount": "5273",
+      "playerlimit": "10675142032",
+      "servercount": "24777"
+    },
+    "1456815355": {
+      "playercount": "5327",
+      "playerlimit": "10575121706",
+      "servercount": "22289"
+    },
+    "1456817163": {
+      "playercount": "5278",
+      "playerlimit": "8575135034",
+      "servercount": "22222"
+    },
+    "1456818972": {
+      "playercount": "4997",
+      "playerlimit": "8575140681",
+      "servercount": "22178"
+    },
+    "1456820780": {
+      "playercount": "5409",
+      "playerlimit": "10581811046",
+      "servercount": "22052"
+    },
+    "1456822588": {
+      "playercount": "5266",
+      "playerlimit": "10566150480",
+      "servercount": "21998"
+    },
+    "1456824396": {
+      "playercount": "5493",
+      "playerlimit": "10566142754",
+      "servercount": "22013"
+    },
+    "1456826204": {
+      "playercount": "5586",
+      "playerlimit": "10565145452",
+      "servercount": "21963"
+    },
+    "1456828013": {
+      "playercount": "5450",
+      "playerlimit": "11566155930",
+      "servercount": "21934"
+    },
+    "1456829821": {
+      "playercount": "5824",
+      "playerlimit": "10565271312",
+      "servercount": "21953"
+    },
+    "1456831629": {
+      "playercount": "6132",
+      "playerlimit": "10464102773",
+      "servercount": "21931"
+    },
+    "1456833437": {
+      "playercount": "6922",
+      "playerlimit": "12611610182",
+      "servercount": "21978"
+    },
+    "1456835246": {
+      "playercount": "6960",
+      "playerlimit": "10464122375",
+      "servercount": "22029"
+    },
+    "1456837054": {
+      "playercount": "7617",
+      "playerlimit": "11464139991",
+      "servercount": "22107"
+    },
+    "1456838862": {
+      "playercount": "7519",
+      "playerlimit": "10464105896",
+      "servercount": "22142"
+    },
+    "1456840671": {
+      "playercount": "7288",
+      "playerlimit": "10464114990",
+      "servercount": "22165"
+    },
+    "1456842479": {
+      "playercount": "6691",
+      "playerlimit": "10464091790",
+      "servercount": "22123"
+    },
+    "1456844287": {
+      "playercount": "6441",
+      "playerlimit": "10464098304",
+      "servercount": "22034"
+    },
+    "1456846095": {
+      "playercount": "6466",
+      "playerlimit": "10464103568",
+      "servercount": "22117"
+    },
+    "1456847904": {
+      "playercount": "6727",
+      "playerlimit": "10484085715",
+      "servercount": "22099"
+    },
+    "1456849712": {
+      "playercount": "7024",
+      "playerlimit": "10464079806",
+      "servercount": "22179"
+    },
+    "1456851521": {
+      "playercount": "7164",
+      "playerlimit": "8561962293",
+      "servercount": "22073"
+    },
+    "1456853329": {
+      "playercount": "6923",
+      "playerlimit": "8561964451",
+      "servercount": "22114"
+    },
+    "1456855137": {
+      "playercount": "6880",
+      "playerlimit": "8561956917",
+      "servercount": "22179"
+    },
+    "1456856945": {
+      "playercount": "7018",
+      "playerlimit": "8561942714",
+      "servercount": "22103"
+    },
+    "1456858754": {
+      "playercount": "6894",
+      "playerlimit": "8561951936",
+      "servercount": "22134"
+    },
+    "1456860562": {
+      "playercount": "6976",
+      "playerlimit": "6561949949",
+      "servercount": "22050"
+    },
+    "1456862370": {
+      "playercount": "7065",
+      "playerlimit": "6582810626",
+      "servercount": "22137"
+    },
+    "1456864179": {
+      "playercount": "7365",
+      "playerlimit": "6561950352",
+      "servercount": "22116"
+    },
+    "1456865987": {
+      "playercount": "7522",
+      "playerlimit": "6562732640",
+      "servercount": "22264"
+    },
+    "1456867795": {
+      "playercount": "8194",
+      "playerlimit": "6561950471",
+      "servercount": "22275"
+    },
+    "1456869604": {
+      "playercount": "8185",
+      "playerlimit": "6562031193",
+      "servercount": "22285"
+    },
+    "1456871412": {
+      "playercount": "9117",
+      "playerlimit": "6562035106",
+      "servercount": "22385"
+    },
+    "1456873221": {
+      "playercount": "9165",
+      "playerlimit": "8709442281",
+      "servercount": "22487"
+    },
+    "1456875029": {
+      "playercount": "9349",
+      "playerlimit": "6561964935",
+      "servercount": "22606"
+    },
+    "1456876838": {
+      "playercount": "9247",
+      "playerlimit": "6561949535",
+      "servercount": "22794"
+    },
+    "1456878646": {
+      "playercount": "9528",
+      "playerlimit": "118981138",
+      "servercount": "22244"
+    },
+    "1456880455": {
+      "playercount": "9416",
+      "playerlimit": "2883749741228888",
+      "servercount": "22273"
+    },
+    "1456882264": {
+      "playercount": "9353",
+      "playerlimit": "2883753938349133",
+      "servercount": "23023"
+    },
+    "1456884073": {
+      "playercount": "9030",
+      "playerlimit": "2883754036230819",
+      "servercount": "23044"
+    },
+    "1456885881": {
+      "playercount": "8167",
+      "playerlimit": "6561456319",
+      "servercount": "23028"
+    },
+    "1456887690": {
+      "playercount": "7310",
+      "playerlimit": "6561457674",
+      "servercount": "22945"
+    }
+  },
+  "status": true
+}
