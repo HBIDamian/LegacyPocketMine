@@ -16,6 +16,8 @@ if(window.location.host != ("www.pocke"+"tmine.net") && window.location.host.ind
   }
 ```
 
+I have also created a [Tampermonkey](https://www.tampermonkey.net/) script in https://github.com/HBIDamian/LegacyPocketMine/blob/main/tampermonkey_fix-pm-sites.user.js that may fix this issue. Although, milage may vary!
+
 ## Contribute
 If you wish to contribute to this project, please keep the following in mind:
 
